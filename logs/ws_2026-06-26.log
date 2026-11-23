@@ -1,0 +1,1433 @@
+[2026-06-26T00:00:26.148Z] client connected — ip=2603:6080:cf0:83b0:579b:67c4:309b:8e32 player=bc3580d3-d6c5-4310-8499-813f495b72cc ccu=2 token_sub=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T00:00:26.148Z]   JWT: sub=bc3580d3-d6c5-4310-8499-813f495b72cc iss=? exp=1782439225
+[2026-06-26T00:00:26.149Z] → greeting to player=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T00:02:22.743Z] client connected — ip=24.7.26.236 player=7296be35-4cab-4d08-b26d-3f843637a636 ccu=3 token_sub=7296be35-4cab-4d08-b26d-3f843637a636
+[2026-06-26T00:02:22.744Z]   JWT: sub=7296be35-4cab-4d08-b26d-3f843637a636 iss=? exp=1782439341
+[2026-06-26T00:02:22.745Z] → greeting to player=7296be35-4cab-4d08-b26d-3f843637a636
+[2026-06-26T00:06:21.323Z] client connected — ip=2607:fb91:5003:5915:55ae:ce88:d768:bb2 player=449de884-d283-4826-ad86-9e4d8ab3313d ccu=4 token_sub=449de884-d283-4826-ad86-9e4d8ab3313d
+[2026-06-26T00:06:21.324Z]   JWT: sub=449de884-d283-4826-ad86-9e4d8ab3313d iss=? exp=1782434814
+[2026-06-26T00:06:21.324Z] → greeting to player=449de884-d283-4826-ad86-9e4d8ab3313d
+[2026-06-26T00:07:49.290Z] client disconnected — player=449de884-d283-4826-ad86-9e4d8ab3313d ccu=3
+[2026-06-26T00:09:06.954Z] client disconnected — player=bc3580d3-d6c5-4310-8499-813f495b72cc ccu=2
+[2026-06-26T00:09:51.956Z] client connected — ip=173.215.83.95 player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=3 token_sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:09:51.957Z]   JWT: sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a iss=? exp=1782439789
+[2026-06-26T00:09:51.957Z] → greeting to player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:10:56.819Z] client disconnected — player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=2
+[2026-06-26T00:12:16.636Z] client disconnected — player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=1
+[2026-06-26T00:15:08.824Z] client connected — ip=2806:109f:13:aa7b:7bbe:e2cb:42df:ce0c player=20dd001c-d166-4e05-a73a-3a088e343662 ccu=2 token_sub=20dd001c-d166-4e05-a73a-3a088e343662
+[2026-06-26T00:15:08.825Z]   JWT: sub=20dd001c-d166-4e05-a73a-3a088e343662 iss=? exp=1782440107
+[2026-06-26T00:15:08.825Z] → greeting to player=20dd001c-d166-4e05-a73a-3a088e343662
+[2026-06-26T00:16:46.466Z] client connected — ip=173.215.83.95 player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=3 token_sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:16:46.466Z]   JWT: sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a iss=? exp=1782439789
+[2026-06-26T00:16:46.466Z] → greeting to player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:17:21.633Z] client disconnected — player=20dd001c-d166-4e05-a73a-3a088e343662 ccu=2
+[2026-06-26T00:18:02.475Z] client connected — ip=2806:109f:13:aa7b:7bbe:e2cb:42df:ce0c player=20dd001c-d166-4e05-a73a-3a088e343662 ccu=3 token_sub=20dd001c-d166-4e05-a73a-3a088e343662
+[2026-06-26T00:18:02.476Z]   JWT: sub=20dd001c-d166-4e05-a73a-3a088e343662 iss=? exp=1782440107
+[2026-06-26T00:18:02.476Z] → greeting to player=20dd001c-d166-4e05-a73a-3a088e343662
+[2026-06-26T00:20:25.447Z] client connected — ip=69.80.83.98 player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=4 token_sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T00:20:25.448Z]   JWT: sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b iss=? exp=1782440424
+[2026-06-26T00:20:25.448Z] → greeting to player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T00:22:08.093Z] client disconnected — player=20dd001c-d166-4e05-a73a-3a088e343662 ccu=3
+[2026-06-26T00:23:08.769Z] client connected — ip=162.250.86.144 player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=4 token_sub=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T00:23:08.770Z]   JWT: sub=45fa51e9-639c-4db7-87cd-f95a6b30229f iss=? exp=1782438365
+[2026-06-26T00:23:08.770Z] → greeting to player=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T00:26:32.919Z] client disconnected — player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=3
+[2026-06-26T00:27:37.211Z] ping timeout — terminating player=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T00:27:37.213Z] client disconnected — player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=2
+[2026-06-26T00:30:10.088Z] client connected — ip=173.215.83.95 player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=3 token_sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:30:10.088Z]   JWT: sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a iss=? exp=1782439789
+[2026-06-26T00:30:10.088Z] → greeting to player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:34:39.954Z] client disconnected — player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=2
+[2026-06-26T00:35:20.628Z] client connected — ip=173.215.83.95 player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=3 token_sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:35:20.629Z]   JWT: sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a iss=? exp=1782439789
+[2026-06-26T00:35:20.629Z] → greeting to player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:38:04.240Z] client connected — ip=2603:7081:4e01:c41f:dd42:875a:b76b:1d7a player=a1e8a508-7336-4ce5-b554-3f032cc35d72 ccu=4 token_sub=a1e8a508-7336-4ce5-b554-3f032cc35d72
+[2026-06-26T00:38:04.240Z]   JWT: sub=a1e8a508-7336-4ce5-b554-3f032cc35d72 iss=? exp=1782441483
+[2026-06-26T00:38:04.241Z] → greeting to player=a1e8a508-7336-4ce5-b554-3f032cc35d72
+[2026-06-26T00:41:29.164Z] client disconnected — player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=3
+[2026-06-26T00:42:41.376Z] client disconnected — player=a1e8a508-7336-4ce5-b554-3f032cc35d72 ccu=2
+[2026-06-26T00:47:40.998Z] client connected — ip=2601:84:ca81:8bd0:3956:2bd9:2da2:2ecb player=3cd8e480-336f-4232-8ddb-28b92aebe316 ccu=3 token_sub=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T00:47:40.999Z]   JWT: sub=3cd8e480-336f-4232-8ddb-28b92aebe316 iss=? exp=1782442059
+[2026-06-26T00:47:40.999Z] → greeting to player=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T00:52:37.565Z] ping timeout — terminating player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T00:52:37.566Z] client disconnected — player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=2
+[2026-06-26T00:53:35.282Z] client connected — ip=2607:fb92:1785:3ebc:c0:c70b:9964:da45 player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7 ccu=3 token_sub=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7
+[2026-06-26T00:53:35.283Z]   JWT: sub=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7 iss=? exp=1782442414
+[2026-06-26T00:53:35.283Z] → greeting to player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7
+[2026-06-26T00:54:14.369Z] client connected — ip=2601:840:8700:7070:4f55:2607:1a16:997 player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=4 token_sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T00:54:14.370Z]   JWT: sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 iss=? exp=1782437541
+[2026-06-26T00:54:14.370Z] → greeting to player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T00:54:25.348Z] client connected — ip=2600:1700:ce80:13f0:1a37:a5ec:2ace:e3b0 player=9893db71-fe48-4b51-8d67-3c09f3efbf72 ccu=5 token_sub=9893db71-fe48-4b51-8d67-3c09f3efbf72
+[2026-06-26T00:54:25.348Z]   JWT: sub=9893db71-fe48-4b51-8d67-3c09f3efbf72 iss=? exp=1782442464
+[2026-06-26T00:54:25.349Z] → greeting to player=9893db71-fe48-4b51-8d67-3c09f3efbf72
+[2026-06-26T00:57:44.308Z] client disconnected — player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=4
+[2026-06-26T01:00:51.736Z] client connected — ip=99.92.221.8 player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=5 token_sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T01:00:51.737Z]   JWT: sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd iss=? exp=1782442848
+[2026-06-26T01:00:51.737Z] → greeting to player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T01:01:22.808Z] client connected — ip=2600:1700:2670:6d30:b643:66ab:9eb8:34f9 player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b ccu=6 token_sub=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T01:01:22.809Z]   JWT: sub=bdfff727-7952-45e0-89ae-89d7ca2c6a6b iss=? exp=1782442882
+[2026-06-26T01:01:22.809Z] → greeting to player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T01:02:32.948Z] client connected — ip=2806:2f0:3081:f190:c545:82b7:b2b7:4db8 player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=7 token_sub=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T01:02:32.949Z]   JWT: sub=867399d5-86b7-4805-a2c7-0bea0affc42e iss=? exp=1782442952
+[2026-06-26T01:02:32.949Z] → greeting to player=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T01:05:02.778Z] client disconnected — player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=6
+[2026-06-26T01:05:25.897Z] client disconnected — player=9893db71-fe48-4b51-8d67-3c09f3efbf72 ccu=5
+[2026-06-26T01:05:49.741Z] client connected — ip=2600:1700:ce80:13f0:1a37:a5ec:2ace:e3b0 player=9893db71-fe48-4b51-8d67-3c09f3efbf72 ccu=6 token_sub=9893db71-fe48-4b51-8d67-3c09f3efbf72
+[2026-06-26T01:05:49.741Z]   JWT: sub=9893db71-fe48-4b51-8d67-3c09f3efbf72 iss=? exp=1782442464
+[2026-06-26T01:05:49.742Z] → greeting to player=9893db71-fe48-4b51-8d67-3c09f3efbf72
+[2026-06-26T01:09:14.905Z] client disconnected — player=3cd8e480-336f-4232-8ddb-28b92aebe316 ccu=5
+[2026-06-26T01:11:56.473Z] client disconnected — player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=4
+[2026-06-26T01:15:45.613Z] client disconnected — player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b ccu=3
+[2026-06-26T01:18:48.435Z] client connected — ip=2607:fb90:5c8b:f07:43ce:dc68:a4d6:a7bc player=41516790-4c30-44e0-8493-288dead17747 ccu=4 token_sub=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:18:48.435Z]   JWT: sub=41516790-4c30-44e0-8493-288dead17747 iss=? exp=1782443927
+[2026-06-26T01:18:48.435Z] → greeting to player=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:22:14.859Z] client disconnected — player=41516790-4c30-44e0-8493-288dead17747 ccu=3
+[2026-06-26T01:22:44.640Z] client connected — ip=2607:fb90:5c8b:f07:43ce:dc68:a4d6:a7bc player=41516790-4c30-44e0-8493-288dead17747 ccu=4 token_sub=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:22:44.641Z]   JWT: sub=41516790-4c30-44e0-8493-288dead17747 iss=? exp=1782443927
+[2026-06-26T01:22:44.641Z] → greeting to player=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:25:45.559Z] client connected — ip=2806:2f0:3081:f190:aff3:7cd6:c294:1297 player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=5 token_sub=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T01:25:45.559Z]   JWT: sub=867399d5-86b7-4805-a2c7-0bea0affc42e iss=? exp=1782442952
+[2026-06-26T01:25:45.560Z] → greeting to player=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T01:27:02.239Z] client connected — ip=69.131.32.191 player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=6 token_sub=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:27:02.239Z]   JWT: sub=b00044b0-d239-4bca-961b-b885e4dba320 iss=? exp=1782444420
+[2026-06-26T01:27:02.240Z] → greeting to player=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:27:06.806Z] client disconnected — player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=5
+[2026-06-26T01:27:47.605Z] client connected — ip=69.131.32.191 player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=6 token_sub=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:27:47.605Z]   JWT: sub=b00044b0-d239-4bca-961b-b885e4dba320 iss=? exp=1782444420
+[2026-06-26T01:27:47.606Z] → greeting to player=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:28:24.429Z] client disconnected — player=41516790-4c30-44e0-8493-288dead17747 ccu=5
+[2026-06-26T01:28:59.542Z] client connected — ip=2607:fb90:5c8b:f07:43ce:dc68:a4d6:a7bc player=41516790-4c30-44e0-8493-288dead17747 ccu=6 token_sub=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:28:59.542Z]   JWT: sub=41516790-4c30-44e0-8493-288dead17747 iss=? exp=1782443927
+[2026-06-26T01:28:59.543Z] → greeting to player=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:30:29.749Z] client disconnected — player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7 ccu=5
+[2026-06-26T01:30:55.715Z] client connected — ip=2607:fb92:1785:3ebc:c0:c70b:9964:da45 player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7 ccu=6 token_sub=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7
+[2026-06-26T01:30:55.715Z]   JWT: sub=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7 iss=? exp=1782442414
+[2026-06-26T01:30:55.716Z] → greeting to player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7
+[2026-06-26T01:31:49.074Z] client disconnected — player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=5
+[2026-06-26T01:32:22.194Z] client connected — ip=69.131.32.191 player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=6 token_sub=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:32:22.194Z]   JWT: sub=b00044b0-d239-4bca-961b-b885e4dba320 iss=? exp=1782444420
+[2026-06-26T01:32:22.194Z] → greeting to player=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:32:38.187Z] ping timeout — terminating player=9893db71-fe48-4b51-8d67-3c09f3efbf72
+[2026-06-26T01:32:38.189Z] client disconnected — player=9893db71-fe48-4b51-8d67-3c09f3efbf72 ccu=5
+[2026-06-26T01:35:59.217Z] client disconnected — player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=4
+[2026-06-26T01:36:08.258Z] ping timeout — terminating player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7
+[2026-06-26T01:36:08.259Z] client disconnected — player=2ea1a0f3-be89-437d-a8c8-a03d095cf9c7 ccu=3
+[2026-06-26T01:40:44.992Z] client disconnected — player=41516790-4c30-44e0-8493-288dead17747 ccu=2
+[2026-06-26T01:42:31.519Z] client connected — ip=2607:fb90:5c8b:f07:43ce:dc68:a4d6:a7bc player=41516790-4c30-44e0-8493-288dead17747 ccu=3 token_sub=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:42:31.519Z]   JWT: sub=41516790-4c30-44e0-8493-288dead17747 iss=? exp=1782443927
+[2026-06-26T01:42:31.520Z] → greeting to player=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:43:18.926Z] client disconnected — player=41516790-4c30-44e0-8493-288dead17747 ccu=2
+[2026-06-26T01:44:38.365Z] ping timeout — terminating player=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T01:44:38.366Z] client disconnected — player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=1
+[2026-06-26T01:45:35.251Z] client connected — ip=2600:4040:a7d3:3500:6e9c:b0a6:f7ab:5e4b player=fa065f92-e6fc-4ba3-bfc4-f75abbcf6c5d ccu=2 token_sub=fa065f92-e6fc-4ba3-bfc4-f75abbcf6c5d
+[2026-06-26T01:45:35.251Z]   JWT: sub=fa065f92-e6fc-4ba3-bfc4-f75abbcf6c5d iss=? exp=1782445534
+[2026-06-26T01:45:35.251Z] → greeting to player=fa065f92-e6fc-4ba3-bfc4-f75abbcf6c5d
+[2026-06-26T01:46:06.367Z] client disconnected — player=fa065f92-e6fc-4ba3-bfc4-f75abbcf6c5d ccu=1
+[2026-06-26T01:49:37.349Z] client connected — ip=2607:fb90:5c8b:f07:43ce:dc68:a4d6:a7bc player=41516790-4c30-44e0-8493-288dead17747 ccu=2 token_sub=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:49:37.350Z]   JWT: sub=41516790-4c30-44e0-8493-288dead17747 iss=? exp=1782443927
+[2026-06-26T01:49:37.350Z] → greeting to player=41516790-4c30-44e0-8493-288dead17747
+[2026-06-26T01:56:38.811Z] client connected — ip=2601:84:ca81:8bd0:91a7:c462:4eb2:f2ed player=3cd8e480-336f-4232-8ddb-28b92aebe316 ccu=3 token_sub=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T01:56:38.812Z]   JWT: sub=3cd8e480-336f-4232-8ddb-28b92aebe316 iss=? exp=1782442059
+[2026-06-26T01:56:38.812Z] → greeting to player=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T01:57:51.961Z] client connected — ip=2600:1700:7ba0:29c0:9547:e802:eb4:59d3 player=0742a4b6-0af5-4be4-8654-dcc06ab01b13 ccu=4 token_sub=0742a4b6-0af5-4be4-8654-dcc06ab01b13
+[2026-06-26T01:57:51.962Z]   JWT: sub=0742a4b6-0af5-4be4-8654-dcc06ab01b13 iss=? exp=1782446270
+[2026-06-26T01:57:51.962Z] → greeting to player=0742a4b6-0af5-4be4-8654-dcc06ab01b13
+[2026-06-26T01:58:36.949Z] client disconnected — player=0742a4b6-0af5-4be4-8654-dcc06ab01b13 ccu=3
+[2026-06-26T01:59:19.552Z] client connected — ip=2600:1700:7ba0:29c0:9547:e802:eb4:59d3 player=0742a4b6-0af5-4be4-8654-dcc06ab01b13 ccu=4 token_sub=0742a4b6-0af5-4be4-8654-dcc06ab01b13
+[2026-06-26T01:59:19.553Z]   JWT: sub=0742a4b6-0af5-4be4-8654-dcc06ab01b13 iss=? exp=1782446270
+[2026-06-26T01:59:19.553Z] → greeting to player=0742a4b6-0af5-4be4-8654-dcc06ab01b13
+[2026-06-26T02:00:05.965Z] client disconnected — player=0742a4b6-0af5-4be4-8654-dcc06ab01b13 ccu=3
+[2026-06-26T02:02:11.740Z] client connected — ip=2601:485:8100:6e90:bc04:79f9:5d3e:2beb player=3862fe42-e66b-420e-b53b-c9fcd06e1dba ccu=4 token_sub=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:02:11.740Z]   JWT: sub=3862fe42-e66b-420e-b53b-c9fcd06e1dba iss=? exp=1782446530
+[2026-06-26T02:02:11.741Z] → greeting to player=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:04:04.105Z] client connected — ip=2601:c4:c600:36d0:e281:3b88:ad21:acc8 player=6ac403e1-c8c8-44b7-96d3-89ec6d77efb8 ccu=5 token_sub=6ac403e1-c8c8-44b7-96d3-89ec6d77efb8
+[2026-06-26T02:04:04.105Z]   JWT: sub=6ac403e1-c8c8-44b7-96d3-89ec6d77efb8 iss=? exp=1782446643
+[2026-06-26T02:04:04.106Z] → greeting to player=6ac403e1-c8c8-44b7-96d3-89ec6d77efb8
+[2026-06-26T02:07:04.436Z] client disconnected — player=41516790-4c30-44e0-8493-288dead17747 ccu=4
+[2026-06-26T02:08:08.718Z] ping timeout — terminating player=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T02:08:08.720Z] client disconnected — player=3cd8e480-336f-4232-8ddb-28b92aebe316 ccu=3
+[2026-06-26T02:09:08.045Z] client disconnected — player=3862fe42-e66b-420e-b53b-c9fcd06e1dba ccu=2
+[2026-06-26T02:10:25.852Z] client connected — ip=2601:485:8100:6e90:bc04:79f9:5d3e:2beb player=3862fe42-e66b-420e-b53b-c9fcd06e1dba ccu=3 token_sub=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:10:25.853Z]   JWT: sub=3862fe42-e66b-420e-b53b-c9fcd06e1dba iss=? exp=1782446530
+[2026-06-26T02:10:25.853Z] → greeting to player=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:10:30.154Z] client disconnected — player=3862fe42-e66b-420e-b53b-c9fcd06e1dba ccu=2
+[2026-06-26T02:11:14.069Z] client connected — ip=2601:485:8100:6e90:bc04:79f9:5d3e:2beb player=3862fe42-e66b-420e-b53b-c9fcd06e1dba ccu=3 token_sub=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:11:14.069Z]   JWT: sub=3862fe42-e66b-420e-b53b-c9fcd06e1dba iss=? exp=1782446530
+[2026-06-26T02:11:14.070Z] → greeting to player=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:12:08.797Z] ping timeout — terminating player=6ac403e1-c8c8-44b7-96d3-89ec6d77efb8
+[2026-06-26T02:12:08.798Z] client disconnected — player=6ac403e1-c8c8-44b7-96d3-89ec6d77efb8 ccu=2
+[2026-06-26T02:14:38.838Z] ping timeout — terminating player=3862fe42-e66b-420e-b53b-c9fcd06e1dba
+[2026-06-26T02:14:38.839Z] client disconnected — player=3862fe42-e66b-420e-b53b-c9fcd06e1dba ccu=1
+[2026-06-26T02:27:02.895Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=2 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T02:27:02.896Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782448021
+[2026-06-26T02:27:02.896Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T02:27:38.574Z] client connected — ip=2607:fb91:5003:5915:f58f:cd96:d6e2:d9b9 player=449de884-d283-4826-ad86-9e4d8ab3313d ccu=3 token_sub=449de884-d283-4826-ad86-9e4d8ab3313d
+[2026-06-26T02:27:38.574Z]   JWT: sub=449de884-d283-4826-ad86-9e4d8ab3313d iss=? exp=1782448057
+[2026-06-26T02:27:38.575Z] → greeting to player=449de884-d283-4826-ad86-9e4d8ab3313d
+[2026-06-26T02:28:44.871Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=2
+[2026-06-26T02:29:14.942Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=3 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T02:29:14.942Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782448021
+[2026-06-26T02:29:14.943Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T02:32:57.882Z] client connected — ip=2601:58a:8000:695:2067:655b:d69c:30a0 player=39122165-a293-4975-8aca-cf26fe32ba05 ccu=4 token_sub=39122165-a293-4975-8aca-cf26fe32ba05
+[2026-06-26T02:32:57.883Z]   JWT: sub=39122165-a293-4975-8aca-cf26fe32ba05 iss=? exp=1782448376
+[2026-06-26T02:32:57.883Z] → greeting to player=39122165-a293-4975-8aca-cf26fe32ba05
+[2026-06-26T02:33:12.476Z] client disconnected — player=39122165-a293-4975-8aca-cf26fe32ba05 ccu=3
+[2026-06-26T02:33:42.190Z] client connected — ip=2601:58a:8000:695:2067:655b:d69c:30a0 player=39122165-a293-4975-8aca-cf26fe32ba05 ccu=4 token_sub=39122165-a293-4975-8aca-cf26fe32ba05
+[2026-06-26T02:33:42.191Z]   JWT: sub=39122165-a293-4975-8aca-cf26fe32ba05 iss=? exp=1782448376
+[2026-06-26T02:33:42.191Z] → greeting to player=39122165-a293-4975-8aca-cf26fe32ba05
+[2026-06-26T02:37:55.028Z] client connected — ip=64.42.157.80 player=93113769-cc3a-4dd2-ad82-ce2a430164ae ccu=5 token_sub=93113769-cc3a-4dd2-ad82-ce2a430164ae
+[2026-06-26T02:37:55.029Z]   JWT: sub=93113769-cc3a-4dd2-ad82-ce2a430164ae iss=? exp=1782448674
+[2026-06-26T02:37:55.029Z] → greeting to player=93113769-cc3a-4dd2-ad82-ce2a430164ae
+[2026-06-26T02:38:30.197Z] client connected — ip=2600:1700:60e1:e600:9bad:607a:4255:2464 player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=6 token_sub=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T02:38:30.198Z]   JWT: sub=697022ef-3b6b-4937-81fa-aefe3567e5e7 iss=? exp=1782448709
+[2026-06-26T02:38:30.198Z] → greeting to player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T02:41:09.155Z] ping timeout — terminating player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T02:41:09.156Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=5
+[2026-06-26T02:41:37.478Z] client disconnected — player=39122165-a293-4975-8aca-cf26fe32ba05 ccu=4
+[2026-06-26T02:42:05.112Z] client connected — ip=2601:58a:8000:695:2067:655b:d69c:30a0 player=39122165-a293-4975-8aca-cf26fe32ba05 ccu=5 token_sub=39122165-a293-4975-8aca-cf26fe32ba05
+[2026-06-26T02:42:05.113Z]   JWT: sub=39122165-a293-4975-8aca-cf26fe32ba05 iss=? exp=1782448376
+[2026-06-26T02:42:05.113Z] → greeting to player=39122165-a293-4975-8aca-cf26fe32ba05
+[2026-06-26T02:43:32.574Z] client disconnected — player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=4
+[2026-06-26T02:45:16.062Z] client disconnected — player=93113769-cc3a-4dd2-ad82-ce2a430164ae ccu=3
+[2026-06-26T02:46:52.194Z] client connected — ip=69.80.83.98 player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=4 token_sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T02:46:52.194Z]   JWT: sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b iss=? exp=1782449211
+[2026-06-26T02:46:52.195Z] → greeting to player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T02:56:00.026Z] client connected — ip=2806:2f0:3081:f190:776b:e652:c78e:577b player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=5 token_sub=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T02:56:00.026Z]   JWT: sub=867399d5-86b7-4805-a2c7-0bea0affc42e iss=? exp=1782449758
+[2026-06-26T02:56:00.027Z] → greeting to player=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T02:57:29.543Z] client disconnected — player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=4
+[2026-06-26T02:59:19.581Z] client connected — ip=69.80.83.98 player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=5 token_sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T02:59:19.582Z]   JWT: sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b iss=? exp=1782449211
+[2026-06-26T02:59:19.582Z] → greeting to player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T03:00:56.148Z] client disconnected — player=449de884-d283-4826-ad86-9e4d8ab3313d ccu=4
+[2026-06-26T03:01:45.350Z] client disconnected — player=39122165-a293-4975-8aca-cf26fe32ba05 ccu=3
+[2026-06-26T03:02:38.833Z] client disconnected — player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=2
+[2026-06-26T03:05:02.904Z] client connected — ip=2604:3d09:e77d:8800:f1c6:d983:9dde:7681 player=526f7812-2b65-40e9-a3d1-b6cb9ee012ac ccu=3 token_sub=526f7812-2b65-40e9-a3d1-b6cb9ee012ac
+[2026-06-26T03:05:02.904Z]   JWT: sub=526f7812-2b65-40e9-a3d1-b6cb9ee012ac iss=? exp=1782450301
+[2026-06-26T03:05:02.905Z] → greeting to player=526f7812-2b65-40e9-a3d1-b6cb9ee012ac
+[2026-06-26T03:05:36.716Z] client disconnected — player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=2
+[2026-06-26T03:06:22.073Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=3 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T03:06:22.074Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782448021
+[2026-06-26T03:06:22.074Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T03:25:41.021Z] client disconnected — player=526f7812-2b65-40e9-a3d1-b6cb9ee012ac ccu=2
+[2026-06-26T03:30:09.814Z] ping timeout — terminating player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T03:30:09.815Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=1
+[2026-06-26T03:34:24.950Z] client connected — ip=2806:2f0:3081:f190:b9e5:bb12:641e:2021 player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=2 token_sub=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T03:34:24.950Z]   JWT: sub=867399d5-86b7-4805-a2c7-0bea0affc42e iss=? exp=1782449758
+[2026-06-26T03:34:24.951Z] → greeting to player=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T03:40:00.673Z] client connected — ip=2a00:1d36:ae2:9c00:3097:b0ac:7f5d:4a30 player=65b15d28-81b0-487f-9872-45ff821a1e12 ccu=3 token_sub=65b15d28-81b0-487f-9872-45ff821a1e12
+[2026-06-26T03:40:00.674Z]   JWT: sub=65b15d28-81b0-487f-9872-45ff821a1e12 iss=? exp=1782452399
+[2026-06-26T03:40:00.674Z] → greeting to player=65b15d28-81b0-487f-9872-45ff821a1e12
+[2026-06-26T03:41:09.287Z] client connected — ip=2600:6c48:6e7f:62ca:7107:b3f6:bd11:7eaf player=03c56f0c-d972-43c7-bc3f-92dc7258cd17 ccu=4 token_sub=03c56f0c-d972-43c7-bc3f-92dc7258cd17
+[2026-06-26T03:41:09.288Z]   JWT: sub=03c56f0c-d972-43c7-bc3f-92dc7258cd17 iss=? exp=1782452468
+[2026-06-26T03:41:09.288Z] → greeting to player=03c56f0c-d972-43c7-bc3f-92dc7258cd17
+[2026-06-26T03:41:39.990Z] ping timeout — terminating player=867399d5-86b7-4805-a2c7-0bea0affc42e
+[2026-06-26T03:41:39.991Z] client disconnected — player=867399d5-86b7-4805-a2c7-0bea0affc42e ccu=3
+[2026-06-26T03:47:48.353Z] client disconnected — player=65b15d28-81b0-487f-9872-45ff821a1e12 ccu=2
+[2026-06-26T03:50:04.857Z] client connected — ip=2600:1702:4eb2:8030:d9e8:d2c0:378c:38c4 player=9f5bb62d-1a64-4301-9381-e8130ffc8992 ccu=3 token_sub=9f5bb62d-1a64-4301-9381-e8130ffc8992
+[2026-06-26T03:50:04.857Z]   JWT: sub=9f5bb62d-1a64-4301-9381-e8130ffc8992 iss=? exp=1782453003
+[2026-06-26T03:50:04.857Z] → greeting to player=9f5bb62d-1a64-4301-9381-e8130ffc8992
+[2026-06-26T03:54:10.148Z] ping timeout — terminating player=9f5bb62d-1a64-4301-9381-e8130ffc8992
+[2026-06-26T03:54:10.149Z] client disconnected — player=9f5bb62d-1a64-4301-9381-e8130ffc8992 ccu=2
+[2026-06-26T04:01:40.272Z] ping timeout — terminating player=03c56f0c-d972-43c7-bc3f-92dc7258cd17
+[2026-06-26T04:01:40.273Z] client disconnected — player=03c56f0c-d972-43c7-bc3f-92dc7258cd17 ccu=1
+[2026-06-26T04:12:38.985Z] client connected — ip=2601:603:702:9e50:3597:4be0:209b:355c player=89084efa-45cc-4448-a082-228e09fe85bf ccu=2 token_sub=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T04:12:38.985Z]   JWT: sub=89084efa-45cc-4448-a082-228e09fe85bf iss=? exp=1782454357
+[2026-06-26T04:12:38.986Z] → greeting to player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T04:20:03.802Z] client disconnected — player=89084efa-45cc-4448-a082-228e09fe85bf ccu=1
+[2026-06-26T04:20:27.089Z] client connected — ip=2601:603:702:9e50:3597:4be0:209b:355c player=89084efa-45cc-4448-a082-228e09fe85bf ccu=2 token_sub=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T04:20:27.089Z]   JWT: sub=89084efa-45cc-4448-a082-228e09fe85bf iss=? exp=1782454357
+[2026-06-26T04:20:27.089Z] → greeting to player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T04:42:05.954Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=3 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T04:42:05.955Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782456124
+[2026-06-26T04:42:05.955Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T04:42:07.061Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=2
+[2026-06-26T04:42:37.817Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=3 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T04:42:37.818Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782456124
+[2026-06-26T04:42:37.818Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T04:42:48.412Z] client connected — ip=99.92.221.8 player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=4 token_sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T04:42:48.413Z]   JWT: sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd iss=? exp=1782456167
+[2026-06-26T04:42:48.413Z] → greeting to player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T04:43:10.883Z] ping timeout — terminating player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T04:43:10.884Z] client disconnected — player=89084efa-45cc-4448-a082-228e09fe85bf ccu=3
+[2026-06-26T04:43:54.255Z] client disconnected — player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=2
+[2026-06-26T04:48:12.048Z] client disconnected — player=7296be35-4cab-4d08-b26d-3f843637a636 ccu=1
+[2026-06-26T04:49:06.622Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=0
+[2026-06-26T04:49:31.746Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=1 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T04:49:31.747Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782456124
+[2026-06-26T04:49:31.747Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T05:12:56.056Z] client connected — ip=2001:8003:ec07:9900:7c3e:c794:6619:2ac4 player=8350edb1-65d6-4acd-9a89-a16265aa6701 ccu=2 token_sub=8350edb1-65d6-4acd-9a89-a16265aa6701
+[2026-06-26T05:12:56.056Z]   JWT: sub=8350edb1-65d6-4acd-9a89-a16265aa6701 iss=? exp=1782457975
+[2026-06-26T05:12:56.057Z] → greeting to player=8350edb1-65d6-4acd-9a89-a16265aa6701
+[2026-06-26T05:13:21.854Z] client disconnected — player=8350edb1-65d6-4acd-9a89-a16265aa6701 ccu=1
+[2026-06-26T05:21:30.024Z] client connected — ip=192.24.25.169 player=8adf8c0c-a341-4d65-af53-5fabb9bc203b ccu=2 token_sub=8adf8c0c-a341-4d65-af53-5fabb9bc203b
+[2026-06-26T05:21:30.024Z]   JWT: sub=8adf8c0c-a341-4d65-af53-5fabb9bc203b iss=? exp=1782458488
+[2026-06-26T05:21:30.025Z] → greeting to player=8adf8c0c-a341-4d65-af53-5fabb9bc203b
+[2026-06-26T05:22:37.930Z] client connected — ip=99.92.221.8 player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=3 token_sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T05:22:37.931Z]   JWT: sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd iss=? exp=1782456167
+[2026-06-26T05:22:37.931Z] → greeting to player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T05:26:11.519Z] ping timeout — terminating player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T05:26:11.520Z] client disconnected — player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=2
+[2026-06-26T05:31:08.881Z] client disconnected — player=8adf8c0c-a341-4d65-af53-5fabb9bc203b ccu=1
+[2026-06-26T05:31:27.899Z] client connected — ip=2607:fb90:9902:f00e:92a8:180c:769c:aaf6 player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=2 token_sub=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:31:27.900Z]   JWT: sub=9e86ea59-1f32-4abd-a4e1-66441766836d iss=? exp=1782459086
+[2026-06-26T05:31:27.900Z] → greeting to player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:33:02.807Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=1
+[2026-06-26T05:38:52.590Z] client connected — ip=24.7.26.236 player=unknown ccu=1 token_sub=none
+[2026-06-26T05:38:52.590Z] → greeting to player=unknown
+[2026-06-26T05:39:01.581Z] client disconnected — player=unknown ccu=1
+[2026-06-26T05:42:41.763Z] ping timeout — terminating player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:42:41.765Z] client disconnected — player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=0
+[2026-06-26T05:44:13.567Z] client connected — ip=2607:fb90:9902:f00e:92a8:180c:769c:aaf6 player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=1 token_sub=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:44:13.568Z]   JWT: sub=9e86ea59-1f32-4abd-a4e1-66441766836d iss=? exp=1782459086
+[2026-06-26T05:44:13.568Z] → greeting to player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:44:54.382Z] client disconnected — player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=0
+[2026-06-26T05:45:22.536Z] client connected — ip=2607:fb90:9902:f00e:92a8:180c:769c:aaf6 player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=1 token_sub=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:45:22.537Z]   JWT: sub=9e86ea59-1f32-4abd-a4e1-66441766836d iss=? exp=1782459086
+[2026-06-26T05:45:22.537Z] → greeting to player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T05:54:49.411Z] client connected — ip=50.45.148.215 player=8c316c38-43cb-47f7-bd4f-52844dbc6ba5 ccu=2 token_sub=8c316c38-43cb-47f7-bd4f-52844dbc6ba5
+[2026-06-26T05:54:49.411Z]   JWT: sub=8c316c38-43cb-47f7-bd4f-52844dbc6ba5 iss=? exp=1782460488
+[2026-06-26T05:54:49.411Z] → greeting to player=8c316c38-43cb-47f7-bd4f-52844dbc6ba5
+[2026-06-26T05:58:07.242Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=3 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T05:58:07.243Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782456124
+[2026-06-26T05:58:07.243Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:00:21.996Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=2
+[2026-06-26T06:00:49.604Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=3 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:00:49.604Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782456124
+[2026-06-26T06:00:49.605Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:01:12.014Z] ping timeout — terminating player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T06:01:12.015Z] client disconnected — player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=2
+[2026-06-26T06:04:14.126Z] client disconnected — player=8c316c38-43cb-47f7-bd4f-52844dbc6ba5 ccu=1
+[2026-06-26T06:05:57.841Z] client connected — ip=99.92.221.8 player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=2 token_sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T06:05:57.842Z]   JWT: sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd iss=? exp=1782456167
+[2026-06-26T06:05:57.842Z] → greeting to player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T06:06:45.043Z] client connected — ip=50.45.148.215 player=8c316c38-43cb-47f7-bd4f-52844dbc6ba5 ccu=3 token_sub=8c316c38-43cb-47f7-bd4f-52844dbc6ba5
+[2026-06-26T06:06:45.044Z]   JWT: sub=8c316c38-43cb-47f7-bd4f-52844dbc6ba5 iss=? exp=1782460488
+[2026-06-26T06:06:45.044Z] → greeting to player=8c316c38-43cb-47f7-bd4f-52844dbc6ba5
+[2026-06-26T06:17:42.281Z] ping timeout — terminating player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T06:17:42.282Z] client disconnected — player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=2
+[2026-06-26T06:22:19.563Z] client connected — ip=2600:1004:a122:13a7:f9cf:f94e:16c1:fec0 player=6994c68f-3f5b-4306-bbe4-39779866d7ff ccu=3 token_sub=6994c68f-3f5b-4306-bbe4-39779866d7ff
+[2026-06-26T06:22:19.564Z]   JWT: sub=6994c68f-3f5b-4306-bbe4-39779866d7ff iss=? exp=1782462138
+[2026-06-26T06:22:19.564Z] → greeting to player=6994c68f-3f5b-4306-bbe4-39779866d7ff
+[2026-06-26T06:27:33.863Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=2
+[2026-06-26T06:27:45.251Z] client disconnected — player=6994c68f-3f5b-4306-bbe4-39779866d7ff ccu=1
+[2026-06-26T06:27:46.946Z] client disconnected — player=8c316c38-43cb-47f7-bd4f-52844dbc6ba5 ccu=0
+[2026-06-26T06:27:58.726Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=1 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:27:58.727Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782462477
+[2026-06-26T06:27:58.727Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:28:12.309Z] client connected — ip=2600:1004:a122:13a7:f9cf:f94e:16c1:fec0 player=6994c68f-3f5b-4306-bbe4-39779866d7ff ccu=2 token_sub=6994c68f-3f5b-4306-bbe4-39779866d7ff
+[2026-06-26T06:28:12.309Z]   JWT: sub=6994c68f-3f5b-4306-bbe4-39779866d7ff iss=? exp=1782462138
+[2026-06-26T06:28:12.310Z] → greeting to player=6994c68f-3f5b-4306-bbe4-39779866d7ff
+[2026-06-26T06:28:32.424Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=1
+[2026-06-26T06:28:57.504Z] client connected — ip=2600:6c5e:507f:855:8bdc:ad49:b5b3:bcbf player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=2 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:28:57.504Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782462477
+[2026-06-26T06:28:57.504Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:45:48.425Z] client disconnected — player=6994c68f-3f5b-4306-bbe4-39779866d7ff ccu=1
+[2026-06-26T06:46:42.685Z] ping timeout — terminating player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T06:46:42.686Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=0
+[2026-06-26T06:51:47.752Z] client connected — ip=2a10:d582:7399:0:85d6:d0ac:d5ea:58d7 player=unknown ccu=0 token_sub=none
+[2026-06-26T06:51:47.753Z] → greeting to player=unknown
+[2026-06-26T06:57:35.909Z] client connected — ip=99.92.221.8 player=unknown ccu=0 token_sub=none
+[2026-06-26T06:57:35.910Z] → greeting to player=unknown
+[2026-06-26T06:57:43.028Z] client disconnected — player=unknown ccu=0
+[2026-06-26T06:58:53.591Z] client disconnected — player=unknown ccu=0
+[2026-06-26T07:00:56.965Z] client connected — ip=99.2.124.50 player=bcd16e55-8b91-42f0-addd-5273e353f54a ccu=1 token_sub=bcd16e55-8b91-42f0-addd-5273e353f54a
+[2026-06-26T07:00:56.966Z]   JWT: sub=bcd16e55-8b91-42f0-addd-5273e353f54a iss=? exp=1782464449
+[2026-06-26T07:00:56.966Z] → greeting to player=bcd16e55-8b91-42f0-addd-5273e353f54a
+[2026-06-26T07:04:28.348Z] client disconnected — player=bcd16e55-8b91-42f0-addd-5273e353f54a ccu=0
+[2026-06-26T07:05:01.156Z] client connected — ip=99.2.124.50 player=bcd16e55-8b91-42f0-addd-5273e353f54a ccu=1 token_sub=bcd16e55-8b91-42f0-addd-5273e353f54a
+[2026-06-26T07:05:01.156Z]   JWT: sub=bcd16e55-8b91-42f0-addd-5273e353f54a iss=? exp=1782464449
+[2026-06-26T07:05:01.157Z] → greeting to player=bcd16e55-8b91-42f0-addd-5273e353f54a
+[2026-06-26T07:06:36.132Z] client disconnected — player=bcd16e55-8b91-42f0-addd-5273e353f54a ccu=0
+[2026-06-26T07:07:19.583Z] client connected — ip=99.2.124.50 player=bcd16e55-8b91-42f0-addd-5273e353f54a ccu=1 token_sub=bcd16e55-8b91-42f0-addd-5273e353f54a
+[2026-06-26T07:07:19.584Z]   JWT: sub=bcd16e55-8b91-42f0-addd-5273e353f54a iss=? exp=1782464449
+[2026-06-26T07:07:19.584Z] → greeting to player=bcd16e55-8b91-42f0-addd-5273e353f54a
+[2026-06-26T07:13:23.193Z] client disconnected — player=bcd16e55-8b91-42f0-addd-5273e353f54a ccu=0
+[2026-06-26T07:47:04.435Z] client connected — ip=99.92.221.8 player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=1 token_sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T07:47:04.435Z]   JWT: sub=e2ba81ac-fa56-4813-81df-1f4066d0b6fd iss=? exp=1782467223
+[2026-06-26T07:47:04.436Z] → greeting to player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T07:50:43.743Z] ping timeout — terminating player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd
+[2026-06-26T07:50:43.744Z] client disconnected — player=e2ba81ac-fa56-4813-81df-1f4066d0b6fd ccu=0
+[2026-06-26T08:39:05.016Z] client connected — ip=78.84.167.74 player=6c925e0b-b3f5-4196-b11c-678bdef80764 ccu=1 token_sub=6c925e0b-b3f5-4196-b11c-678bdef80764
+[2026-06-26T08:39:05.016Z]   JWT: sub=6c925e0b-b3f5-4196-b11c-678bdef80764 iss=? exp=1782470341
+[2026-06-26T08:39:05.016Z] → greeting to player=6c925e0b-b3f5-4196-b11c-678bdef80764
+[2026-06-26T08:42:23.105Z] client disconnected — player=6c925e0b-b3f5-4196-b11c-678bdef80764 ccu=0
+[2026-06-26T09:00:53.889Z] client connected — ip=46.120.97.206 player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=1 token_sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T09:00:53.889Z]   JWT: sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c iss=? exp=1782471652
+[2026-06-26T09:00:53.890Z] → greeting to player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T09:02:16.666Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T09:02:16.666Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782471735
+[2026-06-26T09:02:16.667Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T09:04:35.742Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=1
+[2026-06-26T09:05:09.665Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T09:05:09.666Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782471735
+[2026-06-26T09:05:09.666Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T09:07:30.110Z] client connected — ip=69.131.32.191 player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=3 token_sub=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T09:07:30.111Z]   JWT: sub=b00044b0-d239-4bca-961b-b885e4dba320 iss=? exp=1782472047
+[2026-06-26T09:07:30.111Z] → greeting to player=b00044b0-d239-4bca-961b-b885e4dba320
+[2026-06-26T09:08:11.981Z] client disconnected — player=b00044b0-d239-4bca-961b-b885e4dba320 ccu=2
+[2026-06-26T09:13:14.982Z] ping timeout — terminating player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T09:13:14.984Z] client disconnected — player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=1
+[2026-06-26T09:13:34.281Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=0
+[2026-06-26T09:16:03.206Z] client connected — ip=2001:8003:ec07:9900:749:3d0a:dc2f:6ff2 player=8350edb1-65d6-4acd-9a89-a16265aa6701 ccu=1 token_sub=8350edb1-65d6-4acd-9a89-a16265aa6701
+[2026-06-26T09:16:03.207Z]   JWT: sub=8350edb1-65d6-4acd-9a89-a16265aa6701 iss=? exp=1782472562
+[2026-06-26T09:16:03.207Z] → greeting to player=8350edb1-65d6-4acd-9a89-a16265aa6701
+[2026-06-26T09:20:45.068Z] ping timeout — terminating player=8350edb1-65d6-4acd-9a89-a16265aa6701
+[2026-06-26T09:20:45.069Z] client disconnected — player=8350edb1-65d6-4acd-9a89-a16265aa6701 ccu=0
+[2026-06-26T09:22:57.095Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=1 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T09:22:57.096Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782471735
+[2026-06-26T09:22:57.096Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T09:25:36.505Z] client connected — ip=2a0e:435:1c32:0:325:4bd9:f451:39a4 player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=2 token_sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T09:25:36.505Z]   JWT: sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d iss=? exp=1782473135
+[2026-06-26T09:25:36.505Z] → greeting to player=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T09:36:13.039Z] client connected — ip=188.91.4.216 player=2d9aa828-cedd-464b-933a-87210e20e17c ccu=3 token_sub=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T09:36:13.039Z]   JWT: sub=2d9aa828-cedd-464b-933a-87210e20e17c iss=? exp=1782473771
+[2026-06-26T09:36:13.039Z] → greeting to player=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T09:39:11.986Z] client disconnected — player=2d9aa828-cedd-464b-933a-87210e20e17c ccu=2
+[2026-06-26T09:39:43.925Z] client connected — ip=188.91.4.216 player=2d9aa828-cedd-464b-933a-87210e20e17c ccu=3 token_sub=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T09:39:43.926Z]   JWT: sub=2d9aa828-cedd-464b-933a-87210e20e17c iss=? exp=1782473771
+[2026-06-26T09:39:43.926Z] → greeting to player=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T09:39:48.684Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2
+[2026-06-26T09:40:39.057Z] client disconnected — player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=1
+[2026-06-26T09:54:15.600Z] ping timeout — terminating player=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T09:54:15.601Z] client disconnected — player=2d9aa828-cedd-464b-933a-87210e20e17c ccu=0
+[2026-06-26T10:14:23.470Z] client connected — ip=46.120.97.206 player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=1 token_sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T10:14:23.471Z]   JWT: sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c iss=? exp=1782471652
+[2026-06-26T10:14:23.471Z] → greeting to player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T10:28:23.076Z] client connected — ip=115.131.247.77 player=11b938a6-10ee-4517-98e6-66fb12822724 ccu=2 token_sub=11b938a6-10ee-4517-98e6-66fb12822724
+[2026-06-26T10:28:23.077Z]   JWT: sub=11b938a6-10ee-4517-98e6-66fb12822724 iss=? exp=1782476902
+[2026-06-26T10:28:23.077Z] → greeting to player=11b938a6-10ee-4517-98e6-66fb12822724
+[2026-06-26T10:34:54.942Z] client disconnected — player=11b938a6-10ee-4517-98e6-66fb12822724 ccu=1
+[2026-06-26T10:35:29.786Z] client disconnected — player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=0
+[2026-06-26T10:36:18.434Z] client connected — ip=194.55.157.149 player=53fe38a8-b210-4d48-a7dd-9b3e5c0b808f ccu=1 token_sub=53fe38a8-b210-4d48-a7dd-9b3e5c0b808f
+[2026-06-26T10:36:18.435Z]   JWT: sub=53fe38a8-b210-4d48-a7dd-9b3e5c0b808f iss=? exp=1782477377
+[2026-06-26T10:36:18.435Z] → greeting to player=53fe38a8-b210-4d48-a7dd-9b3e5c0b808f
+[2026-06-26T11:05:50.697Z] client disconnected — player=53fe38a8-b210-4d48-a7dd-9b3e5c0b808f ccu=0
+[2026-06-26T11:18:00.940Z] client connected — ip=94.211.82.51 player=e74b6db7-f7fa-4655-aa41-9c57c4ac3baf ccu=1 token_sub=e74b6db7-f7fa-4655-aa41-9c57c4ac3baf
+[2026-06-26T11:18:00.941Z]   JWT: sub=e74b6db7-f7fa-4655-aa41-9c57c4ac3baf iss=? exp=1782479879
+[2026-06-26T11:18:00.941Z] → greeting to player=e74b6db7-f7fa-4655-aa41-9c57c4ac3baf
+[2026-06-26T11:20:42.605Z] client connected — ip=46.120.97.206 player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=2 token_sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T11:20:42.605Z]   JWT: sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c iss=? exp=1782480041
+[2026-06-26T11:20:42.606Z] → greeting to player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T11:26:11.449Z] client disconnected — player=e74b6db7-f7fa-4655-aa41-9c57c4ac3baf ccu=1
+[2026-06-26T11:27:37.788Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T11:27:37.788Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782480456
+[2026-06-26T11:27:37.789Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T11:27:59.714Z] client disconnected — player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=1
+[2026-06-26T11:30:07.902Z] client connected — ip=46.120.97.206 player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=2 token_sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T11:30:07.903Z]   JWT: sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c iss=? exp=1782480041
+[2026-06-26T11:30:07.903Z] → greeting to player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T11:31:27.833Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=1
+[2026-06-26T11:31:54.912Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T11:31:54.912Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782480456
+[2026-06-26T11:31:54.913Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T11:32:29.566Z] client disconnected — player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=1
+[2026-06-26T11:38:49.647Z] client connected — ip=2a0e:435:1c32:0:63d5:12d2:c81b:3e74 player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=2 token_sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T11:38:49.647Z]   JWT: sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d iss=? exp=1782481128
+[2026-06-26T11:38:49.648Z] → greeting to player=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T11:40:24.445Z] client connected — ip=2a0e:435:1c32:0:63d5:12d2:c81b:3e74 player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=2 token_sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T11:40:24.445Z]   JWT: sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d iss=? exp=1782481128
+[2026-06-26T11:40:24.446Z] → greeting to player=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T11:42:22.905Z] client disconnected — player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=1
+[2026-06-26T11:44:17.306Z] ping timeout — terminating player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T11:44:17.308Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=0
+[2026-06-26T11:45:27.470Z] client disconnected — player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=0
+[2026-06-26T11:53:36.002Z] client connected — ip=173.215.83.95 player=unknown ccu=0 token_sub=none
+[2026-06-26T11:53:36.002Z] → greeting to player=unknown
+[2026-06-26T12:01:11.582Z] client disconnected — player=unknown ccu=0
+[2026-06-26T12:01:15.032Z] client connected — ip=2a0e:435:1c32:0:63d5:12d2:c81b:3e74 player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=1 token_sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T12:01:15.032Z]   JWT: sub=7b28ebb1-c74a-41fb-a619-60843e74fc1d iss=? exp=1782481128
+[2026-06-26T12:01:15.033Z] → greeting to player=7b28ebb1-c74a-41fb-a619-60843e74fc1d
+[2026-06-26T12:04:12.486Z] client disconnected — player=7b28ebb1-c74a-41fb-a619-60843e74fc1d ccu=0
+[2026-06-26T12:04:36.349Z] client connected — ip=80.246.130.250 player=c7315c42-b9ac-4975-aa4d-52116652e901 ccu=1 token_sub=c7315c42-b9ac-4975-aa4d-52116652e901
+[2026-06-26T12:04:36.349Z]   JWT: sub=c7315c42-b9ac-4975-aa4d-52116652e901 iss=? exp=1782482674
+[2026-06-26T12:04:36.350Z] → greeting to player=c7315c42-b9ac-4975-aa4d-52116652e901
+[2026-06-26T12:05:43.657Z] client disconnected — player=c7315c42-b9ac-4975-aa4d-52116652e901 ccu=0
+[2026-06-26T12:07:15.265Z] client connected — ip=80.246.130.250 player=c7315c42-b9ac-4975-aa4d-52116652e901 ccu=1 token_sub=c7315c42-b9ac-4975-aa4d-52116652e901
+[2026-06-26T12:07:15.265Z]   JWT: sub=c7315c42-b9ac-4975-aa4d-52116652e901 iss=? exp=1782482674
+[2026-06-26T12:07:15.265Z] → greeting to player=c7315c42-b9ac-4975-aa4d-52116652e901
+[2026-06-26T12:17:56.936Z] client disconnected — player=c7315c42-b9ac-4975-aa4d-52116652e901 ccu=0
+[2026-06-26T12:20:44.852Z] client connected — ip=188.91.4.216 player=2d9aa828-cedd-464b-933a-87210e20e17c ccu=1 token_sub=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T12:20:44.852Z]   JWT: sub=2d9aa828-cedd-464b-933a-87210e20e17c iss=? exp=1782483643
+[2026-06-26T12:20:44.853Z] → greeting to player=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T12:29:18.034Z] ping timeout — terminating player=2d9aa828-cedd-464b-933a-87210e20e17c
+[2026-06-26T12:29:18.035Z] client disconnected — player=2d9aa828-cedd-464b-933a-87210e20e17c ccu=0
+[2026-06-26T12:59:15.472Z] client connected — ip=2a02:c7c:7b0a:a400:fb2a:50ee:4cc:edbb player=b18a5723-46a4-477d-8de7-7cd4cf168c7f ccu=1 token_sub=b18a5723-46a4-477d-8de7-7cd4cf168c7f
+[2026-06-26T12:59:15.473Z]   JWT: sub=b18a5723-46a4-477d-8de7-7cd4cf168c7f iss=? exp=1782485954
+[2026-06-26T12:59:15.473Z] → greeting to player=b18a5723-46a4-477d-8de7-7cd4cf168c7f
+[2026-06-26T13:01:42.807Z] client disconnected — player=b18a5723-46a4-477d-8de7-7cd4cf168c7f ccu=0
+[2026-06-26T13:11:01.960Z] client connected — ip=2601:c2:1b80:7ca0:d2c9:ecce:c5c6:707e player=b69d02a5-8eee-4218-a940-eedbbe9e078d ccu=1 token_sub=b69d02a5-8eee-4218-a940-eedbbe9e078d
+[2026-06-26T13:11:01.961Z]   JWT: sub=b69d02a5-8eee-4218-a940-eedbbe9e078d iss=? exp=1782486660
+[2026-06-26T13:11:01.961Z] → greeting to player=b69d02a5-8eee-4218-a940-eedbbe9e078d
+[2026-06-26T13:11:19.275Z] client disconnected — player=b69d02a5-8eee-4218-a940-eedbbe9e078d ccu=0
+[2026-06-26T13:36:46.293Z] client connected — ip=46.120.97.206 player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=1 token_sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T13:36:46.293Z]   JWT: sub=3efab8c2-2e1b-4111-a115-6dc9ab36e76c iss=? exp=1782488205
+[2026-06-26T13:36:46.294Z] → greeting to player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c
+[2026-06-26T13:38:56.912Z] client disconnected — player=3efab8c2-2e1b-4111-a115-6dc9ab36e76c ccu=0
+[2026-06-26T13:40:49.746Z] client connected — ip=2a00:23cc:df45:bc01:60f2:23bc:8c69:d27e player=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31 ccu=1 token_sub=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31
+[2026-06-26T13:40:49.746Z]   JWT: sub=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31 iss=? exp=1782488448
+[2026-06-26T13:40:49.746Z] → greeting to player=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31
+[2026-06-26T13:42:36.190Z] client disconnected — player=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31 ccu=0
+[2026-06-26T13:49:35.736Z] client connected — ip=78.28.86.78 player=c94078b4-7098-4863-967e-c6556a9e97b7 ccu=1 token_sub=c94078b4-7098-4863-967e-c6556a9e97b7
+[2026-06-26T13:49:35.736Z]   JWT: sub=c94078b4-7098-4863-967e-c6556a9e97b7 iss=? exp=1782488974
+[2026-06-26T13:49:35.736Z] → greeting to player=c94078b4-7098-4863-967e-c6556a9e97b7
+[2026-06-26T13:52:08.923Z] client disconnected — player=c94078b4-7098-4863-967e-c6556a9e97b7 ccu=0
+[2026-06-26T13:52:37.335Z] client connected — ip=78.28.86.78 player=c94078b4-7098-4863-967e-c6556a9e97b7 ccu=1 token_sub=c94078b4-7098-4863-967e-c6556a9e97b7
+[2026-06-26T13:52:37.336Z]   JWT: sub=c94078b4-7098-4863-967e-c6556a9e97b7 iss=? exp=1782488974
+[2026-06-26T13:52:37.336Z] → greeting to player=c94078b4-7098-4863-967e-c6556a9e97b7
+[2026-06-26T13:53:15.190Z] client disconnected — player=c94078b4-7098-4863-967e-c6556a9e97b7 ccu=0
+[2026-06-26T13:54:28.829Z] client connected — ip=2603:9000:7501:47d0:d91d:e335:6257:8935 player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=1 token_sub=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T13:54:28.830Z]   JWT: sub=5e2cba22-8c49-4692-b7e3-c47211a0300e iss=? exp=1782489267
+[2026-06-26T13:54:28.830Z] → greeting to player=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T13:58:34.938Z] client connected — ip=167.248.8.191 player=7ce701cd-d315-4231-9e0e-441adf4b0c53 ccu=2 token_sub=7ce701cd-d315-4231-9e0e-441adf4b0c53
+[2026-06-26T13:58:34.938Z]   JWT: sub=7ce701cd-d315-4231-9e0e-441adf4b0c53 iss=? exp=1782489513
+[2026-06-26T13:58:34.939Z] → greeting to player=7ce701cd-d315-4231-9e0e-441adf4b0c53
+[2026-06-26T14:02:25.825Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:02:25.826Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782489744
+[2026-06-26T14:02:25.826Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:02:27.747Z] client disconnected — player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=2
+[2026-06-26T14:03:08.991Z] client connected — ip=2603:9000:7501:47d0:d91d:e335:6257:8935 player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=3 token_sub=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T14:03:08.991Z]   JWT: sub=5e2cba22-8c49-4692-b7e3-c47211a0300e iss=? exp=1782489267
+[2026-06-26T14:03:08.992Z] → greeting to player=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T14:03:10.020Z] client connected — ip=2601:84:ca81:8bd0:edbd:66e3:439:3b3e player=unknown ccu=3 token_sub=none
+[2026-06-26T14:03:10.021Z] → greeting to player=unknown
+[2026-06-26T14:03:19.652Z] client disconnected — player=unknown ccu=3
+[2026-06-26T14:05:37.591Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=2
+[2026-06-26T14:06:04.393Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:06:04.393Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782489744
+[2026-06-26T14:06:04.394Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:07:17.767Z] client disconnected — player=7ce701cd-d315-4231-9e0e-441adf4b0c53 ccu=2
+[2026-06-26T14:07:23.732Z] client connected — ip=2a01:e0a:514:6180:3030:607d:8332:86ea player=749b2a84-a17e-40d3-91be-e98c20c0168e ccu=3 token_sub=749b2a84-a17e-40d3-91be-e98c20c0168e
+[2026-06-26T14:07:23.733Z]   JWT: sub=749b2a84-a17e-40d3-91be-e98c20c0168e iss=? exp=1782490042
+[2026-06-26T14:07:23.733Z] → greeting to player=749b2a84-a17e-40d3-91be-e98c20c0168e
+[2026-06-26T14:08:05.676Z] client connected — ip=2601:840:8700:7070:4f55:2607:1a16:997 player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=4 token_sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T14:08:05.676Z]   JWT: sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 iss=? exp=1782490084
+[2026-06-26T14:08:05.677Z] → greeting to player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T14:08:35.541Z] client connected — ip=70.29.208.192 player=c1d40e0e-e076-4416-b70c-a8aa2740f585 ccu=5 token_sub=c1d40e0e-e076-4416-b70c-a8aa2740f585
+[2026-06-26T14:08:35.542Z]   JWT: sub=c1d40e0e-e076-4416-b70c-a8aa2740f585 iss=? exp=1782490114
+[2026-06-26T14:08:35.542Z] → greeting to player=c1d40e0e-e076-4416-b70c-a8aa2740f585
+[2026-06-26T14:09:21.316Z] client connected — ip=162.250.86.144 player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=6 token_sub=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T14:09:21.316Z]   JWT: sub=45fa51e9-639c-4db7-87cd-f95a6b30229f iss=? exp=1782490160
+[2026-06-26T14:09:21.316Z] → greeting to player=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T14:11:23.205Z] client disconnected — player=749b2a84-a17e-40d3-91be-e98c20c0168e ccu=5
+[2026-06-26T14:15:01.660Z] client disconnected — player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=4
+[2026-06-26T14:16:44.088Z] client disconnected — player=c1d40e0e-e076-4416-b70c-a8aa2740f585 ccu=3
+[2026-06-26T14:18:14.592Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=2
+[2026-06-26T14:21:56.430Z] client disconnected — player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=1
+[2026-06-26T14:22:25.223Z] client connected — ip=2603:9000:7501:47d0:d91d:e335:6257:8935 player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=2 token_sub=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T14:22:25.224Z]   JWT: sub=5e2cba22-8c49-4692-b7e3-c47211a0300e iss=? exp=1782489267
+[2026-06-26T14:22:25.224Z] → greeting to player=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T14:22:36.953Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:22:36.953Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782489744
+[2026-06-26T14:22:36.954Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:27:08.805Z] client connected — ip=172.111.6.29 player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 ccu=4 token_sub=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5
+[2026-06-26T14:27:08.806Z]   JWT: sub=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 iss=? exp=1782491227
+[2026-06-26T14:27:08.806Z] → greeting to player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5
+[2026-06-26T14:29:41.472Z] client disconnected — player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 ccu=3
+[2026-06-26T14:33:23.777Z] client connected — ip=207.188.169.19 player=0bd7df9f-c06e-4bdf-958a-453323b175f5 ccu=4 token_sub=0bd7df9f-c06e-4bdf-958a-453323b175f5
+[2026-06-26T14:33:23.777Z]   JWT: sub=0bd7df9f-c06e-4bdf-958a-453323b175f5 iss=? exp=1782491602
+[2026-06-26T14:33:23.778Z] → greeting to player=0bd7df9f-c06e-4bdf-958a-453323b175f5
+[2026-06-26T14:34:56.115Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=5 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T14:34:56.116Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782491694
+[2026-06-26T14:34:56.116Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T14:35:07.908Z] client disconnected — player=0bd7df9f-c06e-4bdf-958a-453323b175f5 ccu=4
+[2026-06-26T14:35:23.030Z] client connected — ip=2600:383:540:eecd:86f2:a7b4:d6fa:c630 player=bc3580d3-d6c5-4310-8499-813f495b72cc ccu=5 token_sub=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T14:35:23.030Z]   JWT: sub=bc3580d3-d6c5-4310-8499-813f495b72cc iss=? exp=1782491721
+[2026-06-26T14:35:23.031Z] → greeting to player=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T14:36:15.943Z] client connected — ip=2600:1700:ce80:13f0:1a37:a5ec:2ace:e3b0 player=unknown ccu=5 token_sub=none
+[2026-06-26T14:36:15.944Z] → greeting to player=unknown
+[2026-06-26T14:36:41.933Z] client connected — ip=2600:8807:800e:1e00:b2b:6ead:9e90:e213 player=a2d88af4-fc3e-44e6-8ca7-f476ba033df1 ccu=6 token_sub=a2d88af4-fc3e-44e6-8ca7-f476ba033df1
+[2026-06-26T14:36:41.933Z]   JWT: sub=a2d88af4-fc3e-44e6-8ca7-f476ba033df1 iss=? exp=1782491800
+[2026-06-26T14:36:41.934Z] → greeting to player=a2d88af4-fc3e-44e6-8ca7-f476ba033df1
+[2026-06-26T14:36:45.044Z] client disconnected — player=unknown ccu=6
+[2026-06-26T14:37:05.969Z] client disconnected — player=a2d88af4-fc3e-44e6-8ca7-f476ba033df1 ccu=5
+[2026-06-26T14:44:07.001Z] client disconnected — player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=4
+[2026-06-26T14:44:23.532Z] client connected — ip=2600:8807:58c5:9c00:afc:2525:e016:b011 player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=5 token_sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T14:44:23.532Z]   JWT: sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 iss=? exp=1782492262
+[2026-06-26T14:44:23.533Z] → greeting to player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T14:45:12.920Z] client disconnected — player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=4
+[2026-06-26T14:46:18.204Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=3
+[2026-06-26T14:46:50.040Z] ping timeout — terminating player=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T14:46:50.041Z] client disconnected — player=bc3580d3-d6c5-4310-8499-813f495b72cc ccu=2
+[2026-06-26T14:47:01.146Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=3 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T14:47:01.146Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782491694
+[2026-06-26T14:47:01.147Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T14:47:34.814Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=2
+[2026-06-26T14:48:38.936Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:48:38.937Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782489744
+[2026-06-26T14:48:38.937Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T14:50:38.642Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=2
+[2026-06-26T14:50:50.649Z] client disconnected — player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=1
+[2026-06-26T14:51:20.105Z] ping timeout — terminating player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T14:51:20.106Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=0
+[2026-06-26T15:05:10.671Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=1 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T15:05:10.672Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782491694
+[2026-06-26T15:05:10.672Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T15:11:51.155Z] client connected — ip=2601:840:8700:7070:4f55:2607:1a16:997 player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=2 token_sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T15:11:51.156Z]   JWT: sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 iss=? exp=1782490084
+[2026-06-26T15:11:51.156Z] → greeting to player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T15:13:28.242Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=1
+[2026-06-26T15:15:39.372Z] client connected — ip=2001:9e8:5683:b00:10b9:ce6b:c308:a252 player=5d815b22-ee4b-4abd-b202-3f776c0ebe2e ccu=2 token_sub=5d815b22-ee4b-4abd-b202-3f776c0ebe2e
+[2026-06-26T15:15:39.373Z]   JWT: sub=5d815b22-ee4b-4abd-b202-3f776c0ebe2e iss=? exp=1782494138
+[2026-06-26T15:15:39.373Z] → greeting to player=5d815b22-ee4b-4abd-b202-3f776c0ebe2e
+[2026-06-26T15:15:40.933Z] client disconnected — player=5d815b22-ee4b-4abd-b202-3f776c0ebe2e ccu=1
+[2026-06-26T15:15:44.493Z] client disconnected — player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=0
+[2026-06-26T15:16:14.581Z] client connected — ip=2601:840:8700:7070:4f55:2607:1a16:997 player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=1 token_sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T15:16:14.581Z]   JWT: sub=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 iss=? exp=1782490084
+[2026-06-26T15:16:14.581Z] → greeting to player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579
+[2026-06-26T15:16:55.279Z] client connected — ip=2001:9e8:5683:b00:10b9:ce6b:c308:a252 player=5d815b22-ee4b-4abd-b202-3f776c0ebe2e ccu=2 token_sub=5d815b22-ee4b-4abd-b202-3f776c0ebe2e
+[2026-06-26T15:16:55.280Z]   JWT: sub=5d815b22-ee4b-4abd-b202-3f776c0ebe2e iss=? exp=1782494138
+[2026-06-26T15:16:55.280Z] → greeting to player=5d815b22-ee4b-4abd-b202-3f776c0ebe2e
+[2026-06-26T15:19:25.939Z] client connected — ip=2a0a:ef40:1204:e701:a0e2:ca15:5e52:246d player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=3 token_sub=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T15:19:25.940Z]   JWT: sub=d6476879-4fa4-41f8-959b-c674a213cba0 iss=? exp=1782494364
+[2026-06-26T15:19:25.940Z] → greeting to player=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T15:20:58.195Z] client connected — ip=2600:1014:a100:532a:8c43:aac0:457:2894 player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=4 token_sub=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T15:20:58.196Z]   JWT: sub=9e86ea59-1f32-4abd-a4e1-66441766836d iss=? exp=1782494457
+[2026-06-26T15:20:58.196Z] → greeting to player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T15:22:06.244Z] client connected — ip=2a02:c7c:7d6c:a400:6a6c:9f1b:238c:ec59 player=76202af6-97d8-413e-b4ed-0fafbe0f92c0 ccu=5 token_sub=76202af6-97d8-413e-b4ed-0fafbe0f92c0
+[2026-06-26T15:22:06.245Z]   JWT: sub=76202af6-97d8-413e-b4ed-0fafbe0f92c0 iss=? exp=1782494524
+[2026-06-26T15:22:06.245Z] → greeting to player=76202af6-97d8-413e-b4ed-0fafbe0f92c0
+[2026-06-26T15:22:37.805Z] client connected — ip=2601:603:702:9e50:e6c4:5cf3:23d5:9289 player=unknown ccu=5 token_sub=none
+[2026-06-26T15:22:37.805Z] → greeting to player=unknown
+[2026-06-26T15:22:43.718Z] client disconnected — player=unknown ccu=5
+[2026-06-26T15:23:14.433Z] client connected — ip=2601:603:702:9e50:e6c4:5cf3:23d5:9289 player=89084efa-45cc-4448-a082-228e09fe85bf ccu=6 token_sub=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T15:23:14.434Z]   JWT: sub=89084efa-45cc-4448-a082-228e09fe85bf iss=? exp=1782494593
+[2026-06-26T15:23:14.434Z] → greeting to player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T15:26:03.092Z] client connected — ip=2600:6c48:6e7f:62ca:7107:b3f6:bd11:7eaf player=unknown ccu=6 token_sub=none
+[2026-06-26T15:26:03.093Z] → greeting to player=unknown
+[2026-06-26T15:26:06.940Z] client disconnected — player=unknown ccu=6
+[2026-06-26T15:26:34.541Z] client connected — ip=2603:900b:b3f1:b8e0:b111:1007:73d2:c7c4 player=570984ef-f3e0-4d4a-8219-60fe1532f0b6 ccu=7 token_sub=570984ef-f3e0-4d4a-8219-60fe1532f0b6
+[2026-06-26T15:26:34.541Z]   JWT: sub=570984ef-f3e0-4d4a-8219-60fe1532f0b6 iss=? exp=1782494793
+[2026-06-26T15:26:34.542Z] → greeting to player=570984ef-f3e0-4d4a-8219-60fe1532f0b6
+[2026-06-26T15:26:53.721Z] client disconnected — player=76202af6-97d8-413e-b4ed-0fafbe0f92c0 ccu=6
+[2026-06-26T15:27:57.869Z] client connected — ip=174.89.136.231 player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=7 token_sub=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T15:27:57.869Z]   JWT: sub=240343b0-dccc-4850-8342-3a6f1af53496 iss=? exp=1782494876
+[2026-06-26T15:27:57.870Z] → greeting to player=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T15:29:30.554Z] client disconnected — player=570984ef-f3e0-4d4a-8219-60fe1532f0b6 ccu=6
+[2026-06-26T15:30:01.223Z] client connected — ip=2603:900b:b3f1:b8e0:b111:1007:73d2:c7c4 player=570984ef-f3e0-4d4a-8219-60fe1532f0b6 ccu=7 token_sub=570984ef-f3e0-4d4a-8219-60fe1532f0b6
+[2026-06-26T15:30:01.223Z]   JWT: sub=570984ef-f3e0-4d4a-8219-60fe1532f0b6 iss=? exp=1782494793
+[2026-06-26T15:30:01.224Z] → greeting to player=570984ef-f3e0-4d4a-8219-60fe1532f0b6
+[2026-06-26T15:30:38.471Z] client disconnected — player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=6
+[2026-06-26T15:31:10.795Z] client connected — ip=2600:1014:a100:532a:8c43:aac0:457:2894 player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=7 token_sub=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T15:31:10.795Z]   JWT: sub=9e86ea59-1f32-4abd-a4e1-66441766836d iss=? exp=1782494457
+[2026-06-26T15:31:10.796Z] → greeting to player=9e86ea59-1f32-4abd-a4e1-66441766836d
+[2026-06-26T15:31:20.756Z] ping timeout — terminating player=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T15:31:20.757Z] client disconnected — player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=6
+[2026-06-26T15:36:00.138Z] client disconnected — player=5d815b22-ee4b-4abd-b202-3f776c0ebe2e ccu=5
+[2026-06-26T15:38:16.148Z] client connected — ip=2600:8807:58c5:9c00:61c3:f4a1:b0fb:bf47 player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=6 token_sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T15:38:16.149Z]   JWT: sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 iss=? exp=1782492262
+[2026-06-26T15:38:16.149Z] → greeting to player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T15:39:12.120Z] client disconnected — player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=5
+[2026-06-26T15:39:13.329Z] client disconnected — player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=4
+[2026-06-26T15:41:48.174Z] client disconnected — player=6a2cd54a-7a2c-4b02-a7d8-8d67c61db579 ccu=3
+[2026-06-26T15:44:36.137Z] client disconnected — player=570984ef-f3e0-4d4a-8219-60fe1532f0b6 ccu=2
+[2026-06-26T15:45:55.495Z] client disconnected — player=9e86ea59-1f32-4abd-a4e1-66441766836d ccu=1
+[2026-06-26T16:03:21.211Z] ping timeout — terminating player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T16:03:21.212Z] client disconnected — player=89084efa-45cc-4448-a082-228e09fe85bf ccu=0
+[2026-06-26T16:04:18.520Z] client connected — ip=2a06:5904:f3:d100:a7e6:4990:59c7:3e77 player=ce6ee103-e21b-4b1b-8e1b-9f1db8d17ffc ccu=1 token_sub=ce6ee103-e21b-4b1b-8e1b-9f1db8d17ffc
+[2026-06-26T16:04:18.521Z]   JWT: sub=ce6ee103-e21b-4b1b-8e1b-9f1db8d17ffc iss=? exp=1782497057
+[2026-06-26T16:04:18.521Z] → greeting to player=ce6ee103-e21b-4b1b-8e1b-9f1db8d17ffc
+[2026-06-26T16:05:27.515Z] client connected — ip=2603:9000:7501:47d0:d91d:e335:6257:8935 player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=2 token_sub=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T16:05:27.515Z]   JWT: sub=5e2cba22-8c49-4692-b7e3-c47211a0300e iss=? exp=1782497126
+[2026-06-26T16:05:27.516Z] → greeting to player=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T16:05:40.096Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T16:05:40.096Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782497138
+[2026-06-26T16:05:40.097Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T16:05:40.957Z] client connected — ip=162.250.86.144 player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=4 token_sub=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T16:05:40.957Z]   JWT: sub=45fa51e9-639c-4db7-87cd-f95a6b30229f iss=? exp=1782497139
+[2026-06-26T16:05:40.958Z] → greeting to player=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T16:10:28.971Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3
+[2026-06-26T16:10:53.529Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=4 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T16:10:53.530Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782497138
+[2026-06-26T16:10:53.530Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T16:13:55.023Z] client connected — ip=2603:6080:cf0:83b0:6061:4e34:dd39:a611 player=bc3580d3-d6c5-4310-8499-813f495b72cc ccu=5 token_sub=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T16:13:55.024Z]   JWT: sub=bc3580d3-d6c5-4310-8499-813f495b72cc iss=? exp=1782497634
+[2026-06-26T16:13:55.024Z] → greeting to player=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T16:14:14.438Z] client disconnected — player=ce6ee103-e21b-4b1b-8e1b-9f1db8d17ffc ccu=4
+[2026-06-26T16:20:51.486Z] ping timeout — terminating player=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T16:20:51.488Z] client disconnected — player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=3
+[2026-06-26T16:23:21.542Z] ping timeout — terminating player=bc3580d3-d6c5-4310-8499-813f495b72cc
+[2026-06-26T16:23:21.543Z] client disconnected — player=bc3580d3-d6c5-4310-8499-813f495b72cc ccu=2
+[2026-06-26T16:23:49.797Z] client connected — ip=2a0a:ef40:1aee:4f01:8e21:46c7:d30c:c3d9 player=9983b392-9392-49eb-b7e8-ba2dd24f43d8 ccu=3 token_sub=9983b392-9392-49eb-b7e8-ba2dd24f43d8
+[2026-06-26T16:23:49.798Z]   JWT: sub=9983b392-9392-49eb-b7e8-ba2dd24f43d8 iss=? exp=1782498228
+[2026-06-26T16:23:49.798Z] → greeting to player=9983b392-9392-49eb-b7e8-ba2dd24f43d8
+[2026-06-26T16:25:50.244Z] client connected — ip=2601:603:702:9e50:e6c4:5cf3:23d5:9289 player=89084efa-45cc-4448-a082-228e09fe85bf ccu=4 token_sub=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T16:25:50.245Z]   JWT: sub=89084efa-45cc-4448-a082-228e09fe85bf iss=? exp=1782494593
+[2026-06-26T16:25:50.245Z] → greeting to player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T16:26:51.590Z] ping timeout — terminating player=9983b392-9392-49eb-b7e8-ba2dd24f43d8
+[2026-06-26T16:26:51.591Z] client disconnected — player=9983b392-9392-49eb-b7e8-ba2dd24f43d8 ccu=3
+[2026-06-26T16:27:44.741Z] client disconnected — player=89084efa-45cc-4448-a082-228e09fe85bf ccu=2
+[2026-06-26T16:28:50.054Z] client connected — ip=2a00:23cc:f632:ee01:151:a7dd:fb5:8f7f player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=3 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T16:28:50.055Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782498528
+[2026-06-26T16:28:50.055Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T16:31:48.821Z] client connected — ip=130.17.37.104 player=0b2875d7-0a71-4c6b-82b1-66c641c18813 ccu=4 token_sub=0b2875d7-0a71-4c6b-82b1-66c641c18813
+[2026-06-26T16:31:48.822Z]   JWT: sub=0b2875d7-0a71-4c6b-82b1-66c641c18813 iss=? exp=1782498707
+[2026-06-26T16:31:48.822Z] → greeting to player=0b2875d7-0a71-4c6b-82b1-66c641c18813
+[2026-06-26T16:32:23.963Z] client connected — ip=2601:5c2:201:a340:cb5:a425:455:9510 player=5b850f17-cc9e-49a2-9ea2-cd66f4d2b464 ccu=5 token_sub=5b850f17-cc9e-49a2-9ea2-cd66f4d2b464
+[2026-06-26T16:32:23.964Z]   JWT: sub=5b850f17-cc9e-49a2-9ea2-cd66f4d2b464 iss=? exp=1782498742
+[2026-06-26T16:32:23.964Z] → greeting to player=5b850f17-cc9e-49a2-9ea2-cd66f4d2b464
+[2026-06-26T16:32:24.302Z] client connected — ip=130.17.37.104 player=df15e034-91c2-4328-ad99-7ee9d3c6dc2f ccu=6 token_sub=df15e034-91c2-4328-ad99-7ee9d3c6dc2f
+[2026-06-26T16:32:24.302Z]   JWT: sub=df15e034-91c2-4328-ad99-7ee9d3c6dc2f iss=? exp=1782498743
+[2026-06-26T16:32:24.302Z] → greeting to player=df15e034-91c2-4328-ad99-7ee9d3c6dc2f
+[2026-06-26T16:34:59.322Z] client disconnected — player=5b850f17-cc9e-49a2-9ea2-cd66f4d2b464 ccu=5
+[2026-06-26T16:35:10.249Z] client connected — ip=153.66.81.127 player=bf4266cc-3c52-4648-ab4c-ed9bfccc18c3 ccu=6 token_sub=bf4266cc-3c52-4648-ab4c-ed9bfccc18c3
+[2026-06-26T16:35:10.249Z]   JWT: sub=bf4266cc-3c52-4648-ab4c-ed9bfccc18c3 iss=? exp=1782498909
+[2026-06-26T16:35:10.250Z] → greeting to player=bf4266cc-3c52-4648-ab4c-ed9bfccc18c3
+[2026-06-26T16:43:49.413Z] client connected — ip=2603:6000:a400:6f8d:827e:9b6e:140a:257 player=71d6346f-e2da-4ce5-93f7-b9abb544ede8 ccu=7 token_sub=71d6346f-e2da-4ce5-93f7-b9abb544ede8
+[2026-06-26T16:43:49.413Z]   JWT: sub=71d6346f-e2da-4ce5-93f7-b9abb544ede8 iss=? exp=1782499428
+[2026-06-26T16:43:49.413Z] → greeting to player=71d6346f-e2da-4ce5-93f7-b9abb544ede8
+[2026-06-26T16:45:02.031Z] client disconnected — player=71d6346f-e2da-4ce5-93f7-b9abb544ede8 ccu=6
+[2026-06-26T16:45:51.861Z] ping timeout — terminating player=bf4266cc-3c52-4648-ab4c-ed9bfccc18c3
+[2026-06-26T16:45:51.862Z] client disconnected — player=bf4266cc-3c52-4648-ab4c-ed9bfccc18c3 ccu=5
+[2026-06-26T16:46:24.893Z] client connected — ip=2a0a:ef40:1204:e701:c720:7cfa:b975:68 player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=6 token_sub=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T16:46:24.894Z]   JWT: sub=d6476879-4fa4-41f8-959b-c674a213cba0 iss=? exp=1782494364
+[2026-06-26T16:46:24.894Z] → greeting to player=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T16:49:49.490Z] client connected — ip=2600:8807:58c5:9c00:2dc4:f594:306d:f7f1 player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=7 token_sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T16:49:49.491Z]   JWT: sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 iss=? exp=1782499788
+[2026-06-26T16:49:49.491Z] → greeting to player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T16:50:51.942Z] ping timeout — terminating player=0b2875d7-0a71-4c6b-82b1-66c641c18813
+[2026-06-26T16:50:51.943Z] client disconnected — player=0b2875d7-0a71-4c6b-82b1-66c641c18813 ccu=6
+[2026-06-26T16:51:21.104Z] client disconnected — player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=5
+[2026-06-26T16:51:51.948Z] ping timeout — terminating player=df15e034-91c2-4328-ad99-7ee9d3c6dc2f
+[2026-06-26T16:51:51.949Z] client disconnected — player=df15e034-91c2-4328-ad99-7ee9d3c6dc2f ccu=4
+[2026-06-26T16:55:31.447Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=5 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T16:55:31.447Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782500130
+[2026-06-26T16:55:31.448Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T17:01:05.048Z] client connected — ip=2a0e:1d47:8183:f200:c400:150e:b6f5:3b27 player=ffb72a62-2bd2-4f74-8ac8-226c099392f0 ccu=6 token_sub=ffb72a62-2bd2-4f74-8ac8-226c099392f0
+[2026-06-26T17:01:05.048Z]   JWT: sub=ffb72a62-2bd2-4f74-8ac8-226c099392f0 iss=? exp=1782500463
+[2026-06-26T17:01:05.049Z] → greeting to player=ffb72a62-2bd2-4f74-8ac8-226c099392f0
+[2026-06-26T17:01:13.582Z] client connected — ip=2600:1005:a128:cab3:61d3:f8b5:3aca:d4c3 player=b550ed92-7da4-42fc-8e27-d92c54ef3b42 ccu=7 token_sub=b550ed92-7da4-42fc-8e27-d92c54ef3b42
+[2026-06-26T17:01:13.582Z]   JWT: sub=b550ed92-7da4-42fc-8e27-d92c54ef3b42 iss=? exp=1782500472
+[2026-06-26T17:01:13.582Z] → greeting to player=b550ed92-7da4-42fc-8e27-d92c54ef3b42
+[2026-06-26T17:01:42.476Z] client connected — ip=2603:6000:a400:6f8d:827e:9b6e:140a:257 player=71d6346f-e2da-4ce5-93f7-b9abb544ede8 ccu=8 token_sub=71d6346f-e2da-4ce5-93f7-b9abb544ede8
+[2026-06-26T17:01:42.476Z]   JWT: sub=71d6346f-e2da-4ce5-93f7-b9abb544ede8 iss=? exp=1782499428
+[2026-06-26T17:01:42.476Z] → greeting to player=71d6346f-e2da-4ce5-93f7-b9abb544ede8
+[2026-06-26T17:02:21.795Z] client connected — ip=86.172.45.200 player=cda8998f-64d1-4174-a1e6-af0742296774 ccu=9 token_sub=cda8998f-64d1-4174-a1e6-af0742296774
+[2026-06-26T17:02:21.796Z]   JWT: sub=cda8998f-64d1-4174-a1e6-af0742296774 iss=? exp=1782500540
+[2026-06-26T17:02:21.796Z] → greeting to player=cda8998f-64d1-4174-a1e6-af0742296774
+[2026-06-26T17:03:34.649Z] client disconnected — player=ffb72a62-2bd2-4f74-8ac8-226c099392f0 ccu=8
+[2026-06-26T17:04:17.767Z] client connected — ip=188.142.43.178 player=d10aec7e-a733-445a-b1f1-3fe5f3da5761 ccu=9 token_sub=d10aec7e-a733-445a-b1f1-3fe5f3da5761
+[2026-06-26T17:04:17.768Z]   JWT: sub=d10aec7e-a733-445a-b1f1-3fe5f3da5761 iss=? exp=1782500656
+[2026-06-26T17:04:17.768Z] → greeting to player=d10aec7e-a733-445a-b1f1-3fe5f3da5761
+[2026-06-26T17:04:18.870Z] client disconnected — player=d10aec7e-a733-445a-b1f1-3fe5f3da5761 ccu=8
+[2026-06-26T17:05:09.317Z] client disconnected — player=71d6346f-e2da-4ce5-93f7-b9abb544ede8 ccu=7
+[2026-06-26T17:07:30.077Z] client connected — ip=66.61.5.10 player=9d950635-fcd1-42d1-b3b5-01a07549b71d ccu=8 token_sub=9d950635-fcd1-42d1-b3b5-01a07549b71d
+[2026-06-26T17:07:30.078Z]   JWT: sub=9d950635-fcd1-42d1-b3b5-01a07549b71d iss=? exp=1782500848
+[2026-06-26T17:07:30.078Z] → greeting to player=9d950635-fcd1-42d1-b3b5-01a07549b71d
+[2026-06-26T17:07:51.778Z] client disconnected — player=cda8998f-64d1-4174-a1e6-af0742296774 ccu=7
+[2026-06-26T17:08:52.224Z] ping timeout — terminating player=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T17:08:52.225Z] client disconnected — player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=6
+[2026-06-26T17:08:56.526Z] client disconnected — player=9d950635-fcd1-42d1-b3b5-01a07549b71d ccu=5
+[2026-06-26T17:13:27.756Z] client connected — ip=2601:18a:8284:baa0:378c:a7fb:2a6d:d6ab player=28ffe94c-b150-43fc-8e74-0ad18f8308d8 ccu=6 token_sub=28ffe94c-b150-43fc-8e74-0ad18f8308d8
+[2026-06-26T17:13:27.756Z]   JWT: sub=28ffe94c-b150-43fc-8e74-0ad18f8308d8 iss=? exp=1782501206
+[2026-06-26T17:13:27.756Z] → greeting to player=28ffe94c-b150-43fc-8e74-0ad18f8308d8
+[2026-06-26T17:13:38.704Z] client disconnected — player=b550ed92-7da4-42fc-8e27-d92c54ef3b42 ccu=5
+[2026-06-26T17:14:37.021Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=4
+[2026-06-26T17:14:42.390Z] client connected — ip=47.223.225.138 player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 ccu=5 token_sub=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T17:14:42.390Z]   JWT: sub=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 iss=? exp=1782501281
+[2026-06-26T17:14:42.391Z] → greeting to player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T17:15:01.672Z] client connected — ip=162.154.70.236 player=789a4729-b725-49cb-b2c3-29855d6c882d ccu=6 token_sub=789a4729-b725-49cb-b2c3-29855d6c882d
+[2026-06-26T17:15:01.672Z]   JWT: sub=789a4729-b725-49cb-b2c3-29855d6c882d iss=? exp=1782501300
+[2026-06-26T17:15:01.673Z] → greeting to player=789a4729-b725-49cb-b2c3-29855d6c882d
+[2026-06-26T17:15:07.646Z] client disconnected — player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=5
+[2026-06-26T17:15:13.642Z] client connected — ip=2603:9000:7501:47d0:d91d:e335:6257:8935 player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=6 token_sub=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T17:15:13.643Z]   JWT: sub=5e2cba22-8c49-4692-b7e3-c47211a0300e iss=? exp=1782497126
+[2026-06-26T17:15:13.643Z] → greeting to player=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T17:15:25.598Z] client disconnected — player=28ffe94c-b150-43fc-8e74-0ad18f8308d8 ccu=5
+[2026-06-26T17:16:07.315Z] client disconnected — player=789a4729-b725-49cb-b2c3-29855d6c882d ccu=4
+[2026-06-26T17:18:14.129Z] client connected — ip=162.154.70.236 player=789a4729-b725-49cb-b2c3-29855d6c882d ccu=5 token_sub=789a4729-b725-49cb-b2c3-29855d6c882d
+[2026-06-26T17:18:14.130Z]   JWT: sub=789a4729-b725-49cb-b2c3-29855d6c882d iss=? exp=1782501300
+[2026-06-26T17:18:14.130Z] → greeting to player=789a4729-b725-49cb-b2c3-29855d6c882d
+[2026-06-26T17:22:15.329Z] client connected — ip=2600:1702:2f30:9600:4033:1ede:cf4d:6e67 player=19d03c23-cc99-4331-89aa-0d08ce394b37 ccu=6 token_sub=19d03c23-cc99-4331-89aa-0d08ce394b37
+[2026-06-26T17:22:15.329Z]   JWT: sub=19d03c23-cc99-4331-89aa-0d08ce394b37 iss=? exp=1782501734
+[2026-06-26T17:22:15.329Z] → greeting to player=19d03c23-cc99-4331-89aa-0d08ce394b37
+[2026-06-26T17:22:23.439Z] client disconnected — player=19d03c23-cc99-4331-89aa-0d08ce394b37 ccu=5
+[2026-06-26T17:23:26.353Z] client connected — ip=2600:1702:5671:a310:67a0:190e:c2ed:f581 player=25d232e3-4993-4108-9d8b-bd6084bce5bc ccu=6 token_sub=25d232e3-4993-4108-9d8b-bd6084bce5bc
+[2026-06-26T17:23:26.354Z]   JWT: sub=25d232e3-4993-4108-9d8b-bd6084bce5bc iss=? exp=1782501805
+[2026-06-26T17:23:26.354Z] → greeting to player=25d232e3-4993-4108-9d8b-bd6084bce5bc
+[2026-06-26T17:24:53.429Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=5
+[2026-06-26T17:25:38.219Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=4
+[2026-06-26T17:25:45.690Z] client disconnected — player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=3
+[2026-06-26T17:25:52.475Z] ping timeout — terminating player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T17:25:52.476Z] client disconnected — player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 ccu=2
+[2026-06-26T17:26:22.482Z] ping timeout — terminating player=789a4729-b725-49cb-b2c3-29855d6c882d
+[2026-06-26T17:26:22.483Z] client disconnected — player=789a4729-b725-49cb-b2c3-29855d6c882d ccu=1
+[2026-06-26T17:27:21.678Z] client connected — ip=2600:6c46:3940:7:8b43:93b3:b942:ac61 player=13861cd1-d9da-420b-8418-3b68aab1588c ccu=2 token_sub=13861cd1-d9da-420b-8418-3b68aab1588c
+[2026-06-26T17:27:21.678Z]   JWT: sub=13861cd1-d9da-420b-8418-3b68aab1588c iss=? exp=1782502040
+[2026-06-26T17:27:21.679Z] → greeting to player=13861cd1-d9da-420b-8418-3b68aab1588c
+[2026-06-26T17:29:37.137Z] client disconnected — player=13861cd1-d9da-420b-8418-3b68aab1588c ccu=1
+[2026-06-26T17:32:48.218Z] client disconnected — player=25d232e3-4993-4108-9d8b-bd6084bce5bc ccu=0
+[2026-06-26T17:34:24.737Z] client connected — ip=2601:803:181:e190:be21:b7bc:28c2:eafe player=20b161bf-2b43-455f-96d8-63ba66f4f248 ccu=1 token_sub=20b161bf-2b43-455f-96d8-63ba66f4f248
+[2026-06-26T17:34:24.738Z]   JWT: sub=20b161bf-2b43-455f-96d8-63ba66f4f248 iss=? exp=1782502463
+[2026-06-26T17:34:24.738Z] → greeting to player=20b161bf-2b43-455f-96d8-63ba66f4f248
+[2026-06-26T17:35:05.660Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T17:35:05.660Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782500130
+[2026-06-26T17:35:05.661Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T17:37:04.494Z] client connected — ip=2a0a:ef40:1204:e701:14ac:ca1e:680:dab8 player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=3 token_sub=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T17:37:04.495Z]   JWT: sub=d6476879-4fa4-41f8-959b-c674a213cba0 iss=? exp=1782502623
+[2026-06-26T17:37:04.495Z] → greeting to player=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T17:37:24.765Z] client disconnected — player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=2
+[2026-06-26T17:40:19.708Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=1
+[2026-06-26T17:40:57.999Z] client connected — ip=79.45.140.127 player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=2 token_sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T17:40:58.000Z]   JWT: sub=4a0cc511-da84-4952-9dc8-3ebbf2e57296 iss=? exp=1782500130
+[2026-06-26T17:40:58.000Z] → greeting to player=4a0cc511-da84-4952-9dc8-3ebbf2e57296
+[2026-06-26T17:42:25.507Z] client connected — ip=188.217.131.229 player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=3 token_sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T17:42:25.507Z]   JWT: sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 iss=? exp=1782502944
+[2026-06-26T17:42:25.508Z] → greeting to player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T17:42:52.536Z] client connected — ip=12.55.227.166 player=0a33e5fa-52c3-437f-9ce5-9b30d157f8f6 ccu=4 token_sub=0a33e5fa-52c3-437f-9ce5-9b30d157f8f6
+[2026-06-26T17:42:52.536Z]   JWT: sub=0a33e5fa-52c3-437f-9ce5-9b30d157f8f6 iss=? exp=1782502971
+[2026-06-26T17:42:52.537Z] → greeting to player=0a33e5fa-52c3-437f-9ce5-9b30d157f8f6
+[2026-06-26T17:43:31.457Z] client disconnected — player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=3
+[2026-06-26T17:43:40.131Z] client disconnected — player=0a33e5fa-52c3-437f-9ce5-9b30d157f8f6 ccu=2
+[2026-06-26T17:44:06.598Z] client connected — ip=188.217.131.229 player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=3 token_sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T17:44:06.598Z]   JWT: sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 iss=? exp=1782502944
+[2026-06-26T17:44:06.599Z] → greeting to player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T17:45:41.834Z] client connected — ip=2a02:ba0:10a8:61d4:e3d3:e353:27:1479 player=3ed3f272-3c26-4a99-9e69-01b8663bfb2a ccu=4 token_sub=3ed3f272-3c26-4a99-9e69-01b8663bfb2a
+[2026-06-26T17:45:41.835Z]   JWT: sub=3ed3f272-3c26-4a99-9e69-01b8663bfb2a iss=? exp=1782503138
+[2026-06-26T17:45:41.835Z] → greeting to player=3ed3f272-3c26-4a99-9e69-01b8663bfb2a
+[2026-06-26T17:48:02.283Z] client connected — ip=84.236.49.1 player=a2986543-656d-406c-8a63-ad3e89fbc0e4 ccu=5 token_sub=a2986543-656d-406c-8a63-ad3e89fbc0e4
+[2026-06-26T17:48:02.284Z]   JWT: sub=a2986543-656d-406c-8a63-ad3e89fbc0e4 iss=? exp=1782503281
+[2026-06-26T17:48:02.284Z] → greeting to player=a2986543-656d-406c-8a63-ad3e89fbc0e4
+[2026-06-26T17:48:44.582Z] client connected — ip=2a02:8084:8001:e400:16ce:784:8312:40fc player=03a74495-a2c6-491a-8d84-e1921e14c03f ccu=6 token_sub=03a74495-a2c6-491a-8d84-e1921e14c03f
+[2026-06-26T17:48:44.583Z]   JWT: sub=03a74495-a2c6-491a-8d84-e1921e14c03f iss=? exp=1782503323
+[2026-06-26T17:48:44.583Z] → greeting to player=03a74495-a2c6-491a-8d84-e1921e14c03f
+[2026-06-26T17:49:26.441Z] client disconnected — player=03a74495-a2c6-491a-8d84-e1921e14c03f ccu=5
+[2026-06-26T17:49:27.034Z] client connected — ip=2a01:cb1d:8111:9b00:78f1:a7f:37f1:5530 player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 ccu=6 token_sub=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4
+[2026-06-26T17:49:27.034Z]   JWT: sub=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 iss=? exp=1782503365
+[2026-06-26T17:49:27.035Z] → greeting to player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4
+[2026-06-26T17:49:36.196Z] client disconnected — player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=5
+[2026-06-26T17:49:59.694Z] client disconnected — player=20b161bf-2b43-455f-96d8-63ba66f4f248 ccu=4
+[2026-06-26T17:50:17.215Z] client connected — ip=188.217.131.229 player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=5 token_sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T17:50:17.216Z]   JWT: sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 iss=? exp=1782502944
+[2026-06-26T17:50:17.216Z] → greeting to player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T17:51:48.403Z] client disconnected — player=4a0cc511-da84-4952-9dc8-3ebbf2e57296 ccu=4
+[2026-06-26T17:51:57.746Z] client connected — ip=2001:16b8:acd3:8301:2fbe:ba45:8d7c:8740 player=adb25143-2dfa-4114-887f-ef8a349f3249 ccu=5 token_sub=adb25143-2dfa-4114-887f-ef8a349f3249
+[2026-06-26T17:51:57.747Z]   JWT: sub=adb25143-2dfa-4114-887f-ef8a349f3249 iss=? exp=1782503516
+[2026-06-26T17:51:57.747Z] → greeting to player=adb25143-2dfa-4114-887f-ef8a349f3249
+[2026-06-26T17:52:25.007Z] client connected — ip=76.72.137.41 player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640 ccu=6 token_sub=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640
+[2026-06-26T17:52:25.008Z]   JWT: sub=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640 iss=? exp=1782503544
+[2026-06-26T17:52:25.008Z] → greeting to player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640
+[2026-06-26T17:53:11.837Z] client connected — ip=109.78.207.145 player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=7 token_sub=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T17:53:11.837Z]   JWT: sub=b774244f-ce7d-480e-b10d-5a18b0e685ba iss=? exp=1782503590
+[2026-06-26T17:53:11.838Z] → greeting to player=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T17:53:56.963Z] client connected — ip=2601:300:4b03:3410:a4c7:2fe3:df61:dd1c player=8e246407-948d-40fd-850f-7fcfbf0fb98f ccu=8 token_sub=8e246407-948d-40fd-850f-7fcfbf0fb98f
+[2026-06-26T17:53:56.963Z]   JWT: sub=8e246407-948d-40fd-850f-7fcfbf0fb98f iss=? exp=1782503635
+[2026-06-26T17:53:56.964Z] → greeting to player=8e246407-948d-40fd-850f-7fcfbf0fb98f
+[2026-06-26T17:54:34.489Z] client connected — ip=2607:fb92:1785:d75e:555:1c33:e0f0:384e player=d5eeadcd-f103-425a-aab6-929e5f8765b4 ccu=9 token_sub=d5eeadcd-f103-425a-aab6-929e5f8765b4
+[2026-06-26T17:54:34.489Z]   JWT: sub=d5eeadcd-f103-425a-aab6-929e5f8765b4 iss=? exp=1782503673
+[2026-06-26T17:54:34.489Z] → greeting to player=d5eeadcd-f103-425a-aab6-929e5f8765b4
+[2026-06-26T17:55:12.554Z] client connected — ip=2600:6c64:49f0:8000:6469:d429:5052:5442 player=90dc69ca-a7de-4bcf-9232-0897efeab3de ccu=10 token_sub=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T17:55:12.555Z]   JWT: sub=90dc69ca-a7de-4bcf-9232-0897efeab3de iss=? exp=1782503711
+[2026-06-26T17:55:12.555Z] → greeting to player=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T17:55:21.523Z] client connected — ip=2a02:908:1c40:4fe0:d51a:2d94:47f0:5d3b player=2b98d754-7f9a-4063-bbf7-1f98f3806639 ccu=11 token_sub=2b98d754-7f9a-4063-bbf7-1f98f3806639
+[2026-06-26T17:55:21.523Z]   JWT: sub=2b98d754-7f9a-4063-bbf7-1f98f3806639 iss=? exp=1782503720
+[2026-06-26T17:55:21.524Z] → greeting to player=2b98d754-7f9a-4063-bbf7-1f98f3806639
+[2026-06-26T17:55:52.939Z] ping timeout — terminating player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640
+[2026-06-26T17:55:52.940Z] client disconnected — player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640 ccu=10
+[2026-06-26T17:58:02.397Z] client disconnected — player=2b98d754-7f9a-4063-bbf7-1f98f3806639 ccu=9
+[2026-06-26T17:58:43.649Z] client disconnected — player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=8
+[2026-06-26T17:59:00.806Z] client connected — ip=2601:603:702:9e50:e6c4:5cf3:23d5:9289 player=89084efa-45cc-4448-a082-228e09fe85bf ccu=9 token_sub=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T17:59:00.807Z]   JWT: sub=89084efa-45cc-4448-a082-228e09fe85bf iss=? exp=1782503939
+[2026-06-26T17:59:00.807Z] → greeting to player=89084efa-45cc-4448-a082-228e09fe85bf
+[2026-06-26T17:59:10.244Z] client disconnected — player=90dc69ca-a7de-4bcf-9232-0897efeab3de ccu=8
+[2026-06-26T17:59:33.720Z] client disconnected — player=a2986543-656d-406c-8a63-ad3e89fbc0e4 ccu=7
+[2026-06-26T17:59:34.498Z] client connected — ip=2600:1700:60e1:e600:3685:6fde:380e:1782 player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=8 token_sub=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T17:59:34.499Z]   JWT: sub=697022ef-3b6b-4937-81fa-aefe3567e5e7 iss=? exp=1782503973
+[2026-06-26T17:59:34.499Z] → greeting to player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T17:59:57.191Z] client disconnected — player=d5eeadcd-f103-425a-aab6-929e5f8765b4 ccu=7
+[2026-06-26T18:00:01.739Z] client disconnected — player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=6
+[2026-06-26T18:00:26.712Z] client connected — ip=2600:1700:60e1:e600:3685:6fde:380e:1782 player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=7 token_sub=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T18:00:26.712Z]   JWT: sub=697022ef-3b6b-4937-81fa-aefe3567e5e7 iss=? exp=1782503973
+[2026-06-26T18:00:26.713Z] → greeting to player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T18:00:28.085Z] client disconnected — player=89084efa-45cc-4448-a082-228e09fe85bf ccu=6
+[2026-06-26T18:01:51.475Z] client connected — ip=47.223.225.138 player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 ccu=7 token_sub=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T18:01:51.476Z]   JWT: sub=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 iss=? exp=1782501281
+[2026-06-26T18:01:51.476Z] → greeting to player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T18:02:18.153Z] client disconnected — player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 ccu=6
+[2026-06-26T18:02:23.962Z] client connected — ip=47.223.225.138 player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 ccu=7 token_sub=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T18:02:23.962Z]   JWT: sub=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 iss=? exp=1782501281
+[2026-06-26T18:02:23.963Z] → greeting to player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4
+[2026-06-26T18:04:23.056Z] ping timeout — terminating player=8e246407-948d-40fd-850f-7fcfbf0fb98f
+[2026-06-26T18:04:23.057Z] client disconnected — player=8e246407-948d-40fd-850f-7fcfbf0fb98f ccu=6
+[2026-06-26T18:04:26.048Z] client disconnected — player=386b1604-5b5e-41e6-ab5a-e9656c6a09f4 ccu=5
+[2026-06-26T18:06:13.110Z] client disconnected — player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 ccu=4
+[2026-06-26T18:06:19.090Z] client connected — ip=2a01:cb1d:8111:9b00:78f1:a7f:37f1:5530 player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 ccu=5 token_sub=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4
+[2026-06-26T18:06:19.091Z]   JWT: sub=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 iss=? exp=1782503365
+[2026-06-26T18:06:19.091Z] → greeting to player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4
+[2026-06-26T18:07:57.811Z] client connected — ip=162.250.86.144 player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=6 token_sub=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T18:07:57.811Z]   JWT: sub=45fa51e9-639c-4db7-87cd-f95a6b30229f iss=? exp=1782504476
+[2026-06-26T18:07:57.812Z] → greeting to player=45fa51e9-639c-4db7-87cd-f95a6b30229f
+[2026-06-26T18:09:30.330Z] client connected — ip=82.12.216.90 player=e7ab84de-3013-4295-89de-44f6e4469910 ccu=7 token_sub=e7ab84de-3013-4295-89de-44f6e4469910
+[2026-06-26T18:09:30.331Z]   JWT: sub=e7ab84de-3013-4295-89de-44f6e4469910 iss=? exp=1782504568
+[2026-06-26T18:09:30.331Z] → greeting to player=e7ab84de-3013-4295-89de-44f6e4469910
+[2026-06-26T18:10:53.167Z] ping timeout — terminating player=e7ab84de-3013-4295-89de-44f6e4469910
+[2026-06-26T18:10:53.168Z] client disconnected — player=e7ab84de-3013-4295-89de-44f6e4469910 ccu=6
+[2026-06-26T18:11:02.953Z] client connected — ip=201.187.173.147 player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 ccu=7 token_sub=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796
+[2026-06-26T18:11:02.953Z]   JWT: sub=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 iss=? exp=1782504661
+[2026-06-26T18:11:02.953Z] → greeting to player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796
+[2026-06-26T18:11:46.539Z] client connected — ip=174.89.136.231 player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=8 token_sub=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:11:46.539Z]   JWT: sub=240343b0-dccc-4850-8342-3a6f1af53496 iss=? exp=1782504705
+[2026-06-26T18:11:46.540Z] → greeting to player=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:11:52.106Z] client disconnected — player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 ccu=7
+[2026-06-26T18:12:33.877Z] client connected — ip=2600:6c64:49f0:8000:6469:d429:5052:5442 player=90dc69ca-a7de-4bcf-9232-0897efeab3de ccu=8 token_sub=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T18:12:33.878Z]   JWT: sub=90dc69ca-a7de-4bcf-9232-0897efeab3de iss=? exp=1782503711
+[2026-06-26T18:12:33.878Z] → greeting to player=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T18:14:02.512Z] client disconnected — player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=7
+[2026-06-26T18:14:24.601Z] client connected — ip=174.89.136.231 player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=8 token_sub=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:14:24.602Z]   JWT: sub=240343b0-dccc-4850-8342-3a6f1af53496 iss=? exp=1782504705
+[2026-06-26T18:14:24.602Z] → greeting to player=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:15:09.504Z] client connected — ip=76.72.137.41 player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640 ccu=9 token_sub=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640
+[2026-06-26T18:15:09.505Z]   JWT: sub=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640 iss=? exp=1782503544
+[2026-06-26T18:15:09.505Z] → greeting to player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640
+[2026-06-26T18:15:23.883Z] client disconnected — player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=8
+[2026-06-26T18:15:48.035Z] client disconnected — player=68ec4e87-4cd3-44c9-b0a3-76a6ae5f4640 ccu=7
+[2026-06-26T18:18:14.889Z] client connected — ip=2600:1700:60e1:e600:72d3:7d38:a561:9d98 player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=8 token_sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T18:18:14.890Z]   JWT: sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 iss=? exp=1782505093
+[2026-06-26T18:18:14.890Z] → greeting to player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T18:18:26.324Z] client connected — ip=99.92.221.8 player=unknown ccu=8 token_sub=none
+[2026-06-26T18:18:26.325Z] → greeting to player=unknown
+[2026-06-26T18:20:12.653Z] client disconnected — player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 ccu=7
+[2026-06-26T18:20:27.476Z] client connected — ip=172.111.6.29 player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 ccu=8 token_sub=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5
+[2026-06-26T18:20:27.476Z]   JWT: sub=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 iss=? exp=1782505226
+[2026-06-26T18:20:27.477Z] → greeting to player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5
+[2026-06-26T18:20:53.292Z] ping timeout — terminating player=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T18:20:53.293Z] client disconnected — player=90dc69ca-a7de-4bcf-9232-0897efeab3de ccu=7
+[2026-06-26T18:21:05.224Z] client disconnected — player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 ccu=6
+[2026-06-26T18:21:29.640Z] client disconnected — player=unknown ccu=6
+[2026-06-26T18:24:09.847Z] client connected — ip=2001:16b8:acd3:8301:2fbe:ba45:8d7c:8740 player=adb25143-2dfa-4114-887f-ef8a349f3249 ccu=6 token_sub=adb25143-2dfa-4114-887f-ef8a349f3249
+[2026-06-26T18:24:09.848Z]   JWT: sub=adb25143-2dfa-4114-887f-ef8a349f3249 iss=? exp=1782503516
+[2026-06-26T18:24:09.848Z] → greeting to player=adb25143-2dfa-4114-887f-ef8a349f3249
+[2026-06-26T18:24:15.112Z] client disconnected — player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=5
+[2026-06-26T18:24:34.663Z] client connected — ip=2603:9000:7501:47d0:d91d:e335:6257:8935 player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=6 token_sub=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T18:24:34.664Z]   JWT: sub=5e2cba22-8c49-4692-b7e3-c47211a0300e iss=? exp=1782505473
+[2026-06-26T18:24:34.664Z] → greeting to player=5e2cba22-8c49-4692-b7e3-c47211a0300e
+[2026-06-26T18:24:35.040Z] client connected — ip=94.137.167.14 player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=7 token_sub=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T18:24:35.041Z]   JWT: sub=ae77c383-8a10-4616-9b2c-f1f458d519b3 iss=? exp=1782505473
+[2026-06-26T18:24:35.041Z] → greeting to player=ae77c383-8a10-4616-9b2c-f1f458d519b3
+[2026-06-26T18:24:43.091Z] client disconnected — player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=6
+[2026-06-26T18:25:28.658Z] client connected — ip=109.78.207.145 player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=7 token_sub=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:25:28.659Z]   JWT: sub=b774244f-ce7d-480e-b10d-5a18b0e685ba iss=? exp=1782503590
+[2026-06-26T18:25:28.659Z] → greeting to player=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:26:02.176Z] client connected — ip=2600:387:f:6713::6 player=7963a5b8-1e76-4493-8728-2f2a2f1756bb ccu=8 token_sub=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T18:26:02.176Z]   JWT: sub=7963a5b8-1e76-4493-8728-2f2a2f1756bb iss=? exp=1782505553
+[2026-06-26T18:26:02.176Z] → greeting to player=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T18:26:04.741Z] client disconnected — player=adb25143-2dfa-4114-887f-ef8a349f3249 ccu=7
+[2026-06-26T18:26:23.344Z] ping timeout — terminating player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T18:26:23.345Z] client disconnected — player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=6
+[2026-06-26T18:28:33.136Z] client disconnected — player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=5
+[2026-06-26T18:29:08.514Z] client connected — ip=109.78.207.145 player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=6 token_sub=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:29:08.515Z]   JWT: sub=b774244f-ce7d-480e-b10d-5a18b0e685ba iss=? exp=1782503590
+[2026-06-26T18:29:08.515Z] → greeting to player=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:29:14.787Z] client disconnected — player=45fa51e9-639c-4db7-87cd-f95a6b30229f ccu=5
+[2026-06-26T18:31:27.572Z] client disconnected — player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=4
+[2026-06-26T18:31:33.315Z] client connected — ip=109.78.207.145 player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=5 token_sub=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:31:33.315Z]   JWT: sub=b774244f-ce7d-480e-b10d-5a18b0e685ba iss=? exp=1782503590
+[2026-06-26T18:31:33.316Z] → greeting to player=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:32:08.906Z] client disconnected — player=3ed3f272-3c26-4a99-9e69-01b8663bfb2a ccu=4
+[2026-06-26T18:33:43.787Z] client connected — ip=2a01:e0a:514:6180:4892:a464:dd32:4d1d player=749b2a84-a17e-40d3-91be-e98c20c0168e ccu=5 token_sub=749b2a84-a17e-40d3-91be-e98c20c0168e
+[2026-06-26T18:33:43.788Z]   JWT: sub=749b2a84-a17e-40d3-91be-e98c20c0168e iss=? exp=1782506022
+[2026-06-26T18:33:43.788Z] → greeting to player=749b2a84-a17e-40d3-91be-e98c20c0168e
+[2026-06-26T18:34:45.774Z] client disconnected — player=adb25143-2dfa-4114-887f-ef8a349f3249 ccu=5
+[2026-06-26T18:34:46.778Z] client disconnected — player=5e2cba22-8c49-4692-b7e3-c47211a0300e ccu=4
+[2026-06-26T18:35:02.683Z] client disconnected — player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=3
+[2026-06-26T18:35:04.108Z] client disconnected — player=749b2a84-a17e-40d3-91be-e98c20c0168e ccu=2
+[2026-06-26T18:36:57.014Z] client connected — ip=2806:261:493:8f2e:e424:b0bc:f3a0:2d7e player=56d00765-8da7-4ddd-a1e4-a0e9489dbbab ccu=3 token_sub=56d00765-8da7-4ddd-a1e4-a0e9489dbbab
+[2026-06-26T18:36:57.014Z]   JWT: sub=56d00765-8da7-4ddd-a1e4-a0e9489dbbab iss=? exp=1782506215
+[2026-06-26T18:36:57.015Z] → greeting to player=56d00765-8da7-4ddd-a1e4-a0e9489dbbab
+[2026-06-26T18:38:47.295Z] client connected — ip=174.89.136.231 player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=4 token_sub=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:38:47.296Z]   JWT: sub=240343b0-dccc-4850-8342-3a6f1af53496 iss=? exp=1782504705
+[2026-06-26T18:38:47.296Z] → greeting to player=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:39:05.669Z] client disconnected — player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=3
+[2026-06-26T18:39:29.624Z] client connected — ip=2600:6c5e:507f:855:3942:2539:8122:bd82 player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=4 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T18:39:29.625Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782506368
+[2026-06-26T18:39:29.625Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T18:45:02.566Z] client connected — ip=109.78.207.145 player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=5 token_sub=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:45:02.567Z]   JWT: sub=b774244f-ce7d-480e-b10d-5a18b0e685ba iss=? exp=1782503590
+[2026-06-26T18:45:02.567Z] → greeting to player=b774244f-ce7d-480e-b10d-5a18b0e685ba
+[2026-06-26T18:46:01.597Z] client disconnected — player=56d00765-8da7-4ddd-a1e4-a0e9489dbbab ccu=4
+[2026-06-26T18:47:04.876Z] client disconnected — player=b774244f-ce7d-480e-b10d-5a18b0e685ba ccu=3
+[2026-06-26T18:48:21.733Z] client connected — ip=79.117.176.113 player=90ce1012-3071-4755-881a-a10ef92bf9d6 ccu=4 token_sub=90ce1012-3071-4755-881a-a10ef92bf9d6
+[2026-06-26T18:48:21.734Z]   JWT: sub=90ce1012-3071-4755-881a-a10ef92bf9d6 iss=? exp=1782506900
+[2026-06-26T18:48:21.734Z] → greeting to player=90ce1012-3071-4755-881a-a10ef92bf9d6
+[2026-06-26T18:48:25.916Z] client disconnected — player=90ce1012-3071-4755-881a-a10ef92bf9d6 ccu=3
+[2026-06-26T18:48:55.330Z] client connected — ip=79.117.176.113 player=90ce1012-3071-4755-881a-a10ef92bf9d6 ccu=4 token_sub=90ce1012-3071-4755-881a-a10ef92bf9d6
+[2026-06-26T18:48:55.331Z]   JWT: sub=90ce1012-3071-4755-881a-a10ef92bf9d6 iss=? exp=1782506900
+[2026-06-26T18:48:55.331Z] → greeting to player=90ce1012-3071-4755-881a-a10ef92bf9d6
+[2026-06-26T18:49:27.980Z] client disconnected — player=ae77c383-8a10-4616-9b2c-f1f458d519b3 ccu=3
+[2026-06-26T18:50:37.983Z] client connected — ip=174.89.136.231 player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=4 token_sub=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:50:37.984Z]   JWT: sub=240343b0-dccc-4850-8342-3a6f1af53496 iss=? exp=1782504705
+[2026-06-26T18:50:37.984Z] → greeting to player=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T18:50:44.550Z] client disconnected — player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=3
+[2026-06-26T18:51:09.854Z] client connected — ip=2a0a:ef40:1204:e701:2dbf:a142:364c:d12 player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=4 token_sub=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T18:51:09.855Z]   JWT: sub=d6476879-4fa4-41f8-959b-c674a213cba0 iss=? exp=1782502623
+[2026-06-26T18:51:09.855Z] → greeting to player=d6476879-4fa4-41f8-959b-c674a213cba0
+[2026-06-26T18:51:30.682Z] client connected — ip=2600:1700:2670:6d30:8052:9f70:2c88:9128 player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b ccu=5 token_sub=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T18:51:30.683Z]   JWT: sub=bdfff727-7952-45e0-89ae-89d7ca2c6a6b iss=? exp=1782507089
+[2026-06-26T18:51:30.683Z] → greeting to player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T18:54:26.107Z] client disconnected — player=d6476879-4fa4-41f8-959b-c674a213cba0 ccu=4
+[2026-06-26T18:55:23.777Z] ping timeout — terminating player=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T18:55:23.778Z] client disconnected — player=7963a5b8-1e76-4493-8728-2f2a2f1756bb ccu=3
+[2026-06-26T18:55:44.737Z] client connected — ip=2600:6c46:3940:7:8b43:93b3:b942:ac61 player=13861cd1-d9da-420b-8418-3b68aab1588c ccu=4 token_sub=13861cd1-d9da-420b-8418-3b68aab1588c
+[2026-06-26T18:55:44.738Z]   JWT: sub=13861cd1-d9da-420b-8418-3b68aab1588c iss=? exp=1782502040
+[2026-06-26T18:55:44.738Z] → greeting to player=13861cd1-d9da-420b-8418-3b68aab1588c
+[2026-06-26T18:55:53.787Z] ping timeout — terminating player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T18:55:53.789Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=3
+[2026-06-26T18:56:51.652Z] client connected — ip=2601:83:8100:3ee6:8170:70c2:eb5f:7 player=28cd7905-3ef6-435f-8f5e-6225b35b6a59 ccu=4 token_sub=28cd7905-3ef6-435f-8f5e-6225b35b6a59
+[2026-06-26T18:56:51.652Z]   JWT: sub=28cd7905-3ef6-435f-8f5e-6225b35b6a59 iss=? exp=1782507410
+[2026-06-26T18:56:51.653Z] → greeting to player=28cd7905-3ef6-435f-8f5e-6225b35b6a59
+[2026-06-26T18:58:17.196Z] client disconnected — player=28cd7905-3ef6-435f-8f5e-6225b35b6a59 ccu=3
+[2026-06-26T19:00:10.854Z] client connected — ip=2605:d580:140b:492:88f9:704f:899b:298b player=8c9de4d8-59bf-4377-a039-01170f1d330b ccu=4 token_sub=8c9de4d8-59bf-4377-a039-01170f1d330b
+[2026-06-26T19:00:10.855Z]   JWT: sub=8c9de4d8-59bf-4377-a039-01170f1d330b iss=? exp=1782507609
+[2026-06-26T19:00:10.855Z] → greeting to player=8c9de4d8-59bf-4377-a039-01170f1d330b
+[2026-06-26T19:00:50.366Z] client connected — ip=2600:6c5e:507f:855:4f9:b465:c06:1e96 player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=5 token_sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T19:00:50.366Z]   JWT: sub=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 iss=? exp=1782506368
+[2026-06-26T19:00:50.367Z] → greeting to player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T19:03:47.809Z] client disconnected — player=8c9de4d8-59bf-4377-a039-01170f1d330b ccu=4
+[2026-06-26T19:05:16.550Z] client connected — ip=2607:fb92:1980:7e7e:f05a:d9bd:18c3:736d player=6406217d-c275-495a-9255-253298a6c748 ccu=5 token_sub=6406217d-c275-495a-9255-253298a6c748
+[2026-06-26T19:05:16.551Z]   JWT: sub=6406217d-c275-495a-9255-253298a6c748 iss=? exp=1782507915
+[2026-06-26T19:05:16.551Z] → greeting to player=6406217d-c275-495a-9255-253298a6c748
+[2026-06-26T19:08:29.641Z] client connected — ip=2a00:23cc:df45:bc01:6c66:2f1c:1e31:fc97 player=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31 ccu=6 token_sub=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31
+[2026-06-26T19:08:29.642Z]   JWT: sub=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31 iss=? exp=1782508108
+[2026-06-26T19:08:29.642Z] → greeting to player=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31
+[2026-06-26T19:09:56.794Z] client disconnected — player=2dc5f156-d433-4cd8-9ad5-6cf4785ebf31 ccu=5
+[2026-06-26T19:10:30.300Z] client disconnected — player=6406217d-c275-495a-9255-253298a6c748 ccu=4
+[2026-06-26T19:11:24.043Z] ping timeout — terminating player=13861cd1-d9da-420b-8418-3b68aab1588c
+[2026-06-26T19:11:24.044Z] client disconnected — player=13861cd1-d9da-420b-8418-3b68aab1588c ccu=3
+[2026-06-26T19:13:54.077Z] ping timeout — terminating player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T19:13:54.078Z] client disconnected — player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b ccu=2
+[2026-06-26T19:17:33.620Z] client connected — ip=2603:9008:1300:107:b07d:84e7:2545:589a player=d8c73a53-41d2-4f95-83f2-463d0071a949 ccu=3 token_sub=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T19:17:33.621Z]   JWT: sub=d8c73a53-41d2-4f95-83f2-463d0071a949 iss=? exp=1782508652
+[2026-06-26T19:17:33.621Z] → greeting to player=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T19:18:16.318Z] client disconnected — player=90ce1012-3071-4755-881a-a10ef92bf9d6 ccu=2
+[2026-06-26T19:18:17.249Z] client connected — ip=2600:6c64:49f0:8000:6469:d429:5052:5442 player=90dc69ca-a7de-4bcf-9232-0897efeab3de ccu=3 token_sub=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T19:18:17.250Z]   JWT: sub=90dc69ca-a7de-4bcf-9232-0897efeab3de iss=? exp=1782503711
+[2026-06-26T19:18:17.250Z] → greeting to player=90dc69ca-a7de-4bcf-9232-0897efeab3de
+[2026-06-26T19:18:23.212Z] client disconnected — player=90dc69ca-a7de-4bcf-9232-0897efeab3de ccu=2
+[2026-06-26T19:20:54.167Z] ping timeout — terminating player=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T19:20:54.168Z] client disconnected — player=d8c73a53-41d2-4f95-83f2-463d0071a949 ccu=1
+[2026-06-26T19:21:54.705Z] client connected — ip=2600:8800:e:e800:e:ade4:546d:33a0 player=d31b1ba6-03fa-47bf-8a05-2f2cec146f70 ccu=2 token_sub=d31b1ba6-03fa-47bf-8a05-2f2cec146f70
+[2026-06-26T19:21:54.705Z]   JWT: sub=d31b1ba6-03fa-47bf-8a05-2f2cec146f70 iss=? exp=1782508913
+[2026-06-26T19:21:54.706Z] → greeting to player=d31b1ba6-03fa-47bf-8a05-2f2cec146f70
+[2026-06-26T19:23:16.157Z] client disconnected — player=d31b1ba6-03fa-47bf-8a05-2f2cec146f70 ccu=1
+[2026-06-26T19:30:33.971Z] client connected — ip=2a00:23c6:2976:a201:edb5:9695:4876:370f player=afff2a76-4077-4bff-80e4-15b9b18bf9a5 ccu=2 token_sub=afff2a76-4077-4bff-80e4-15b9b18bf9a5
+[2026-06-26T19:30:33.972Z]   JWT: sub=afff2a76-4077-4bff-80e4-15b9b18bf9a5 iss=? exp=1782509432
+[2026-06-26T19:30:33.972Z] → greeting to player=afff2a76-4077-4bff-80e4-15b9b18bf9a5
+[2026-06-26T19:31:01.634Z] client disconnected — player=afff2a76-4077-4bff-80e4-15b9b18bf9a5 ccu=1
+[2026-06-26T19:32:03.860Z] client connected — ip=2606:25c0:800b:ffb1:f33a:5150:7504:9c8c player=0f414e45-06ab-4277-aad3-72f72b1738bf ccu=2 token_sub=0f414e45-06ab-4277-aad3-72f72b1738bf
+[2026-06-26T19:32:03.861Z]   JWT: sub=0f414e45-06ab-4277-aad3-72f72b1738bf iss=? exp=1782509522
+[2026-06-26T19:32:03.861Z] → greeting to player=0f414e45-06ab-4277-aad3-72f72b1738bf
+[2026-06-26T19:33:11.259Z] client connected — ip=2601:2c7:9381:3840:41cb:356e:6a9a:d030 player=5bfebb25-ba44-4be8-b036-3dd190be3412 ccu=3 token_sub=5bfebb25-ba44-4be8-b036-3dd190be3412
+[2026-06-26T19:33:11.259Z]   JWT: sub=5bfebb25-ba44-4be8-b036-3dd190be3412 iss=? exp=1782509590
+[2026-06-26T19:33:11.260Z] → greeting to player=5bfebb25-ba44-4be8-b036-3dd190be3412
+[2026-06-26T19:33:19.195Z] client disconnected — player=0f414e45-06ab-4277-aad3-72f72b1738bf ccu=2
+[2026-06-26T19:33:24.337Z] ping timeout — terminating player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909
+[2026-06-26T19:33:24.338Z] client disconnected — player=72bd187b-6d04-4c83-a5e3-f5cc2e3e8909 ccu=1
+[2026-06-26T19:36:11.216Z] client connected — ip=71.209.83.230 player=6e96d55e-2fb5-49a5-9216-46d2341c3f25 ccu=2 token_sub=6e96d55e-2fb5-49a5-9216-46d2341c3f25
+[2026-06-26T19:36:11.217Z]   JWT: sub=6e96d55e-2fb5-49a5-9216-46d2341c3f25 iss=? exp=1782509770
+[2026-06-26T19:36:11.217Z] → greeting to player=6e96d55e-2fb5-49a5-9216-46d2341c3f25
+[2026-06-26T19:37:01.958Z] client connected — ip=188.217.131.229 player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=3 token_sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T19:37:01.958Z]   JWT: sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 iss=? exp=1782509820
+[2026-06-26T19:37:01.958Z] → greeting to player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T19:40:29.414Z] client disconnected — player=5bfebb25-ba44-4be8-b036-3dd190be3412 ccu=2
+[2026-06-26T19:41:04.034Z] client connected — ip=71.209.83.230 player=6e96d55e-2fb5-49a5-9216-46d2341c3f25 ccu=2 token_sub=6e96d55e-2fb5-49a5-9216-46d2341c3f25
+[2026-06-26T19:41:04.035Z]   JWT: sub=6e96d55e-2fb5-49a5-9216-46d2341c3f25 iss=? exp=1782509770
+[2026-06-26T19:41:04.035Z] → greeting to player=6e96d55e-2fb5-49a5-9216-46d2341c3f25
+[2026-06-26T19:41:05.331Z] client disconnected — player=6e96d55e-2fb5-49a5-9216-46d2341c3f25 ccu=1
+[2026-06-26T19:42:59.768Z] client disconnected — player=6e96d55e-2fb5-49a5-9216-46d2341c3f25 ccu=1
+[2026-06-26T19:44:16.054Z] client disconnected — player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=0
+[2026-06-26T19:44:40.500Z] client connected — ip=188.217.131.229 player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=1 token_sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T19:44:40.500Z]   JWT: sub=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 iss=? exp=1782509820
+[2026-06-26T19:44:40.500Z] → greeting to player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2
+[2026-06-26T19:48:32.931Z] client connected — ip=2600:1700:191:c120:94d4:b629:47d6:60e5 player=d7eafcb2-be96-4372-a976-43bc2e6001b2 ccu=2 token_sub=d7eafcb2-be96-4372-a976-43bc2e6001b2
+[2026-06-26T19:48:32.931Z]   JWT: sub=d7eafcb2-be96-4372-a976-43bc2e6001b2 iss=? exp=1782510511
+[2026-06-26T19:48:32.932Z] → greeting to player=d7eafcb2-be96-4372-a976-43bc2e6001b2
+[2026-06-26T19:49:30.392Z] client disconnected — player=d7eafcb2-be96-4372-a976-43bc2e6001b2 ccu=1
+[2026-06-26T19:52:18.848Z] client disconnected — player=e88d30af-0a44-444e-88aa-7ad7d4b8e5f2 ccu=0
+[2026-06-26T19:54:50.485Z] client connected — ip=2a00:23cc:f632:ee01:383a:3af0:b6a6:16dc player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=1 token_sub=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T19:54:50.485Z]   JWT: sub=b7c6607d-547e-456b-852d-807f2f8f1100 iss=? exp=1782510889
+[2026-06-26T19:54:50.486Z] → greeting to player=b7c6607d-547e-456b-852d-807f2f8f1100
+[2026-06-26T20:00:03.387Z] client disconnected — player=b7c6607d-547e-456b-852d-807f2f8f1100 ccu=0
+[2026-06-26T20:06:02.818Z] client connected — ip=2001:bb6:687d:5300:4183:4943:9b3a:b969 player=8bf8dea5-0428-4387-b365-7c6b7b78f1bc ccu=1 token_sub=8bf8dea5-0428-4387-b365-7c6b7b78f1bc
+[2026-06-26T20:06:02.819Z]   JWT: sub=8bf8dea5-0428-4387-b365-7c6b7b78f1bc iss=? exp=1782511561
+[2026-06-26T20:06:02.819Z] → greeting to player=8bf8dea5-0428-4387-b365-7c6b7b78f1bc
+[2026-06-26T20:10:20.784Z] client disconnected — player=8bf8dea5-0428-4387-b365-7c6b7b78f1bc ccu=0
+[2026-06-26T20:20:59.809Z] client connected — ip=2600:8807:58c5:9c00:847d:49f8:c1dc:dd26 player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=1 token_sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T20:20:59.809Z]   JWT: sub=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 iss=? exp=1782512458
+[2026-06-26T20:20:59.810Z] → greeting to player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572
+[2026-06-26T20:21:50.342Z] client disconnected — player=5fd38b7b-f528-48a3-9e41-9bdc3a9ac572 ccu=0
+[2026-06-26T20:22:39.456Z] client connected — ip=2a02:8084:8001:e400:8257:7c90:f4d9:c58f player=03a74495-a2c6-491a-8d84-e1921e14c03f ccu=1 token_sub=03a74495-a2c6-491a-8d84-e1921e14c03f
+[2026-06-26T20:22:39.457Z]   JWT: sub=03a74495-a2c6-491a-8d84-e1921e14c03f iss=? exp=1782512558
+[2026-06-26T20:22:39.457Z] → greeting to player=03a74495-a2c6-491a-8d84-e1921e14c03f
+[2026-06-26T20:33:43.732Z] client disconnected — player=03a74495-a2c6-491a-8d84-e1921e14c03f ccu=0
+[2026-06-26T20:38:25.887Z] client connected — ip=2001:1960:6008:5b6:c246:6815:80ad:f7a5 player=ee791b87-3f88-4079-bea2-b76ac448113a ccu=1 token_sub=ee791b87-3f88-4079-bea2-b76ac448113a
+[2026-06-26T20:38:25.888Z]   JWT: sub=ee791b87-3f88-4079-bea2-b76ac448113a iss=? exp=1782513504
+[2026-06-26T20:38:25.888Z] → greeting to player=ee791b87-3f88-4079-bea2-b76ac448113a
+[2026-06-26T20:41:10.278Z] client connected — ip=2603:9008:1300:107:b07d:84e7:2545:589a player=d8c73a53-41d2-4f95-83f2-463d0071a949 ccu=2 token_sub=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T20:41:10.278Z]   JWT: sub=d8c73a53-41d2-4f95-83f2-463d0071a949 iss=? exp=1782508652
+[2026-06-26T20:41:10.279Z] → greeting to player=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T20:42:08.155Z] client disconnected — player=ee791b87-3f88-4079-bea2-b76ac448113a ccu=1
+[2026-06-26T20:42:29.471Z] client connected — ip=2001:1960:6008:5b6:c246:6815:80ad:f7a5 player=ee791b87-3f88-4079-bea2-b76ac448113a ccu=2 token_sub=ee791b87-3f88-4079-bea2-b76ac448113a
+[2026-06-26T20:42:29.472Z]   JWT: sub=ee791b87-3f88-4079-bea2-b76ac448113a iss=? exp=1782513504
+[2026-06-26T20:42:29.472Z] → greeting to player=ee791b87-3f88-4079-bea2-b76ac448113a
+[2026-06-26T20:42:29.879Z] client connected — ip=2600:1700:2670:6d30:8052:9f70:2c88:9128 player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b ccu=3 token_sub=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T20:42:29.879Z]   JWT: sub=bdfff727-7952-45e0-89ae-89d7ca2c6a6b iss=? exp=1782507089
+[2026-06-26T20:42:29.880Z] → greeting to player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b
+[2026-06-26T20:46:47.119Z] client disconnected — player=bdfff727-7952-45e0-89ae-89d7ca2c6a6b ccu=2
+[2026-06-26T20:47:47.526Z] client connected — ip=69.80.83.98 player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=3 token_sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T20:47:47.527Z]   JWT: sub=3d0d313d-5752-41f9-9d55-b9b8cf154e3b iss=? exp=1782514066
+[2026-06-26T20:47:47.527Z] → greeting to player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b
+[2026-06-26T20:48:02.848Z] client connected — ip=66.220.167.14 player=09b29653-65d9-495e-a7f1-5a62aea27d33 ccu=4 token_sub=09b29653-65d9-495e-a7f1-5a62aea27d33
+[2026-06-26T20:48:02.849Z]   JWT: sub=09b29653-65d9-495e-a7f1-5a62aea27d33 iss=? exp=1782514081
+[2026-06-26T20:48:02.849Z] → greeting to player=09b29653-65d9-495e-a7f1-5a62aea27d33
+[2026-06-26T20:48:25.679Z] client disconnected — player=3d0d313d-5752-41f9-9d55-b9b8cf154e3b ccu=3
+[2026-06-26T20:48:38.973Z] client connected — ip=2600:4040:5d5c:9600:53b:45ff:897e:9998 player=909dd093-1243-4b64-aacf-5d11271aab66 ccu=4 token_sub=909dd093-1243-4b64-aacf-5d11271aab66
+[2026-06-26T20:48:38.973Z]   JWT: sub=909dd093-1243-4b64-aacf-5d11271aab66 iss=? exp=1782514117
+[2026-06-26T20:48:38.974Z] → greeting to player=909dd093-1243-4b64-aacf-5d11271aab66
+[2026-06-26T20:48:55.446Z] ping timeout — terminating player=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T20:48:55.447Z] client disconnected — player=d8c73a53-41d2-4f95-83f2-463d0071a949 ccu=3
+[2026-06-26T20:49:20.225Z] client disconnected — player=09b29653-65d9-495e-a7f1-5a62aea27d33 ccu=2
+[2026-06-26T20:49:33.326Z] client connected — ip=152.36.181.218 player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=3 token_sub=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T20:49:33.326Z]   JWT: sub=c18f295d-49c0-422e-acc5-97a250fd1ff9 iss=? exp=1782514172
+[2026-06-26T20:49:33.327Z] → greeting to player=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T20:49:35.319Z] client connected — ip=2601:189:4001:4d30:6314:1a97:d5f4:df9 player=19bd103c-2ca2-4012-8224-d267aa1d2939 ccu=4 token_sub=19bd103c-2ca2-4012-8224-d267aa1d2939
+[2026-06-26T20:49:35.319Z]   JWT: sub=19bd103c-2ca2-4012-8224-d267aa1d2939 iss=? exp=1782514174
+[2026-06-26T20:49:35.319Z] → greeting to player=19bd103c-2ca2-4012-8224-d267aa1d2939
+[2026-06-26T20:49:48.389Z] client connected — ip=66.220.167.14 player=09b29653-65d9-495e-a7f1-5a62aea27d33 ccu=5 token_sub=09b29653-65d9-495e-a7f1-5a62aea27d33
+[2026-06-26T20:49:48.389Z]   JWT: sub=09b29653-65d9-495e-a7f1-5a62aea27d33 iss=? exp=1782514081
+[2026-06-26T20:49:48.389Z] → greeting to player=09b29653-65d9-495e-a7f1-5a62aea27d33
+[2026-06-26T20:50:28.398Z] client disconnected — player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=4
+[2026-06-26T20:50:59.487Z] client connected — ip=152.36.181.218 player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=5 token_sub=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T20:50:59.487Z]   JWT: sub=c18f295d-49c0-422e-acc5-97a250fd1ff9 iss=? exp=1782514172
+[2026-06-26T20:50:59.488Z] → greeting to player=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T20:51:54.409Z] client disconnected — player=19bd103c-2ca2-4012-8224-d267aa1d2939 ccu=4
+[2026-06-26T20:54:42.967Z] client disconnected — player=909dd093-1243-4b64-aacf-5d11271aab66 ccu=3
+[2026-06-26T20:55:20.213Z] client connected — ip=72.201.170.16 player=8a362401-d786-4731-b202-4484b6c4771d ccu=4 token_sub=8a362401-d786-4731-b202-4484b6c4771d
+[2026-06-26T20:55:20.213Z]   JWT: sub=8a362401-d786-4731-b202-4484b6c4771d iss=? exp=1782514519
+[2026-06-26T20:55:20.213Z] → greeting to player=8a362401-d786-4731-b202-4484b6c4771d
+[2026-06-26T20:56:17.903Z] client connected — ip=2600:4040:5d5c:9600:53b:45ff:897e:9998 player=909dd093-1243-4b64-aacf-5d11271aab66 ccu=5 token_sub=909dd093-1243-4b64-aacf-5d11271aab66
+[2026-06-26T20:56:17.903Z]   JWT: sub=909dd093-1243-4b64-aacf-5d11271aab66 iss=? exp=1782514117
+[2026-06-26T20:56:17.904Z] → greeting to player=909dd093-1243-4b64-aacf-5d11271aab66
+[2026-06-26T21:01:24.988Z] client disconnected — player=8a362401-d786-4731-b202-4484b6c4771d ccu=4
+[2026-06-26T21:03:25.662Z] ping timeout — terminating player=ee791b87-3f88-4079-bea2-b76ac448113a
+[2026-06-26T21:03:25.663Z] client disconnected — player=ee791b87-3f88-4079-bea2-b76ac448113a ccu=3
+[2026-06-26T21:04:40.090Z] client connected — ip=2603:9008:1300:107:b07d:84e7:2545:589a player=d8c73a53-41d2-4f95-83f2-463d0071a949 ccu=4 token_sub=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T21:04:40.091Z]   JWT: sub=d8c73a53-41d2-4f95-83f2-463d0071a949 iss=? exp=1782508652
+[2026-06-26T21:04:40.091Z] → greeting to player=d8c73a53-41d2-4f95-83f2-463d0071a949
+[2026-06-26T21:04:54.622Z] client disconnected — player=d8c73a53-41d2-4f95-83f2-463d0071a949 ccu=3
+[2026-06-26T21:05:25.374Z] client connected — ip=172.111.6.29 player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 ccu=4 token_sub=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5
+[2026-06-26T21:05:25.374Z]   JWT: sub=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 iss=? exp=1782515124
+[2026-06-26T21:05:25.375Z] → greeting to player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5
+[2026-06-26T21:07:15.492Z] client disconnected — player=09b29653-65d9-495e-a7f1-5a62aea27d33 ccu=3
+[2026-06-26T21:07:39.848Z] client disconnected — player=909dd093-1243-4b64-aacf-5d11271aab66 ccu=2
+[2026-06-26T21:09:39.804Z] client disconnected — player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=1
+[2026-06-26T21:11:37.577Z] client connected — ip=2606:a300:9013:eab6:91f8:8d1f:3326:5d2f player=1fffcea2-96e8-464f-8543-9bcd2a9c4ab8 ccu=2 token_sub=1fffcea2-96e8-464f-8543-9bcd2a9c4ab8
+[2026-06-26T21:11:37.578Z]   JWT: sub=1fffcea2-96e8-464f-8543-9bcd2a9c4ab8 iss=? exp=1782515496
+[2026-06-26T21:11:37.578Z] → greeting to player=1fffcea2-96e8-464f-8543-9bcd2a9c4ab8
+[2026-06-26T21:12:00.468Z] client connected — ip=152.36.181.218 player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=3 token_sub=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:12:00.468Z]   JWT: sub=c18f295d-49c0-422e-acc5-97a250fd1ff9 iss=? exp=1782514172
+[2026-06-26T21:12:00.469Z] → greeting to player=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:12:09.417Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=4 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:12:09.418Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T21:12:09.418Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:12:26.355Z] client disconnected — player=1fffcea2-96e8-464f-8543-9bcd2a9c4ab8 ccu=3
+[2026-06-26T21:12:53.514Z] client disconnected — player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=2
+[2026-06-26T21:13:14.613Z] client connected — ip=152.36.181.218 player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=3 token_sub=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:13:14.614Z]   JWT: sub=c18f295d-49c0-422e-acc5-97a250fd1ff9 iss=? exp=1782514172
+[2026-06-26T21:13:14.614Z] → greeting to player=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:17:51.069Z] client connected — ip=2603:6010:8700:49b6:f8a:1669:f730:2158 player=dd73ea48-ef41-4944-abe8-c24393437c61 ccu=4 token_sub=dd73ea48-ef41-4944-abe8-c24393437c61
+[2026-06-26T21:17:51.069Z]   JWT: sub=dd73ea48-ef41-4944-abe8-c24393437c61 iss=? exp=1782515869
+[2026-06-26T21:17:51.069Z] → greeting to player=dd73ea48-ef41-4944-abe8-c24393437c61
+[2026-06-26T21:18:14.182Z] client disconnected — player=fb28b3e5-fe78-4709-9dc6-bd1a91c22fe5 ccu=3
+[2026-06-26T21:22:16.810Z] client disconnected — player=dd73ea48-ef41-4944-abe8-c24393437c61 ccu=2
+[2026-06-26T21:22:54.190Z] client connected — ip=2603:6010:8700:49b6:f8a:1669:f730:2158 player=dd73ea48-ef41-4944-abe8-c24393437c61 ccu=3 token_sub=dd73ea48-ef41-4944-abe8-c24393437c61
+[2026-06-26T21:22:54.191Z]   JWT: sub=dd73ea48-ef41-4944-abe8-c24393437c61 iss=? exp=1782515869
+[2026-06-26T21:22:54.191Z] → greeting to player=dd73ea48-ef41-4944-abe8-c24393437c61
+[2026-06-26T21:24:10.689Z] client connected — ip=2600:1700:60e1:e600:3685:6fde:380e:1782 player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=4 token_sub=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T21:24:10.689Z]   JWT: sub=697022ef-3b6b-4937-81fa-aefe3567e5e7 iss=? exp=1782516249
+[2026-06-26T21:24:10.690Z] → greeting to player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T21:25:12.958Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=3
+[2026-06-26T21:26:09.511Z] client disconnected — player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=2
+[2026-06-26T21:28:50.858Z] client connected — ip=2a01:e0a:514:6180:73c5:92c4:a3f2:ac8f player=749b2a84-a17e-40d3-91be-e98c20c0168e ccu=3 token_sub=749b2a84-a17e-40d3-91be-e98c20c0168e
+[2026-06-26T21:28:50.858Z]   JWT: sub=749b2a84-a17e-40d3-91be-e98c20c0168e iss=? exp=1782516529
+[2026-06-26T21:28:50.859Z] → greeting to player=749b2a84-a17e-40d3-91be-e98c20c0168e
+[2026-06-26T21:29:15.001Z] client connected — ip=2600:1700:60e1:e600:3685:6fde:380e:1782 player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=4 token_sub=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T21:29:15.004Z]   JWT: sub=697022ef-3b6b-4937-81fa-aefe3567e5e7 iss=? exp=1782516249
+[2026-06-26T21:29:15.005Z] → greeting to player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T21:30:59.954Z] client connected — ip=2600:1700:60e1:e600:b0d1:9788:1c0:83a0 player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=5 token_sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T21:30:59.955Z]   JWT: sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 iss=? exp=1782516659
+[2026-06-26T21:30:59.955Z] → greeting to player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T21:31:04.095Z] client disconnected — player=749b2a84-a17e-40d3-91be-e98c20c0168e ccu=4
+[2026-06-26T21:31:06.100Z] client disconnected — player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=3
+[2026-06-26T21:31:50.367Z] client connected — ip=152.36.181.218 player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=4 token_sub=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:31:50.367Z]   JWT: sub=c18f295d-49c0-422e-acc5-97a250fd1ff9 iss=? exp=1782514172
+[2026-06-26T21:31:50.368Z] → greeting to player=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:32:52.710Z] client disconnected — player=dd73ea48-ef41-4944-abe8-c24393437c61 ccu=3
+[2026-06-26T21:39:01.783Z] client disconnected — player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=2
+[2026-06-26T21:39:30.713Z] client connected — ip=2600:1702:4eb2:8030:d9e8:d2c0:378c:38c4 player=9f5bb62d-1a64-4301-9381-e8130ffc8992 ccu=3 token_sub=9f5bb62d-1a64-4301-9381-e8130ffc8992
+[2026-06-26T21:39:30.713Z]   JWT: sub=9f5bb62d-1a64-4301-9381-e8130ffc8992 iss=? exp=1782517169
+[2026-06-26T21:39:30.714Z] → greeting to player=9f5bb62d-1a64-4301-9381-e8130ffc8992
+[2026-06-26T21:39:35.644Z] client disconnected — player=9f5bb62d-1a64-4301-9381-e8130ffc8992 ccu=2
+[2026-06-26T21:39:41.951Z] client connected — ip=130.17.37.104 player=0b2875d7-0a71-4c6b-82b1-66c641c18813 ccu=3 token_sub=0b2875d7-0a71-4c6b-82b1-66c641c18813
+[2026-06-26T21:39:41.952Z]   JWT: sub=0b2875d7-0a71-4c6b-82b1-66c641c18813 iss=? exp=1782517180
+[2026-06-26T21:39:41.952Z] → greeting to player=0b2875d7-0a71-4c6b-82b1-66c641c18813
+[2026-06-26T21:43:56.208Z] ping timeout — terminating player=0b2875d7-0a71-4c6b-82b1-66c641c18813
+[2026-06-26T21:43:56.209Z] client disconnected — player=0b2875d7-0a71-4c6b-82b1-66c641c18813 ccu=2
+[2026-06-26T21:47:12.792Z] client disconnected — player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=1
+[2026-06-26T21:47:39.709Z] client connected — ip=152.36.181.218 player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=2 token_sub=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:47:39.710Z]   JWT: sub=c18f295d-49c0-422e-acc5-97a250fd1ff9 iss=? exp=1782514172
+[2026-06-26T21:47:39.710Z] → greeting to player=c18f295d-49c0-422e-acc5-97a250fd1ff9
+[2026-06-26T21:47:53.512Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=3 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:47:53.513Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T21:47:53.513Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:48:16.128Z] client disconnected — player=c18f295d-49c0-422e-acc5-97a250fd1ff9 ccu=2
+[2026-06-26T21:49:26.273Z] ping timeout — terminating player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T21:49:26.274Z] client disconnected — player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=1
+[2026-06-26T21:49:56.681Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=0
+[2026-06-26T21:50:50.371Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=1 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:50:50.371Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T21:50:50.372Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:51:14.945Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=0
+[2026-06-26T21:51:39.620Z] client connected — ip=130.250.69.233 player=c95131aa-b097-4d5b-835d-1d3bc4c1de34 ccu=1 token_sub=c95131aa-b097-4d5b-835d-1d3bc4c1de34
+[2026-06-26T21:51:39.620Z]   JWT: sub=c95131aa-b097-4d5b-835d-1d3bc4c1de34 iss=? exp=1782517898
+[2026-06-26T21:51:39.621Z] → greeting to player=c95131aa-b097-4d5b-835d-1d3bc4c1de34
+[2026-06-26T21:54:50.249Z] client connected — ip=2600:1700:60e1:e600:b0d1:9788:1c0:83a0 player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=2 token_sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T21:54:50.249Z]   JWT: sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 iss=? exp=1782516659
+[2026-06-26T21:54:50.250Z] → greeting to player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T21:54:55.380Z] client disconnected — player=c95131aa-b097-4d5b-835d-1d3bc4c1de34 ccu=1
+[2026-06-26T21:55:08.536Z] client disconnected — player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=0
+[2026-06-26T21:55:18.316Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=1 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:55:18.317Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T21:55:18.317Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:55:21.505Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=0
+[2026-06-26T21:55:22.552Z] client connected — ip=2806:10a6:19:a340:e6aa:3955:df19:316c player=50def01e-8711-4eda-afaf-547bc3ce4612 ccu=1 token_sub=50def01e-8711-4eda-afaf-547bc3ce4612
+[2026-06-26T21:55:22.552Z]   JWT: sub=50def01e-8711-4eda-afaf-547bc3ce4612 iss=? exp=1782518121
+[2026-06-26T21:55:22.553Z] → greeting to player=50def01e-8711-4eda-afaf-547bc3ce4612
+[2026-06-26T21:55:38.065Z] client disconnected — player=50def01e-8711-4eda-afaf-547bc3ce4612 ccu=0
+[2026-06-26T21:56:08.583Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=1 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:56:08.584Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T21:56:08.584Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T21:57:15.954Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=0
+[2026-06-26T21:57:58.051Z] client connected — ip=2607:fb92:1815:4203:4646:4e32:beff:f12f player=40dc0e3b-0be8-4a2a-8d32-83d9167f172d ccu=1 token_sub=40dc0e3b-0be8-4a2a-8d32-83d9167f172d
+[2026-06-26T21:57:58.051Z]   JWT: sub=40dc0e3b-0be8-4a2a-8d32-83d9167f172d iss=? exp=1782518276
+[2026-06-26T21:57:58.051Z] → greeting to player=40dc0e3b-0be8-4a2a-8d32-83d9167f172d
+[2026-06-26T22:00:40.722Z] client connected — ip=2607:fb91:4c1f:d60e:6870:caa7:f540:43ce player=d86d3b68-57ff-4674-8c95-dd206dbe611d ccu=2 token_sub=d86d3b68-57ff-4674-8c95-dd206dbe611d
+[2026-06-26T22:00:40.722Z]   JWT: sub=d86d3b68-57ff-4674-8c95-dd206dbe611d iss=? exp=1782518439
+[2026-06-26T22:00:40.723Z] → greeting to player=d86d3b68-57ff-4674-8c95-dd206dbe611d
+[2026-06-26T22:00:57.879Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=3 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T22:00:57.880Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T22:00:57.880Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T22:02:06.593Z] client disconnected — player=d86d3b68-57ff-4674-8c95-dd206dbe611d ccu=2
+[2026-06-26T22:02:40.327Z] client connected — ip=2601:c4:c100:cff0:53cf:58bf:9c36:a3a2 player=5bdd25b6-2540-49a4-af2c-aa83433a901d ccu=3 token_sub=5bdd25b6-2540-49a4-af2c-aa83433a901d
+[2026-06-26T22:02:40.328Z]   JWT: sub=5bdd25b6-2540-49a4-af2c-aa83433a901d iss=? exp=1782518559
+[2026-06-26T22:02:40.328Z] → greeting to player=5bdd25b6-2540-49a4-af2c-aa83433a901d
+[2026-06-26T22:02:40.652Z] client connected — ip=2607:fb91:4c1f:d60e:6870:caa7:f540:43ce player=d86d3b68-57ff-4674-8c95-dd206dbe611d ccu=4 token_sub=d86d3b68-57ff-4674-8c95-dd206dbe611d
+[2026-06-26T22:02:40.653Z]   JWT: sub=d86d3b68-57ff-4674-8c95-dd206dbe611d iss=? exp=1782518439
+[2026-06-26T22:02:40.653Z] → greeting to player=d86d3b68-57ff-4674-8c95-dd206dbe611d
+[2026-06-26T22:03:32.796Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=3
+[2026-06-26T22:03:49.395Z] client connected — ip=2605:59ca:1093:3608:ada5:9b87:939b:30f3 player=2a238835-0180-4406-8e76-8493fcebeab6 ccu=4 token_sub=2a238835-0180-4406-8e76-8493fcebeab6
+[2026-06-26T22:03:49.396Z]   JWT: sub=2a238835-0180-4406-8e76-8493fcebeab6 iss=? exp=1782518628
+[2026-06-26T22:03:49.396Z] → greeting to player=2a238835-0180-4406-8e76-8493fcebeab6
+[2026-06-26T22:04:05.829Z] client connected — ip=2001:1960:2c01:1131:8076:ed14:4636:ab6 player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=5 token_sub=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T22:04:05.830Z]   JWT: sub=3ef976a4-2f91-41ba-8701-13624cae7f66 iss=? exp=1782515528
+[2026-06-26T22:04:05.830Z] → greeting to player=3ef976a4-2f91-41ba-8701-13624cae7f66
+[2026-06-26T22:04:16.638Z] client connected — ip=174.89.136.231 player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=6 token_sub=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T22:04:16.638Z]   JWT: sub=240343b0-dccc-4850-8342-3a6f1af53496 iss=? exp=1782518655
+[2026-06-26T22:04:16.639Z] → greeting to player=240343b0-dccc-4850-8342-3a6f1af53496
+[2026-06-26T22:04:32.462Z] client disconnected — player=5bdd25b6-2540-49a4-af2c-aa83433a901d ccu=5
+[2026-06-26T22:06:50.159Z] client disconnected — player=240343b0-dccc-4850-8342-3a6f1af53496 ccu=4
+[2026-06-26T22:08:26.274Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=5 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:08:26.275Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:08:26.275Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:08:40.597Z] client disconnected — player=2a238835-0180-4406-8e76-8493fcebeab6 ccu=4
+[2026-06-26T22:08:41.174Z] client connected — ip=2607:fb92:1785:3ebc:34d6:de51:8810:2ff7 player=unknown ccu=4 token_sub=none
+[2026-06-26T22:08:41.175Z] → greeting to player=unknown
+[2026-06-26T22:09:33.642Z] client disconnected — player=d86d3b68-57ff-4674-8c95-dd206dbe611d ccu=3
+[2026-06-26T22:10:13.269Z] client connected — ip=2607:fb91:4c1f:d60e:6870:caa7:f540:43ce player=d86d3b68-57ff-4674-8c95-dd206dbe611d ccu=4 token_sub=d86d3b68-57ff-4674-8c95-dd206dbe611d
+[2026-06-26T22:10:13.269Z]   JWT: sub=d86d3b68-57ff-4674-8c95-dd206dbe611d iss=? exp=1782518439
+[2026-06-26T22:10:13.270Z] → greeting to player=d86d3b68-57ff-4674-8c95-dd206dbe611d
+[2026-06-26T22:10:31.852Z] client disconnected — player=unknown ccu=4
+[2026-06-26T22:10:32.841Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=3
+[2026-06-26T22:11:11.605Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=4 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:11:11.606Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:11:11.606Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:11:18.469Z] client connected — ip=156.34.42.207 player=f6573fed-986b-4343-a328-73c658ad798c ccu=5 token_sub=f6573fed-986b-4343-a328-73c658ad798c
+[2026-06-26T22:11:18.470Z]   JWT: sub=f6573fed-986b-4343-a328-73c658ad798c iss=? exp=1782519077
+[2026-06-26T22:11:18.470Z] → greeting to player=f6573fed-986b-4343-a328-73c658ad798c
+[2026-06-26T22:12:41.209Z] client connected — ip=97.95.235.27 player=00bf3952-7205-4d1b-baa7-83bf77674ee8 ccu=6 token_sub=00bf3952-7205-4d1b-baa7-83bf77674ee8
+[2026-06-26T22:12:41.209Z]   JWT: sub=00bf3952-7205-4d1b-baa7-83bf77674ee8 iss=? exp=1782519159
+[2026-06-26T22:12:41.209Z] → greeting to player=00bf3952-7205-4d1b-baa7-83bf77674ee8
+[2026-06-26T22:12:58.846Z] client disconnected — player=f6573fed-986b-4343-a328-73c658ad798c ccu=5
+[2026-06-26T22:13:28.757Z] client connected — ip=156.34.42.207 player=f6573fed-986b-4343-a328-73c658ad798c ccu=6 token_sub=f6573fed-986b-4343-a328-73c658ad798c
+[2026-06-26T22:13:28.757Z]   JWT: sub=f6573fed-986b-4343-a328-73c658ad798c iss=? exp=1782519077
+[2026-06-26T22:13:28.758Z] → greeting to player=f6573fed-986b-4343-a328-73c658ad798c
+[2026-06-26T22:15:27.014Z] client disconnected — player=40dc0e3b-0be8-4a2a-8d32-83d9167f172d ccu=5
+[2026-06-26T22:15:30.240Z] client disconnected — player=00bf3952-7205-4d1b-baa7-83bf77674ee8 ccu=4
+[2026-06-26T22:17:02.145Z] client connected — ip=12.206.121.252 player=7963a5b8-1e76-4493-8728-2f2a2f1756bb ccu=5 token_sub=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T22:17:02.145Z]   JWT: sub=7963a5b8-1e76-4493-8728-2f2a2f1756bb iss=? exp=1782519419
+[2026-06-26T22:17:02.146Z] → greeting to player=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T22:17:25.251Z] client disconnected — player=d86d3b68-57ff-4674-8c95-dd206dbe611d ccu=4
+[2026-06-26T22:17:31.799Z] client disconnected — player=3ef976a4-2f91-41ba-8701-13624cae7f66 ccu=3
+[2026-06-26T22:21:36.731Z] client connected — ip=2603:80a0:3740:44bc:cc58:77f7:ede7:914d player=5632eb02-4452-4816-8357-c4283678a5e0 ccu=4 token_sub=5632eb02-4452-4816-8357-c4283678a5e0
+[2026-06-26T22:21:36.731Z]   JWT: sub=5632eb02-4452-4816-8357-c4283678a5e0 iss=? exp=1782519694
+[2026-06-26T22:21:36.731Z] → greeting to player=5632eb02-4452-4816-8357-c4283678a5e0
+[2026-06-26T22:23:25.899Z] client connected — ip=2607:fb92:1815:4203:4646:4e32:beff:f12f player=40dc0e3b-0be8-4a2a-8d32-83d9167f172d ccu=5 token_sub=40dc0e3b-0be8-4a2a-8d32-83d9167f172d
+[2026-06-26T22:23:25.900Z]   JWT: sub=40dc0e3b-0be8-4a2a-8d32-83d9167f172d iss=? exp=1782518276
+[2026-06-26T22:23:25.900Z] → greeting to player=40dc0e3b-0be8-4a2a-8d32-83d9167f172d
+[2026-06-26T22:24:03.899Z] client connected — ip=2001:569:ff32:a700:411b:b6f5:8c:9d90 player=09ed179e-2dc7-40f5-bb07-14721b8af699 ccu=6 token_sub=09ed179e-2dc7-40f5-bb07-14721b8af699
+[2026-06-26T22:24:03.899Z]   JWT: sub=09ed179e-2dc7-40f5-bb07-14721b8af699 iss=? exp=1782519842
+[2026-06-26T22:24:03.899Z] → greeting to player=09ed179e-2dc7-40f5-bb07-14721b8af699
+[2026-06-26T22:24:32.300Z] client disconnected — player=40dc0e3b-0be8-4a2a-8d32-83d9167f172d ccu=5
+[2026-06-26T22:24:56.818Z] ping timeout — terminating player=f6573fed-986b-4343-a328-73c658ad798c
+[2026-06-26T22:24:56.820Z] client disconnected — player=f6573fed-986b-4343-a328-73c658ad798c ccu=4
+[2026-06-26T22:26:52.789Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=3
+[2026-06-26T22:27:27.525Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=4 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:27:27.526Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:27:27.526Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:29:56.893Z] ping timeout — terminating player=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T22:29:56.894Z] client disconnected — player=7963a5b8-1e76-4493-8728-2f2a2f1756bb ccu=3
+[2026-06-26T22:31:42.161Z] client connected — ip=2601:2c5:4001:7a00:bd49:5444:4c66:ae8 player=eec12cd8-de48-48b4-ae49-563d3ca8af83 ccu=4 token_sub=eec12cd8-de48-48b4-ae49-563d3ca8af83
+[2026-06-26T22:31:42.162Z]   JWT: sub=eec12cd8-de48-48b4-ae49-563d3ca8af83 iss=? exp=1782520300
+[2026-06-26T22:31:42.162Z] → greeting to player=eec12cd8-de48-48b4-ae49-563d3ca8af83
+[2026-06-26T22:32:50.137Z] client disconnected — player=eec12cd8-de48-48b4-ae49-563d3ca8af83 ccu=3
+[2026-06-26T22:34:39.868Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=2
+[2026-06-26T22:36:09.649Z] client connected — ip=2600:6c56:7f:de37:6224:636f:d646:3245 player=78edef8c-a59e-4343-a398-5a7a218fabd2 ccu=3 token_sub=78edef8c-a59e-4343-a398-5a7a218fabd2
+[2026-06-26T22:36:09.650Z]   JWT: sub=78edef8c-a59e-4343-a398-5a7a218fabd2 iss=? exp=1782520568
+[2026-06-26T22:36:09.650Z] → greeting to player=78edef8c-a59e-4343-a398-5a7a218fabd2
+[2026-06-26T22:36:25.735Z] client connected — ip=97.95.235.27 player=cd92ce9b-8397-4dbe-a9f3-0561864fded3 ccu=4 token_sub=cd92ce9b-8397-4dbe-a9f3-0561864fded3
+[2026-06-26T22:36:25.735Z]   JWT: sub=cd92ce9b-8397-4dbe-a9f3-0561864fded3 iss=? exp=1782520584
+[2026-06-26T22:36:25.735Z] → greeting to player=cd92ce9b-8397-4dbe-a9f3-0561864fded3
+[2026-06-26T22:36:29.438Z] client connected — ip=2601:19a:4400:1df0:50be:fa17:f24a:e583 player=7e40f6b3-23f7-450a-a7ee-ee7d539671df ccu=5 token_sub=7e40f6b3-23f7-450a-a7ee-ee7d539671df
+[2026-06-26T22:36:29.438Z]   JWT: sub=7e40f6b3-23f7-450a-a7ee-ee7d539671df iss=? exp=1782520588
+[2026-06-26T22:36:29.438Z] → greeting to player=7e40f6b3-23f7-450a-a7ee-ee7d539671df
+[2026-06-26T22:36:35.739Z] client connected — ip=97.95.235.27 player=00bf3952-7205-4d1b-baa7-83bf77674ee8 ccu=6 token_sub=00bf3952-7205-4d1b-baa7-83bf77674ee8
+[2026-06-26T22:36:35.740Z]   JWT: sub=00bf3952-7205-4d1b-baa7-83bf77674ee8 iss=? exp=1782519159
+[2026-06-26T22:36:35.740Z] → greeting to player=00bf3952-7205-4d1b-baa7-83bf77674ee8
+[2026-06-26T22:36:40.184Z] client disconnected — player=7e40f6b3-23f7-450a-a7ee-ee7d539671df ccu=5
+[2026-06-26T22:37:12.076Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=6 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:37:12.077Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:37:12.077Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:38:46.669Z] client disconnected — player=78edef8c-a59e-4343-a398-5a7a218fabd2 ccu=5
+[2026-06-26T22:41:08.947Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=4
+[2026-06-26T22:41:39.811Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=5 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:41:39.811Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:41:39.811Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:43:33.944Z] client disconnected — player=09ed179e-2dc7-40f5-bb07-14721b8af699 ccu=4
+[2026-06-26T22:45:40.425Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=3
+[2026-06-26T22:47:41.324Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=4 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:47:41.325Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:47:41.325Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:47:51.674Z] client connected — ip=2601:19a:4400:1df0:50be:fa17:f24a:e583 player=7e40f6b3-23f7-450a-a7ee-ee7d539671df ccu=5 token_sub=7e40f6b3-23f7-450a-a7ee-ee7d539671df
+[2026-06-26T22:47:51.674Z]   JWT: sub=7e40f6b3-23f7-450a-a7ee-ee7d539671df iss=? exp=1782520588
+[2026-06-26T22:47:51.674Z] → greeting to player=7e40f6b3-23f7-450a-a7ee-ee7d539671df
+[2026-06-26T22:48:55.497Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=4
+[2026-06-26T22:50:08.224Z] client connected — ip=2600:1700:7ba0:29c0:4c30:36ef:c990:9419 player=0742a4b6-0af5-4be4-8654-dcc06ab01b13 ccu=5 token_sub=0742a4b6-0af5-4be4-8654-dcc06ab01b13
+[2026-06-26T22:50:08.225Z]   JWT: sub=0742a4b6-0af5-4be4-8654-dcc06ab01b13 iss=? exp=1782521407
+[2026-06-26T22:50:08.225Z] → greeting to player=0742a4b6-0af5-4be4-8654-dcc06ab01b13
+[2026-06-26T22:50:40.808Z] client connected — ip=47.184.170.130 player=81343a99-38aa-4265-b179-58959cd12461 ccu=6 token_sub=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:50:40.808Z]   JWT: sub=81343a99-38aa-4265-b179-58959cd12461 iss=? exp=1782518905
+[2026-06-26T22:50:40.809Z] → greeting to player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T22:50:54.292Z] client disconnected — player=0742a4b6-0af5-4be4-8654-dcc06ab01b13 ccu=5
+[2026-06-26T22:52:24.358Z] client connected — ip=201.187.173.147 player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 ccu=6 token_sub=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796
+[2026-06-26T22:52:24.359Z]   JWT: sub=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 iss=? exp=1782521542
+[2026-06-26T22:52:24.359Z] → greeting to player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796
+[2026-06-26T22:53:52.164Z] client connected — ip=104.179.206.236 player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=7 token_sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T22:53:52.164Z]   JWT: sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 iss=? exp=1782516659
+[2026-06-26T22:53:52.164Z] → greeting to player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T22:54:11.210Z] client disconnected — player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 ccu=6
+[2026-06-26T22:55:01.246Z] client connected — ip=2600:1700:60e1:e600:3685:6fde:380e:1782 player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=7 token_sub=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T22:55:01.246Z]   JWT: sub=697022ef-3b6b-4937-81fa-aefe3567e5e7 iss=? exp=1782521700
+[2026-06-26T22:55:01.246Z] → greeting to player=697022ef-3b6b-4937-81fa-aefe3567e5e7
+[2026-06-26T22:58:57.309Z] ping timeout — terminating player=7e40f6b3-23f7-450a-a7ee-ee7d539671df
+[2026-06-26T22:58:57.310Z] client disconnected — player=7e40f6b3-23f7-450a-a7ee-ee7d539671df ccu=6
+[2026-06-26T22:59:11.128Z] client connected — ip=2607:fb92:1980:7e7e:2aad:38c2:9b4:cdab player=6406217d-c275-495a-9255-253298a6c748 ccu=7 token_sub=6406217d-c275-495a-9255-253298a6c748
+[2026-06-26T22:59:11.128Z]   JWT: sub=6406217d-c275-495a-9255-253298a6c748 iss=? exp=1782521950
+[2026-06-26T22:59:11.129Z] → greeting to player=6406217d-c275-495a-9255-253298a6c748
+[2026-06-26T22:59:17.214Z] client disconnected — player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=6
+[2026-06-26T22:59:43.175Z] client connected — ip=104.179.206.236 player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=7 token_sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T22:59:43.175Z]   JWT: sub=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 iss=? exp=1782516659
+[2026-06-26T22:59:43.176Z] → greeting to player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12
+[2026-06-26T23:00:11.404Z] client connected — ip=2603:808c:3100:75cd:a7d8:aa83:6031:defe player=198fc211-7eb2-4b4d-8d0e-efae32266c81 ccu=8 token_sub=198fc211-7eb2-4b4d-8d0e-efae32266c81
+[2026-06-26T23:00:11.404Z]   JWT: sub=198fc211-7eb2-4b4d-8d0e-efae32266c81 iss=? exp=1782522010
+[2026-06-26T23:00:11.405Z] → greeting to player=198fc211-7eb2-4b4d-8d0e-efae32266c81
+[2026-06-26T23:00:23.768Z] client disconnected — player=198fc211-7eb2-4b4d-8d0e-efae32266c81 ccu=7
+[2026-06-26T23:01:57.357Z] ping timeout — terminating player=cd92ce9b-8397-4dbe-a9f3-0561864fded3
+[2026-06-26T23:01:57.358Z] ping timeout — terminating player=81343a99-38aa-4265-b179-58959cd12461
+[2026-06-26T23:01:57.359Z] client disconnected — player=81343a99-38aa-4265-b179-58959cd12461 ccu=6
+[2026-06-26T23:01:57.359Z] client disconnected — player=cd92ce9b-8397-4dbe-a9f3-0561864fded3 ccu=5
+[2026-06-26T23:04:14.555Z] client connected — ip=2603:808c:3100:75cd:a7d8:aa83:6031:defe player=198fc211-7eb2-4b4d-8d0e-efae32266c81 ccu=6 token_sub=198fc211-7eb2-4b4d-8d0e-efae32266c81
+[2026-06-26T23:04:14.556Z]   JWT: sub=198fc211-7eb2-4b4d-8d0e-efae32266c81 iss=? exp=1782522010
+[2026-06-26T23:04:14.556Z] → greeting to player=198fc211-7eb2-4b4d-8d0e-efae32266c81
+[2026-06-26T23:05:01.942Z] client disconnected — player=697022ef-3b6b-4937-81fa-aefe3567e5e7 ccu=5
+[2026-06-26T23:05:31.815Z] client disconnected — player=6406217d-c275-495a-9255-253298a6c748 ccu=4
+[2026-06-26T23:05:45.025Z] client disconnected — player=77b28e65-dde4-48fb-8fc1-e1cd8d980b12 ccu=3
+[2026-06-26T23:07:04.863Z] client connected — ip=2607:fb92:1980:7e7e:2aad:38c2:9b4:cdab player=6406217d-c275-495a-9255-253298a6c748 ccu=4 token_sub=6406217d-c275-495a-9255-253298a6c748
+[2026-06-26T23:07:04.864Z]   JWT: sub=6406217d-c275-495a-9255-253298a6c748 iss=? exp=1782521950
+[2026-06-26T23:07:04.864Z] → greeting to player=6406217d-c275-495a-9255-253298a6c748
+[2026-06-26T23:08:00.757Z] client disconnected — player=5632eb02-4452-4816-8357-c4283678a5e0 ccu=3
+[2026-06-26T23:08:05.122Z] client connected — ip=2806:2f0:3081:f190:52c6:294a:131a:8fc4 player=unknown ccu=3 token_sub=none
+[2026-06-26T23:08:05.123Z] → greeting to player=unknown
+[2026-06-26T23:08:06.379Z] client connected — ip=12.206.121.252 player=7963a5b8-1e76-4493-8728-2f2a2f1756bb ccu=4 token_sub=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T23:08:06.379Z]   JWT: sub=7963a5b8-1e76-4493-8728-2f2a2f1756bb iss=? exp=1782519419
+[2026-06-26T23:08:06.380Z] → greeting to player=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T23:08:44.880Z] client disconnected — player=6406217d-c275-495a-9255-253298a6c748 ccu=3
+[2026-06-26T23:12:32.793Z] client disconnected — player=unknown ccu=3
+[2026-06-26T23:14:27.546Z] ping timeout — terminating player=7963a5b8-1e76-4493-8728-2f2a2f1756bb
+[2026-06-26T23:14:27.548Z] client disconnected — player=7963a5b8-1e76-4493-8728-2f2a2f1756bb ccu=2
+[2026-06-26T23:16:46.893Z] client connected — ip=2601:980:c101:ab20:864b:f473:6644:cc7d player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb ccu=3 token_sub=48b4c514-2ec6-4d96-bd06-ab73608ff5eb
+[2026-06-26T23:16:46.894Z]   JWT: sub=48b4c514-2ec6-4d96-bd06-ab73608ff5eb iss=? exp=1782523005
+[2026-06-26T23:16:46.894Z] → greeting to player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb
+[2026-06-26T23:16:56.447Z] client connected — ip=201.187.173.147 player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 ccu=4 token_sub=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796
+[2026-06-26T23:16:56.447Z]   JWT: sub=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 iss=? exp=1782521542
+[2026-06-26T23:16:56.447Z] → greeting to player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796
+[2026-06-26T23:18:02.006Z] client disconnected — player=198fc211-7eb2-4b4d-8d0e-efae32266c81 ccu=3
+[2026-06-26T23:18:46.815Z] client disconnected — player=00bf3952-7205-4d1b-baa7-83bf77674ee8 ccu=2
+[2026-06-26T23:19:18.245Z] client disconnected — player=d5b02ee2-7244-4e4e-9d72-54bfb9cd2796 ccu=1
+[2026-06-26T23:20:25.230Z] client connected — ip=173.215.83.95 player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=2 token_sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T23:20:25.230Z]   JWT: sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a iss=? exp=1782523224
+[2026-06-26T23:20:25.231Z] → greeting to player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T23:21:44.596Z] client connected — ip=2601:84:ca81:8bd0:415c:e4f3:6a80:7e93 player=3cd8e480-336f-4232-8ddb-28b92aebe316 ccu=3 token_sub=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T23:21:44.596Z]   JWT: sub=3cd8e480-336f-4232-8ddb-28b92aebe316 iss=? exp=1782523303
+[2026-06-26T23:21:44.596Z] → greeting to player=3cd8e480-336f-4232-8ddb-28b92aebe316
+[2026-06-26T23:24:57.531Z] client connected — ip=97.95.235.27 player=cd92ce9b-8397-4dbe-a9f3-0561864fded3 ccu=4 token_sub=cd92ce9b-8397-4dbe-a9f3-0561864fded3
+[2026-06-26T23:24:57.532Z]   JWT: sub=cd92ce9b-8397-4dbe-a9f3-0561864fded3 iss=? exp=1782520584
+[2026-06-26T23:24:57.532Z] → greeting to player=cd92ce9b-8397-4dbe-a9f3-0561864fded3
+[2026-06-26T23:25:00.334Z] client disconnected — player=cd92ce9b-8397-4dbe-a9f3-0561864fded3 ccu=3
+[2026-06-26T23:29:29.074Z] client disconnected — player=3cd8e480-336f-4232-8ddb-28b92aebe316 ccu=2
+[2026-06-26T23:29:57.825Z] client connected — ip=2603:6000:a400:6f8d:32a2:7e89:3c18:ebd4 player=71d6346f-e2da-4ce5-93f7-b9abb544ede8 ccu=3 token_sub=71d6346f-e2da-4ce5-93f7-b9abb544ede8
+[2026-06-26T23:29:57.825Z]   JWT: sub=71d6346f-e2da-4ce5-93f7-b9abb544ede8 iss=? exp=1782523796
+[2026-06-26T23:29:57.825Z] → greeting to player=71d6346f-e2da-4ce5-93f7-b9abb544ede8
+[2026-06-26T23:30:47.267Z] client disconnected — player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb ccu=2
+[2026-06-26T23:31:12.075Z] client disconnected — player=71d6346f-e2da-4ce5-93f7-b9abb544ede8 ccu=1
+[2026-06-26T23:31:13.287Z] client connected — ip=2601:980:c101:ab20:864b:f473:6644:cc7d player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb ccu=2 token_sub=48b4c514-2ec6-4d96-bd06-ab73608ff5eb
+[2026-06-26T23:31:13.287Z]   JWT: sub=48b4c514-2ec6-4d96-bd06-ab73608ff5eb iss=? exp=1782523005
+[2026-06-26T23:31:13.288Z] → greeting to player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb
+[2026-06-26T23:36:55.404Z] client connected — ip=2603:6010:8700:49b6:d91c:f3e4:7467:5f16 player=dd73ea48-ef41-4944-abe8-c24393437c61 ccu=3 token_sub=dd73ea48-ef41-4944-abe8-c24393437c61
+[2026-06-26T23:36:55.405Z]   JWT: sub=dd73ea48-ef41-4944-abe8-c24393437c61 iss=? exp=1782524214
+[2026-06-26T23:36:55.405Z] → greeting to player=dd73ea48-ef41-4944-abe8-c24393437c61
+[2026-06-26T23:37:46.366Z] client disconnected — player=dd73ea48-ef41-4944-abe8-c24393437c61 ccu=2
+[2026-06-26T23:37:57.927Z] ping timeout — terminating player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T23:37:57.928Z] client disconnected — player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=1
+[2026-06-26T23:38:47.452Z] client connected — ip=47.223.225.138 player=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce ccu=2 token_sub=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce
+[2026-06-26T23:38:47.452Z]   JWT: sub=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce iss=? exp=1782524326
+[2026-06-26T23:38:47.453Z] → greeting to player=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce
+[2026-06-26T23:39:00.882Z] client disconnected — player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb ccu=1
+[2026-06-26T23:42:19.344Z] client disconnected — player=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce ccu=0
+[2026-06-26T23:45:58.397Z] client connected — ip=47.223.225.138 player=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce ccu=1 token_sub=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce
+[2026-06-26T23:45:58.398Z]   JWT: sub=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce iss=? exp=1782524326
+[2026-06-26T23:45:58.398Z] → greeting to player=a6bc6c50-1cd9-418d-84d6-ae3ab9cfe3ce
+[2026-06-26T23:53:48.471Z] client connected — ip=50.27.121.181 player=0115dd93-0c0c-41d5-a0fa-957d8f7ad8e1 ccu=2 token_sub=0115dd93-0c0c-41d5-a0fa-957d8f7ad8e1
+[2026-06-26T23:53:48.472Z]   JWT: sub=0115dd93-0c0c-41d5-a0fa-957d8f7ad8e1 iss=? exp=1782525227
+[2026-06-26T23:53:48.472Z] → greeting to player=0115dd93-0c0c-41d5-a0fa-957d8f7ad8e1
+[2026-06-26T23:54:14.980Z] client connected — ip=2a01:cb1d:8111:9b00:78f1:a7f:37f1:5530 player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 ccu=3 token_sub=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4
+[2026-06-26T23:54:14.981Z]   JWT: sub=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4 iss=? exp=1782525253
+[2026-06-26T23:54:14.981Z] → greeting to player=ddce2dfc-1a99-4a9e-9f29-e013a5e19ca4
+[2026-06-26T23:56:36.939Z] client connected — ip=2601:980:c101:ab20:864b:f473:6644:cc7d player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb ccu=4 token_sub=48b4c514-2ec6-4d96-bd06-ab73608ff5eb
+[2026-06-26T23:56:36.939Z]   JWT: sub=48b4c514-2ec6-4d96-bd06-ab73608ff5eb iss=? exp=1782523005
+[2026-06-26T23:56:36.940Z] → greeting to player=48b4c514-2ec6-4d96-bd06-ab73608ff5eb
+[2026-06-26T23:57:42.735Z] client connected — ip=173.215.83.95 player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=5 token_sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T23:57:42.735Z]   JWT: sub=a5058fef-7e24-426c-8b46-9cb9ed30f36a iss=? exp=1782523224
+[2026-06-26T23:57:42.735Z] → greeting to player=a5058fef-7e24-426c-8b46-9cb9ed30f36a
+[2026-06-26T23:57:53.308Z] client disconnected — player=a5058fef-7e24-426c-8b46-9cb9ed30f36a ccu=4
+[2026-06-26T23:59:48.071Z] client connected — ip=2601:19a:4400:1df0:8ace:2ae5:c8f3:79a6 player=7e40f6b3-23f7-450a-a7ee-ee7d539671df ccu=5 token_sub=7e40f6b3-23f7-450a-a7ee-ee7d539671df
+[2026-06-26T23:59:48.071Z]   JWT: sub=7e40f6b3-23f7-450a-a7ee-ee7d539671df iss=? exp=1782520588
+[2026-06-26T23:59:48.072Z] → greeting to player=7e40f6b3-23f7-450a-a7ee-ee7d539671df

@@ -1,0 +1,361 @@
+=== PURCHASE_COSMETIC [2026-06-13T13:17:54.446Z] ===
+--- REQUEST ---
+POST /api/purchase/cosmetic
+Headers: {
+  "host": "iap.ctag-cf.com",
+  "user-agent": "BMC-HTTPS-ROBOT",
+  "content-length": "956",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "3.23.31.237",
+  "cf-ipcountry": "US",
+  "cf-ray": "a0b160d33c943401-CMH",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "37304524-8f3a-4f92-ade3-ebb44f9a41ee",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "3.23.31.237",
+  "x-forwarded-proto": "https",
+  "x-signature-sha256": "9044efbd40061966269c05c198411f628de70f31188958d040957154f2c06295"
+}
+Body: {
+  "type": "extra_purchase.created",
+  "live_mode": false,
+  "attempt": 1,
+  "created": 1781356675,
+  "event_id": 1,
+  "data": {
+    "id": 59,
+    "amount": 75,
+    "extras": [
+      {
+        "id": 3,
+        "title": "Content Creation Advice",
+        "amount": "75.00",
+        "quantity": 2,
+        "object": "extra",
+        "currency": "USD",
+        "description": "Hop on a Zoom call with me where I’ll spend an hour to help you achieveyour content creation goals. I’ll also show you the tools I use.",
+        "extra_question": "Would you like me to prepare before thecall? Feel free to leave any information here. ",
+        "question_answers": []
+      }
+    ],
+    "object": "payment",
+    "status": "succeeded",
+    "message": "John just claimed Content Creation Advice",
+    "currency": "USD",
+    "refunded": "false",
+    "created_at": 1676545577,
+    "note_hidden": "false",
+    "refunded_at": null,
+    "support_note": null,
+    "support_type": "Extra",
+    "supporter_name": "John",
+    "transaction_id": "pi_3Mc5I3JEtINljGAa0XZxB3XG",
+    "application_fee": "3.75",
+    "supporter_id": 2345,
+    "supporter_email": "john@example.com",
+    "total_amount_charged": "77.48"
+  }
+}
+--- RESPONSE ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "299",
+  "ratelimit-reset": "60",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "55",
+  "etag": "W/\"37-4tLZUawG81JiEv1G9mQ+DeSb8is\""
+}
+Body: {
+  "success": true,
+  "message": "cosmetic purchase endpoint"
+}
+========================================
+=== PURCHASE_COSMETIC [2026-06-13T13:29:19.463Z] ===
+--- REQUEST ---
+POST /api/purchase/cosmetic
+Headers: {
+  "host": "iap.ctag-cf.com",
+  "user-agent": "BMC-HTTPS-ROBOT",
+  "content-length": "956",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "3.23.31.237",
+  "cf-ipcountry": "US",
+  "cf-ray": "a0b1718c996d0ecd-CMH",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "37304524-8f3a-4f92-ade3-ebb44f9a41ee",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "3.23.31.237",
+  "x-forwarded-proto": "https",
+  "x-signature-sha256": "7a3b9974e8c8ab78e17aef167c8293646f5a9c1c40127e52a334e5079e06036e"
+}
+Body: {
+  "type": "extra_purchase.created",
+  "live_mode": false,
+  "attempt": 1,
+  "created": 1781357360,
+  "event_id": 1,
+  "data": {
+    "id": 59,
+    "amount": 75,
+    "extras": [
+      {
+        "id": 3,
+        "title": "Content Creation Advice",
+        "amount": "75.00",
+        "quantity": 2,
+        "object": "extra",
+        "currency": "USD",
+        "description": "Hop on a Zoom call with me where I’ll spend an hour to help you achieveyour content creation goals. I’ll also show you the tools I use.",
+        "extra_question": "Would you like me to prepare before thecall? Feel free to leave any information here. ",
+        "question_answers": []
+      }
+    ],
+    "object": "payment",
+    "status": "succeeded",
+    "message": "John just claimed Content Creation Advice",
+    "currency": "USD",
+    "refunded": "false",
+    "created_at": 1676545577,
+    "note_hidden": "false",
+    "refunded_at": null,
+    "support_note": null,
+    "support_type": "Extra",
+    "supporter_name": "John",
+    "transaction_id": "pi_3Mc5I3JEtINljGAa0XZxB3XG",
+    "application_fee": "3.75",
+    "supporter_id": 2345,
+    "supporter_email": "john@example.com",
+    "total_amount_charged": "77.48"
+  }
+}
+--- RESPONSE ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "299",
+  "ratelimit-reset": "60",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "55",
+  "etag": "W/\"37-4tLZUawG81JiEv1G9mQ+DeSb8is\""
+}
+Body: {
+  "success": true,
+  "message": "cosmetic purchase endpoint"
+}
+========================================
+=== PURCHASE_COSMETIC [2026-06-13T13:29:30.736Z] ===
+--- REQUEST ---
+POST /api/purchase/cosmetic
+Headers: {
+  "host": "iap.ctag-cf.com",
+  "user-agent": "BMC-HTTPS-ROBOT",
+  "content-length": "956",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "3.23.31.237",
+  "cf-ipcountry": "US",
+  "cf-ray": "a0b171d2fcad5e44-CMH",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "37304524-8f3a-4f92-ade3-ebb44f9a41ee",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "3.23.31.237",
+  "x-forwarded-proto": "https",
+  "x-signature-sha256": "1d64f0ff867abe2bc60c5a7651ef33ebbd9ff3653a78eabee4e115b98459cc19"
+}
+Body: {
+  "type": "extra_purchase.created",
+  "live_mode": false,
+  "attempt": 1,
+  "created": 1781357371,
+  "event_id": 1,
+  "data": {
+    "id": 59,
+    "amount": 75,
+    "extras": [
+      {
+        "id": 3,
+        "title": "Content Creation Advice",
+        "amount": "75.00",
+        "quantity": 2,
+        "object": "extra",
+        "currency": "USD",
+        "description": "Hop on a Zoom call with me where I’ll spend an hour to help you achieveyour content creation goals. I’ll also show you the tools I use.",
+        "extra_question": "Would you like me to prepare before thecall? Feel free to leave any information here. ",
+        "question_answers": []
+      }
+    ],
+    "object": "payment",
+    "status": "succeeded",
+    "message": "John just claimed Content Creation Advice",
+    "currency": "USD",
+    "refunded": "false",
+    "created_at": 1676545577,
+    "note_hidden": "false",
+    "refunded_at": null,
+    "support_note": null,
+    "support_type": "Extra",
+    "supporter_name": "John",
+    "transaction_id": "pi_3Mc5I3JEtINljGAa0XZxB3XG",
+    "application_fee": "3.75",
+    "supporter_id": 2345,
+    "supporter_email": "john@example.com",
+    "total_amount_charged": "77.48"
+  }
+}
+--- RESPONSE ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "299",
+  "ratelimit-reset": "60",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "55",
+  "etag": "W/\"37-4tLZUawG81JiEv1G9mQ+DeSb8is\""
+}
+Body: {
+  "success": true,
+  "message": "cosmetic purchase endpoint"
+}
+========================================
+=== PURCHASE_COSMETIC [2026-06-14T14:22:16.313Z] ===
+--- REQUEST ---
+POST /api/purchase/cosmetic
+Headers: {
+  "host": "iap.ctag-cf.com",
+  "user-agent": "BMC-HTTPS-ROBOT",
+  "content-length": "1029",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "3.23.31.237",
+  "cf-ipcountry": "US",
+  "cf-ray": "a0b9fb04a95a5645-CMH",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "37304524-8f3a-4f92-ade3-ebb44f9a41ee",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "3.23.31.237",
+  "x-forwarded-proto": "https",
+  "x-signature-sha256": "b73f8e110ec37097435e0765c6dd54e08c3386c808ecaab5ecb5e783337e3d7f"
+}
+Body: {
+  "data": {
+    "id": 14551907,
+    "amount": 12.01,
+    "extras": [
+      {
+        "id": 547756,
+        "title": "AA Creator Badge",
+        "amount": "12.0100",
+        "object": "extra",
+        "currency": "USD",
+        "quantity": 1,
+        "description": "AA Creator Badge ingame",
+        "extra_question": "Please add you discord username and discord user id in this format: &quot;snakearmyyt, 898859607391354891&quot; MAKE SURE YOU SEND THE USERNAME AND NOT DISPLAY NAME",
+        "question_answers": [
+          "xenox.fn, 1400389196681838653"
+        ]
+      }
+    ],
+    "object": "payment",
+    "status": "succeeded",
+    "message": "Abel claimed AA Creator Badge.",
+    "currency": "USD",
+    "refunded": "false",
+    "created_at": 1781446874,
+    "note_hidden": "false",
+    "refunded_at": null,
+    "coffee_count": 1,
+    "coffee_price": "12.0100",
+    "support_note": null,
+    "support_type": "Extra",
+    "supporter_id": 10897999,
+    "supporter_name": "Abel",
+    "transaction_id": "pi_3TiEtgJaRfVpiYbP0tkvGkah",
+    "application_fee": "0.60",
+    "supporter_email": "CozyChimpsV2@gmail.com",
+    "supporter_name_type": "default",
+    "total_amount_charged": "12.68"
+  },
+  "type": "extra_purchase.created",
+  "attempt": 1,
+  "created": 1781446876,
+  "event_id": 595454,
+  "live_mode": true
+}
+--- RESPONSE ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "299",
+  "ratelimit-reset": "60",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "55",
+  "etag": "W/\"37-4tLZUawG81JiEv1G9mQ+DeSb8is\""
+}
+Body: {
+  "success": true,
+  "message": "cosmetic purchase endpoint"
+}
+========================================

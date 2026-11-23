@@ -1,3 +1,7 @@
-node_modules
+node_modules/
 .env
-.vercel
+*.db
+*.db-shm
+*.db-wal
+mothership-private.pem
+mothership-public.pem

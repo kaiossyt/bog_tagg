@@ -1,0 +1,1647 @@
+=== GetMaps [2026-07-04T00:23:47.297Z] ===
+--- REQUEST ---
+POST /api/GetMaps
+IP: 2603:6081:56f0:9b0:1a46:cdc:653:d6a5
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "756",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2603:6081:56f0:9b0:1a46:cdc:653:d6a5",
+  "cf-ipcountry": "US",
+  "cf-ray": "a159fbb79e9cb946-ATL",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2603:6081:56f0:9b0:1a46:cdc:653:d6a5",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "fe5dd06c-cf2a-4fdb-a407-d19d399ba066",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmZTVkZDA2Yy1jZjJhLTRmZGItYTQwNy1kMTlkMzk5YmEwNjYiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMzY4ODg1NDAyNjc0MjYwMjUiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMzY4ODg1NDAyNjc0MjYwMjUiLCJuYmYiOjE3ODMxMjM1MzksImV4cCI6MTc4MzEzMDczOSwiaWF0IjoxNzgzMTIzNTM5fQ.U9PaKKev-5edZV9khBQ9kben8hurEu88qOsOY_OqntBVqP0sB_3pRgJB_975-Mdv9v7Q1yMZQ7GKuB8z4uVgVw",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "page": 0,
+  "pageSize": 50,
+  "sort": "Top",
+  "ShowInactive": false
+}
+--- RESPONSE (4ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "296",
+  "ratelimit-reset": "2",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "11963",
+  "etag": "W/\"2ebb-p0lGh9w+Z3RwVFRqN9xJbPAUwjc\""
+}
+Body: [
+  {
+    "mapId": "MR2KGRF7",
+    "mothershipId": "af2e03fd-f27b-48fc-af36-4784aa14d94e",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "AZUS4AAC12",
+    "createdTime": "2026-07-03 01:22:31",
+    "updatedTime": "2026-07-03 01:22:31",
+    "voteCount": 3,
+    "isActive": true
+  },
+  {
+    "mapId": "GMC68CT9",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-18 03:36:02",
+    "updatedTime": "2026-06-18 03:36:02",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7ZRKCRG9",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 03:33:40",
+    "updatedTime": "2026-06-19 03:33:40",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "K9Z7XC5Z",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 04:04:05",
+    "updatedTime": "2026-06-19 04:04:05",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "8CZC5ZRX",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-19 04:04:14",
+    "updatedTime": "2026-06-19 04:04:14",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7GH5P5K2",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "BRB",
+    "createdTime": "2026-06-19 12:08:53",
+    "updatedTime": "2026-06-19 12:08:53",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "X76F752K",
+    "mothershipId": "d1766ac3-44ef-4fcc-8c83-84aa660b92b0",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "FUNNYGT",
+    "createdTime": "2026-06-18 01:31:08",
+    "updatedTime": "20
+========================================
+=== GetMapData [2026-07-04T00:23:47.681Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2603:6081:56f0:9b0:1a46:cdc:653:d6a5
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2603:6081:56f0:9b0:1a46:cdc:653:d6a5",
+  "cf-ipcountry": "US",
+  "cf-ray": "a159fbbd2f97b946-ATL",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2603:6081:56f0:9b0:1a46:cdc:653:d6a5",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "fe5dd06c-cf2a-4fdb-a407-d19d399ba066",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmZTVkZDA2Yy1jZjJhLTRmZGItYTQwNy1kMTlkMzk5YmEwNjYiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMzY4ODg1NDAyNjc0MjYwMjUiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMzY4ODg1NDAyNjc0MjYwMjUiLCJuYmYiOjE3ODMxMjM1MzksImV4cCI6MTc4MzEzMDczOSwiaWF0IjoxNzgzMTIzNTM5fQ.U9PaKKev-5edZV9khBQ9kben8hurEu88qOsOY_OqntBVqP0sB_3pRgJB_975-Mdv9v7Q1yMZQ7GKuB8z4uVgVw",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "MHHG867K"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "295",
+  "ratelimit-reset": "2",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "11984",
+  "etag": "W/\"2ed0-5brg+YI6tb4S0QWRD91WB+tJVYE\""
+}
+Body: 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
+========================================
+=== GetMaps [2026-07-04T00:53:51.794Z] ===
+--- REQUEST ---
+POST /api/GetMaps
+IP: 2601:8c1:8200:8540:9db5:105f:e170:437e
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "756",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2601:8c1:8200:8540:9db5:105f:e170:437e",
+  "cf-ipcountry": "US",
+  "cf-ray": "a15a27c5ff72987c-DEN",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2601:8c1:8200:8540:9db5:105f:e170:437e",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "bd431994-e1b6-45fe-9f22-5fca0f57996b",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiZDQzMTk5NC1lMWI2LTQ1ZmUtOWYyMi01ZmNhMGY1Nzk5NmIiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc3Njk5MjczNTU5NzM1OTIiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc3Njk5MjczNTU5NzM1OTIiLCJuYmYiOjE3ODMxMjE2MDcsImV4cCI6MTc4MzEyODgwNywiaWF0IjoxNzgzMTIxNjA3fQ.UPLWGb3hnozlfsEVsZ-2EOP4J9Rpn4dD-2LGXFWR6dSeRRfLLGFas73oNdcDCm2LGKYlM0pqezuKNPXVm8oAEA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "page": 0,
+  "pageSize": 50,
+  "sort": "Top",
+  "ShowInactive": false
+}
+--- RESPONSE (3ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "295",
+  "ratelimit-reset": "4",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "11963",
+  "etag": "W/\"2ebb-p0lGh9w+Z3RwVFRqN9xJbPAUwjc\""
+}
+Body: [
+  {
+    "mapId": "MR2KGRF7",
+    "mothershipId": "af2e03fd-f27b-48fc-af36-4784aa14d94e",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "AZUS4AAC12",
+    "createdTime": "2026-07-03 01:22:31",
+    "updatedTime": "2026-07-03 01:22:31",
+    "voteCount": 3,
+    "isActive": true
+  },
+  {
+    "mapId": "GMC68CT9",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-18 03:36:02",
+    "updatedTime": "2026-06-18 03:36:02",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7ZRKCRG9",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 03:33:40",
+    "updatedTime": "2026-06-19 03:33:40",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "K9Z7XC5Z",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 04:04:05",
+    "updatedTime": "2026-06-19 04:04:05",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "8CZC5ZRX",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-19 04:04:14",
+    "updatedTime": "2026-06-19 04:04:14",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7GH5P5K2",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "BRB",
+    "createdTime": "2026-06-19 12:08:53",
+    "updatedTime": "2026-06-19 12:08:53",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "X76F752K",
+    "mothershipId": "d1766ac3-44ef-4fcc-8c83-84aa660b92b0",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "FUNNYGT",
+    "createdTime": "2026-06-18 01:31:08",
+    "updatedTime": "20
+========================================
+=== GetMapData [2026-07-04T00:53:52.134Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2601:8c1:8200:8540:9db5:105f:e170:437e
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2601:8c1:8200:8540:9db5:105f:e170:437e",
+  "cf-ipcountry": "US",
+  "cf-ray": "a15a27cb0aee987c-DEN",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2601:8c1:8200:8540:9db5:105f:e170:437e",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "bd431994-e1b6-45fe-9f22-5fca0f57996b",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiZDQzMTk5NC1lMWI2LTQ1ZmUtOWYyMi01ZmNhMGY1Nzk5NmIiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc3Njk5MjczNTU5NzM1OTIiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc3Njk5MjczNTU5NzM1OTIiLCJuYmYiOjE3ODMxMjE2MDcsImV4cCI6MTc4MzEyODgwNywiaWF0IjoxNzgzMTIxNjA3fQ.UPLWGb3hnozlfsEVsZ-2EOP4J9Rpn4dD-2LGXFWR6dSeRRfLLGFas73oNdcDCm2LGKYlM0pqezuKNPXVm8oAEA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "7GH5P5K2"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "294",
+  "ratelimit-reset": "3",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "44648",
+  "etag": "W/\"ae68-ZlOWYEy+eZX98FFxW7wBZ+OejNU\""
+}
+Body: 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
+========================================
+=== GetMaps [2026-07-04T04:21:05.633Z] ===
+--- REQUEST ---
+POST /api/GetMaps
+IP: 208.104.177.105
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "756",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "208.104.177.105",
+  "cf-ipcountry": "US",
+  "cf-ray": "a15b57552d73c016-ATL",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "208.104.177.105",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "ed878297-3026-4a9e-8d55-2f49f6500d47",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlZDg3ODI5Ny0zMDI2LTRhOWUtOGQ1NS0yZjQ5ZjY1MDBkNDciLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4OTA4MDI4NjcxOTEwNzMiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4OTA4MDI4NjcxOTEwNzMiLCJuYmYiOjE3ODMxMzczMjgsImV4cCI6MTc4MzE0NDUyOCwiaWF0IjoxNzgzMTM3MzI4fQ.9qIiBqtXcTwM23yv9DO_ISRZZuVJgj8tVYU3PqLLy_Z_YlvUawqzWurtFjM64DDoPHGjhg3jTseAKbJiNwvKXw",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "page": 0,
+  "pageSize": 50,
+  "sort": "Top",
+  "ShowInactive": false
+}
+--- RESPONSE (4ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "291",
+  "ratelimit-reset": "26",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "11963",
+  "etag": "W/\"2ebb-p0lGh9w+Z3RwVFRqN9xJbPAUwjc\""
+}
+Body: [
+  {
+    "mapId": "MR2KGRF7",
+    "mothershipId": "af2e03fd-f27b-48fc-af36-4784aa14d94e",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "AZUS4AAC12",
+    "createdTime": "2026-07-03 01:22:31",
+    "updatedTime": "2026-07-03 01:22:31",
+    "voteCount": 3,
+    "isActive": true
+  },
+  {
+    "mapId": "GMC68CT9",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-18 03:36:02",
+    "updatedTime": "2026-06-18 03:36:02",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7ZRKCRG9",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 03:33:40",
+    "updatedTime": "2026-06-19 03:33:40",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "K9Z7XC5Z",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 04:04:05",
+    "updatedTime": "2026-06-19 04:04:05",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "8CZC5ZRX",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-19 04:04:14",
+    "updatedTime": "2026-06-19 04:04:14",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7GH5P5K2",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "BRB",
+    "createdTime": "2026-06-19 12:08:53",
+    "updatedTime": "2026-06-19 12:08:53",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "X76F752K",
+    "mothershipId": "d1766ac3-44ef-4fcc-8c83-84aa660b92b0",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "FUNNYGT",
+    "createdTime": "2026-06-18 01:31:08",
+    "updatedTime": "20
+========================================
+=== GetMapData [2026-07-04T04:21:05.947Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 208.104.177.105
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "208.104.177.105",
+  "cf-ipcountry": "US",
+  "cf-ray": "a15b575a5801c016-ATL",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "208.104.177.105",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "ed878297-3026-4a9e-8d55-2f49f6500d47",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlZDg3ODI5Ny0zMDI2LTRhOWUtOGQ1NS0yZjQ5ZjY1MDBkNDciLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4OTA4MDI4NjcxOTEwNzMiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4OTA4MDI4NjcxOTEwNzMiLCJuYmYiOjE3ODMxMzczMjgsImV4cCI6MTc4MzE0NDUyOCwiaWF0IjoxNzgzMTM3MzI4fQ.9qIiBqtXcTwM23yv9DO_ISRZZuVJgj8tVYU3PqLLy_Z_YlvUawqzWurtFjM64DDoPHGjhg3jTseAKbJiNwvKXw",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "WNG6RGMG"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "290",
+  "ratelimit-reset": "25",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "23824",
+  "etag": "W/\"5d10-YvAaJGK2UXVb64WbZwgxGK0mSAA\""
+}
+Body: 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
+========================================
+=== MapVote [2026-07-04T04:21:26.335Z] ===
+--- REQUEST ---
+POST /api/MapVote
+IP: 208.104.177.105
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "727",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "208.104.177.105",
+  "cf-ipcountry": "US",
+  "cf-ray": "a15b57d6afc7267a-ATL",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "208.104.177.105",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "ed878297-3026-4a9e-8d55-2f49f6500d47",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlZDg3ODI5Ny0zMDI2LTRhOWUtOGQ1NS0yZjQ5ZjY1MDBkNDciLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4OTA4MDI4NjcxOTEwNzMiLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4OTA4MDI4NjcxOTEwNzMiLCJuYmYiOjE3ODMxMzczMjgsImV4cCI6MTc4MzE0NDUyOCwiaWF0IjoxNzgzMTM3MzI4fQ.9qIiBqtXcTwM23yv9DO_ISRZZuVJgj8tVYU3PqLLy_Z_YlvUawqzWurtFjM64DDoPHGjhg3jTseAKbJiNwvKXw",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "WNG6RGMG",
+  "vote": 1
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "285",
+  "ratelimit-reset": "5",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "2",
+  "etag": "W/\"2-nOO9QiTIwXgNtWtBJezz8kv3SLc\""
+}
+Body: OK
+========================================
+=== GetMaps [2026-07-04T08:44:08.106Z] ===
+--- REQUEST ---
+POST /api/GetMaps
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "756",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd8a4dd8ccdc2-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "page": 0,
+  "pageSize": 50,
+  "sort": "Top",
+  "ShowInactive": false
+}
+--- RESPONSE (4ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "291",
+  "ratelimit-reset": "11",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "11963",
+  "etag": "W/\"2ebb-IANdnbNK+p1phlMjp3Fqb/sydSk\""
+}
+Body: [
+  {
+    "mapId": "MR2KGRF7",
+    "mothershipId": "af2e03fd-f27b-48fc-af36-4784aa14d94e",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "AZUS4AAC12",
+    "createdTime": "2026-07-03 01:22:31",
+    "updatedTime": "2026-07-03 01:22:31",
+    "voteCount": 3,
+    "isActive": true
+  },
+  {
+    "mapId": "GMC68CT9",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-18 03:36:02",
+    "updatedTime": "2026-06-18 03:36:02",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7ZRKCRG9",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 03:33:40",
+    "updatedTime": "2026-06-19 03:33:40",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "K9Z7XC5Z",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 04:04:05",
+    "updatedTime": "2026-06-19 04:04:05",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "8CZC5ZRX",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-19 04:04:14",
+    "updatedTime": "2026-06-19 04:04:14",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "WNG6RGMG",
+    "mothershipId": "86668058-0509-458b-991a-5221bd5c27e8",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SUSHI",
+    "createdTime": "2026-06-19 04:26:27",
+    "updatedTime": "2026-06-19 04:26:27",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7GH5P5K2",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "BRB",
+    "createdTime": "2026-06-19 12:08:53",
+    "updatedTime": "2026
+========================================
+=== GetMapData [2026-07-04T08:44:08.574Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd8ab791fcdc2-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "7XW87ZH9"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "289",
+  "ratelimit-reset": "10",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "23428",
+  "etag": "W/\"5b84-8BNvPls7fnDUhj4Ka42GpPG6DdE\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:24.262Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd909fda17e34-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "2PZHC89K"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "299",
+  "ratelimit-reset": "60",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "3260",
+  "etag": "W/\"cbc-8T8bDhtjbc0p/9aM416vQnZDDoM\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:28.591Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd9289f8b7e34-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "8CZC5ZRX"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "297",
+  "ratelimit-reset": "56",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "22688",
+  "etag": "W/\"58a0-COLACVdrLFy6Ku8j47GTe6regbs\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:31.982Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd93dcf2a7e34-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "WFPRF9FR"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "296",
+  "ratelimit-reset": "53",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "12536",
+  "etag": "W/\"30f8-90GpB0MApZEI+u0Jle8/Q3osJk8\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:38.057Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd963c8aa7e34-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "K9Z7XC5Z"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "295",
+  "ratelimit-reset": "47",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "22732",
+  "etag": "W/\"58cc-g6c1Pi7P2B1GmCXpiKEL4o3Fzbc\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:42.683Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd97d3bcff65e-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "G5P9RZ2P"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "293",
+  "ratelimit-reset": "42",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "28780",
+  "etag": "W/\"706c-Aqq4Y919xz7CZql78iSVUIaiwuA\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:47.016Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd99bde4cf65e-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "NW6H5H88"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "292",
+  "ratelimit-reset": "38",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "2812",
+  "etag": "W/\"afc-rD+incKcspRBhjyMHgKXPcWUGuA\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:44:52.532Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15cd9be3b76f816-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "M65Z5MHX"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "290",
+  "ratelimit-reset": "32",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "13804",
+  "etag": "W/\"35ec-BJeRT0qDQVoMvfOzQBe6SQgP5Zg\""
+}
+Body: H4sIAN4KNGoA/+1dS5Mkt3H+L3seRuD94M0HH3SyD74xdGBIK5sRIsWgaIUdDv935wtAooDqqu6dJVcWOc3cGjQKjwSQ+WUCifmfD3/7+NNfv/vLDx++Dm8ffvjP7//5j9/9/NcPX1v65V+/+/iHj/BbsOXtw4/4y7/9948fP3z9zVchhBhs9elNP9rsQoFHF+A5OQtfOWPfUrLeuhLzm83GFhd9MW85pxKNr+7NVhd8Nt5BCdW4kkuuBQqwqZZgHBZWvfexZJffvsrRphxNjm9f+RJLtbbGNxexrujz1IZQIaW6VKCKDN+WErCR8CXUFQqU4AJ86wLUkHxJCV5NbxZeCqlax3mhAqBQcEyp2JK8/cd+TK7WkJI3p4yyJkCeCEN2JwukG2Ocydadvfri42lDriq58eLnf9bc0s8h+RSBZ/WcuSMLFBl98tEHN2fXWS6zv++jDbHCgNs8LXwlLvZCQpUwXjt5LLEm6Fa8k3df7mVtz7z2YuqWUftHF0Cm5RBw4mRbUzCxlH2Ga4488fhVitFhwXYezNEG/awaMUZIFXHVSF3WmBlDu4y055+g4Bw8LECoBmqroHqSxXXlq4EFaYPOoTNPOfatHjmm51GNyr1rW8olhRyj7vVXuVYfRSzBE3yb4NmZCrMHBGp534Ge+zMU6KTxP+XZeJMNdKFoVbzVz1/ZWJzz2CKdIccM2AHapvM6U0xy3pnwlIyqAWoIxvoXs37lALyEarJ3t1TgPvt1gSc5pudfTWndSX/63a6ePnf7lRLSyXuFpIZhANgXMxzmS1tp+xyfIvE05AV5nKAqM+N21VnNDbX89lpbJ0/PfbUqPP6U6FHgX0shbTV4+DqU7FGduGxCMO8u/oZdsrdResWqvS+Mz1xR720vHVZ49dzrkkpJrjicw6AXXAKu41wLoE+doWEAlWNhkN3ELWVXnZhb8HaBXoA8gXkH4w6szWFaibkEV3ww6Qae2+lqqAJ0ly3WhGvujwLmCaD7sUs+e0+xQlueSsF1vk1m6mDseFRm7uUk2td2neO5Xt9J1s8ny2tODoBgUjrigLHs9EwaK0HXfiIdTp6rs1CIN/4tQUmxgkkPxcGMQZQDUtQbA5IsUoty8YB/vCUrCCAToK0IswrqBWbizA6gq2E2HqxO/XwCUBQPVFf2j7fYuIdQJ62aJoPK4mwxMZpUJza4DLlB/Qf9+LK48wWEtaluttcaI/XaVMMz2qt63R9/L96k3/3xw9ffWGMNlG2sA0kN5g6UmRyOWvKIdoBmpLisANTgtwlNIqD0jG8BtUgDpUR6rkgzvZUT0QoYDeQkllwz6jQQYkAz5jfOJ6RYry9YIyhHhzRboglpoedCz5WeKz9j/ooSECg9Y6t8pfyV8lfKXzE/Mo6oQ2qJOkpBHgeDLQk2Q2tBsFak1RC1RBPRTBT6C0gAafZEA6bn6Ijiuzlh/oy9AErPhZ4L5SmUv9C7yJ+QubSK7xbkD8xNQ5SeHT07fAZIRBTLrNT+6ugZVUWoGUqGsUY3BUl2oIUopRBetpZSHD0TsrWBUrBV0RLIIgUCFGGPo7ccQSCHYxQdOSocveUi5YyUEilnRNzkEqUneitTSqE8yM/oHUE5T8+ewFUgtMWeQCrBR3qmcmCuE+VnSi/0TGV6arnAw8rP2LaIKCTSjI0JRzkmqitR+xMiIqDIGXJaAKXnRPlxJsRE5dOsBop5Mo5OzDg6QLEEmsmRRjOCRkZKKaSSIs3PWIk/NTGFEpLBEUnG0jOtI1i8SGndmWiIUh5sT7I4+kAzUUqJlJIwp8OWAMUUQnpA6ZnWoKM16A2va3zXB0qhPD5SesXnYGi94xxLAfuSyC+QAuUJLA1wTNEyRloM0UqSIZEcwPyJWpWo9oSrHig9kxzIhqVEJSmB39IaQYMbZUUgGrGd1WA5lbEwzmd4laEN2QrIE1RSRCndV6SBcgb6NlBKpJRMOTPlJFlkcJSBUmmFUgo/F6Q44jDUmN8ihwFx
+========================================
+=== GetMaps [2026-07-04T08:51:39.559Z] ===
+--- REQUEST ---
+POST /api/GetMaps
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "756",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce3aabac3edf6-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "page": 0,
+  "pageSize": 50,
+  "sort": "Top",
+  "ShowInactive": false
+}
+--- RESPONSE (3ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "294",
+  "ratelimit-reset": "44",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "11963",
+  "etag": "W/\"2ebb-IANdnbNK+p1phlMjp3Fqb/sydSk\""
+}
+Body: [
+  {
+    "mapId": "MR2KGRF7",
+    "mothershipId": "af2e03fd-f27b-48fc-af36-4784aa14d94e",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "AZUS4AAC12",
+    "createdTime": "2026-07-03 01:22:31",
+    "updatedTime": "2026-07-03 01:22:31",
+    "voteCount": 3,
+    "isActive": true
+  },
+  {
+    "mapId": "GMC68CT9",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-18 03:36:02",
+    "updatedTime": "2026-06-18 03:36:02",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7ZRKCRG9",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 03:33:40",
+    "updatedTime": "2026-06-19 03:33:40",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "K9Z7XC5Z",
+    "mothershipId": "8adf8c0c-a341-4d65-af53-5fabb9bc203b",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SPR1TEVR",
+    "createdTime": "2026-06-19 04:04:05",
+    "updatedTime": "2026-06-19 04:04:05",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "8CZC5ZRX",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "PEANUT",
+    "createdTime": "2026-06-19 04:04:14",
+    "updatedTime": "2026-06-19 04:04:14",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "WNG6RGMG",
+    "mothershipId": "86668058-0509-458b-991a-5221bd5c27e8",
+    "userDataMetadataKey": "monkeblocks_slot_1",
+    "nickname": "SUSHI",
+    "createdTime": "2026-06-19 04:26:27",
+    "updatedTime": "2026-06-19 04:26:27",
+    "voteCount": 1,
+    "isActive": true
+  },
+  {
+    "mapId": "7GH5P5K2",
+    "mothershipId": "469e6953-9595-4601-bd74-5993e9dddc62",
+    "userDataMetadataKey": "monkeblocks_slot_2",
+    "nickname": "BRB",
+    "createdTime": "2026-06-19 12:08:53",
+    "updatedTime": "2026
+========================================
+=== GetMapData [2026-07-04T08:51:39.954Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce3b0afc8edf6-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "NPXPW58T"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "292",
+  "ratelimit-reset": "44",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "29428",
+  "etag": "W/\"72f4-WNYFvnE9GzVan+1+M67ojNHTyHs\""
+}
+Body: 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
+========================================
+=== GetMapData [2026-07-04T08:51:54.705Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce40ccc743da0-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "PR27TNKX"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "290",
+  "ratelimit-reset": "29",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "280",
+  "etag": "W/\"118-dUvLxODmseNzCOz4DZon1Fsn/3s\""
+}
+Body: H4sIALYeM2oA/2WOOw+CMBSF/0vnmtxeyqNsDg5MOrgZhwYu2gQKgWo0xv9uy0MHt57z3fR8L3anYTSdZbnkzN7aXWXcyHKcwsFQST4JzvrwPD57YvlJIGZKKCHEeQFFFWrAJAmNHsi6uUKftXO6vBa2ooev4Hux/e8bXVLrkc+IKo3Dd612NBjdLOObMNp560b3xl5WxXmdT4ML7an6UeSr3kILW3ceKBAiVkpKlWYyQuAKEKI0i5IYIpAQtJxpaV/XI7nJ8/0BWQOJ1TUBAAA=
+========================================
+=== GetMapData [2026-07-04T08:51:58.219Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce422d8413da0-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "6R62PNZW"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "289",
+  "ratelimit-reset": "25",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "896",
+  "etag": "W/\"380-Sj8PscW30770gWn9cp+cL/DiBHw\""
+}
+Body: H4sIAElEM2oA/+1XTY8TMQz9Lz0HKXY+Ju6NA4c9wYEb4jBqZ6HStlu1AwIh/ju2M2kySyu0FUIL7NZ68jiO44n9Mtlvi8/D4bi53y2W3ix2n7av1pvxuFiCPrzZDKuBn5DH9qK//bofFst3L0KMCVJ0YP5n9f20Kzdr3hOw6KJhDN6AS64TjCjYgWIUTKon1Ul1yrr4k42KqqMVVH9Sf1J/En9vLSiiICiiWrATdFFy6w/DbtTkHBnvDaNzIj4UpEkPIDrGRsAEq6iCIhy0H8d+9fFmtx6+yEubR/1OSb2cRbHmUT+Jctevhi0H0o0Hn5JBh4HQIEYPnL2zAU5PFBy/PmLy0RvqnPrlB/Le6txoi1ueymEDl4AdOuQ5njnA41LEvN5k0vkZy4BG0VU4020/DodNf1eYA8ijhJ5XeNZ/0nnD7vlAuuv3m92HcvpUalWCzWnWkm1GuYZ4M/o1JJxRsSVkpeWcnA1FW6LO6NqQdkbdE4Ef0Lghc0vpGbEbeheST8hLV4FGWjp3VRw24hpJjVAVbucqoQqfD1XgJLWI+2F9KmKOKRN9iZ9XV8yRZ3oqSxd70BMp2+VF4jk8HVllN6bcFKf9UXywjbLtpSjn7aV8U1mhFv2CfWq/3Gy5LXM7XbLnNs7RpLVyw1+2d20DN9+eC3Zt3dJstbXO22sRb3a391w/sgARYgRPHe8NGbIJKPGRyMduQC+GX3tcMeUKj9+Rx1OJ8S95/Jk9fRoeifh7RuTIRRec3C5kCt8cgw9kUW4NNqHMhcAmkLsG3zi8DbGLwcqfxgDim6Z3FGLKMQKPdsEFq1cWWdbxERH51qJXEY7hmPDUYbQO7XMez3n8DXnw92bcbIfXt7fHYbzif4LvPwDbK/R0yg4AAA==
+========================================
+=== GetMapData [2026-07-04T08:52:09.631Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce4669dc10b09-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "X76F752K"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "286",
+  "ratelimit-reset": "14",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "0",
+  "etag": "W/\"0-2jmj7l5rSw0yVb/vlWAYkK/YBwk\""
+}
+Body: 
+========================================
+=== GetMapData [2026-07-04T08:52:12.145Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce479dc670b09-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "C2XGZZ9Z"
+}
+--- RESPONSE (0ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "285",
+  "ratelimit-reset": "11",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "25828",
+  "etag": "W/\"64e4-EXHvQuY6KUs7hzRkm+0Dtj4UXmk\""
+}
+Body: H4sIAHZENWoA/+19S7PtuK3ef+nx7iq+H55lkIFHuYPMXB502X0TV10/yu7cSiqV/x7iA0hCorSktfbep093H59ltLZEUhT5EQRBgPi/3/3nj//811/+/rfvfhfevvvb//rrf/3zX37613e/8/jj3/7y459+bH/VmN6++wf98d//zz9+/O53f/je2uq9S6HEN5uNSTG6mN++tzUZX0qub9/naFOOJrcE1QWfTUveEiRnQwjO2LecU4nGV7e5m5L11pVWWCvXFhd9MZsSqnEltzeUls2mWoJxLrTb3vtYssv6zd/b7EJpVaUUusrR55CqRY1srbb9r7acMaViS/L2N3iZXK0hJW+2TWJNaA9ia93TVlNJ2n1jjDPZurOsL16eVuTqJTcyfv61bi19HZJPsbVZ3V2b6JOPPrjT+/pjbYi1tbrNZ0NNDaU56nQJM9vJZYk1tZrEO2mfKfeZEi7vHrbDz3d51WazKybTm/eev7qs0Tuzv3ipGe+WIb/jOsfc5oFW8lNMpIbSJgtj/YtJv3dtygnVZO/ucMmTnGcFbgr/ubjTnftP51Xc7HPrf8noVNNPQeLFBLv58EC4UJd3B/GxhKS+64Sv69ubJD8X+3uef22mtxP+ocS8O7enrLgRGxU/8jbYmOjtNXifnaH205fH+c6Ke72qx7f1tZZrdZLjjj+7rs661rDGv6UQTKyehPVaEglupUHdN2nelyYXEsMtvqbqLUSV0N7vawxtYsuufT3L1ErcO2HVLrfEja1tLk/g46xp/VFbgpCzS21N4c979Fjiv+ykYzHhaAr+AqPkBKLPoe5LYfQOGI+vZ28e9+uRKPRVyHC/sMvvQxvYpYkQapirwT0f62E+bupB3none1NjE0r0gA9NJmpzzluTU6oHtmaHHV19iW/+mAXeWYnHtx9/9dGVFlOez/0xK4THK47H73j/Ev4FaegVIeKMAypd0fHt7fXFfHEihh1OI8XZWNqA2dbul8xmtuq/oaZ78fLTalkbC0zUd28uUmc1ALa7zhYTY3uwk1lOZCc10z1z+VEr3aev50dvrq+li+2UHnw1qU0PasI+mfOP871DclCvVFV9TuJ49vpQFDycxw5vblE1rz+GM+8EssMmVkluiG8fk+SsLZu0UC1Ndh97eQ6v63GhGUAIqXVR9kndPWMQmy+82G44Hion7OGk4JNJ6B2S+jsk+Muqp/bB2WZLlfXtaSjZ03wYm2DZ5s28uawN2T6l2EZFLS2/KfbwSiU8zKOfH77pjubqcBms850sibWEfCJUKu3B02ozXcxJ154VGYtznljSyTSrcb+d7OYs8cm6nlaFYoMrbbXx1pq+5U4RM2yMPqbSegC6hGxCpSk7RdOGZNkkeOayFVRse0NSL2u1jq1Vs7/m6b+SJeEz6pPj1fmJLubG9XsWOu+5OlP9vCa/v787jl6gl4ZXu+Iferexsjaj2hp3wuLRtPj6ZHhjatLdcT0bbTF9PEue3T8RUTdVTDSv2DYNuBxbJpIZzi9auzRWlX10cXN9NgZPUjdIVFNMmz/VZWOCprQa20S3G1Nvs2o+f+Xp9bFEeHl5LQ8+yQ9cY7ypfdFzzHU29cw/+8EkQ7jM8fVvO0Fca78mxzQc1DPE6ZcfS0iHa63jVvOtn0sNwT6lK27NUWKshBvvmhRRU4ytXrXVylVrn9MwX1VRvUJfKims1Nh6pclIm1aYfOYEMIeNdyyon5Sw2TKdzE73UEvd5FOqt+aBx51/utY9WAzv0K7XJUepFRude9d6pJ/UWefUTaO6J8TW2ylme3L5gIcfXquaqMuSSpsmGrrU1fdNTmsiqKMaqcvTSeBSN3A9PjVDnIrreXU8uc2WO1ub+NAuzN26nU1RcyDoMeFqYyku2c2g0Xev1kvXl623U2Ml5s6lqkMbzyEaV3mfrkvLJwK5shB7USBXl8c93SSihvvGw1qrtaYLtfoa3gKtt5xP9vBKf4SWfaYp4tXlHU3i4xKcKTWn
+========================================
+=== GetMapData [2026-07-04T08:52:15.564Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce48f3e440b09-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "9KKXT9WX"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "284",
+  "ratelimit-reset": "8",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "328",
+  "etag": "W/\"148-9xvTOn1O71u0VcT2P9WDjYQMN8M\""
+}
+Body: H4sIAD6hM2oA/12PvU7EMBCE38X1nmQ7G/+ko6BIBQUdorCSDVi6OFFiEAjx7qyjHLmjsXbnG2tnvsUHLWuckmgQRHof7/uYV9GobXmM1BFvGsRcxqevmUTzrGXta3QVSlBWSo9Oqupl97Q9O5TUaIHfWhU9LJTyBtDAxlgNOYfurU09fTKwgH/OuxsiQRZyDh2NDMt97TTfrrTzhtEYMi0xnPd0JwWncnXiZucwx/R6qXHEuoQDNIdzpv7auVG4+nI42zRMbPJSqdp7RG8dIjq4ESpt/wsInNgaZ42vjJPOlM45jvQwDCvlvezPL1jXmRyVAQAA
+========================================
+=== GetMapData [2026-07-04T08:52:20.179Z] ===
+--- REQUEST ---
+POST /api/GetMapData
+IP: 2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004
+Headers: {
+  "host": "shared-prod.ctag-cf.com",
+  "user-agent": "UnityPlayer/6000.2.9f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
+  "content-length": "718",
+  "accept": "*/*",
+  "accept-encoding": "gzip, br",
+  "cdn-loop": "cloudflare; loops=1",
+  "cf-connecting-ip": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "cf-ipcountry": "GB",
+  "cf-ray": "a15ce4ac1f360b09-LHR",
+  "cf-visitor": "{\"scheme\":\"https\"}",
+  "cf-warp-tag-id": "a81ce71d-f312-493c-a3b2-be437a6cee57",
+  "connection": "keep-alive",
+  "content-type": "application/json",
+  "x-forwarded-for": "2a00:23c6:cf18:5f01:3a86:92d7:4f2b:5004",
+  "x-forwarded-proto": "https",
+  "x-unity-version": "6000.2.9f1"
+}
+Body: {
+  "mothershipId": "b18a5723-46a4-477d-8de7-7cd4cf168c7f",
+  "mothershipToken": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMThhNTcyMy00NmE0LTQ3N2QtOGRlNy03Y2Q0Y2YxNjhjN2YiLCJkaWQiOiI4MzdjNGU4MC1hMzZjLTQ5YWEtYmJkZS0xOGE1ZmEzMmJiM2QiLCJlbnYiOiI3ZjNhOTlkZC01NTk4LTQ3MjUtOThjZi02NTM4ZDI4ZmViOWYiLCJleHRlcm5hbFNlcnZpY2UiOiJRVUVTVCIsImV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJ0aWQiOiJmM2U5ZmIxOSIsInRhZ3MiOm51bGwsIm9yZ1Njb3BlZEV4dGVybmFsU2VydmljZUlkIjoiMjc4MjE2MzIwNDc0MzQ0ODciLCJuYmYiOjE3ODMxNTQyNDQsImV4cCI6MTc4MzE2MTQ0NCwiaWF0IjoxNzgzMTU0MjQ0fQ.Fycg5FzwoSHJlRUqp7qc0CydL5wDlNI7DBjU-OjD5aOWKcIMG0nEAxGi5wSWuuUBbgHTxYJaXMeeUAADYu_hQA",
+  "mothershipEnvId": "7f3a99dd-5598-4725-98cf-6538d28feb9f",
+  "mapId": "7GH5P5K2"
+}
+--- RESPONSE (1ms) ---
+Status: 200
+Headers: {
+  "content-security-policy": "default-src 'self';script-src 'self' https://unpkg.com 'unsafe-inline';style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;img-src 'self' data: https:;connect-src 'self';font-src 'self' data: https:;base-uri 'self';form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests",
+  "cross-origin-opener-policy": "same-origin",
+  "cross-origin-resource-policy": "same-origin",
+  "origin-agent-cluster": "?1",
+  "referrer-policy": "no-referrer",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-permitted-cross-domain-policies": "none",
+  "x-xss-protection": "0",
+  "access-control-allow-origin": "*",
+  "ratelimit-policy": "300;w=60",
+  "ratelimit-limit": "300",
+  "ratelimit-remaining": "282",
+  "ratelimit-reset": "3",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "44648",
+  "etag": "W/\"ae68-ZlOWYEy+eZX98FFxW7wBZ+OejNU\""
+}
+Body: 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
+========================================
